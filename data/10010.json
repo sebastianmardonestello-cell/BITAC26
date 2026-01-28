@@ -1,5 +1,5 @@
 {
-  "asesor": "Sylvia Farias",
+  "asesor": "",
   "diagnostico": {
     "practicaProblematica": "",
     "dimensionPME": "",
@@ -8,7 +8,7 @@
     "estrategiaAnualPME": "",
     "estandarIndicativo": "",
     "capacidadBasal": "",
-    "estadoCapacidad": "Implementación emergente"
+    "estadoCapacidad": ""
   },
   "planificacion": {
     "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
@@ -97,5 +97,5 @@
     "debilidades": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T15:46:07.302Z"
+  "lastModified": "2026-01-28T15:46:10.014Z"
 }
