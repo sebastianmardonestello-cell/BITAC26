@@ -13,18 +13,7 @@
   "planificacion": {
     "accionPMEVinculada": "",
     "practicaDeseada": "",
-    "actions": [
-      {
-        "id": "action-1769607158717",
-        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
-        "descripcion": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
-        "responsables": [
-          "UTP"
-        ],
-        "fechas": "junio - agosto",
-        "instrumentos": "acta y material utilizado "
-      }
-    ]
+    "actions": []
   },
   "implementacion1": {
     "actions": {
@@ -80,12 +69,12 @@
     }
   },
   "evaluacion": {
-    "estadoFinalPracticaDeseada": "Parcialmente",
+    "estadoFinalPracticaDeseada": "",
     "estadoFinalCapacidadBasal": "Implementación emergente",
     "fortalezas": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
     "oportunidades": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
     "debilidades": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:49:10.904Z"
+  "lastModified": "2026-01-28T13:49:17.082Z"
 }
