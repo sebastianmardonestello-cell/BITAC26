@@ -3,7 +3,7 @@
   "diagnostico": {
     "practicaProblematica": "asd",
     "dimensionPME": "Liderazgo",
-    "subdimensionPME": "",
+    "subdimensionPME": "Liderazgo del sostenedor",
     "objetivoEstrategicoPME": "",
     "estrategiaAnualPME": "",
     "estandarIndicativo": "",
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:02.195Z"
+  "lastModified": "2026-01-28T16:14:04.115Z"
 }
