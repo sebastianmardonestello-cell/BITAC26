@@ -19,7 +19,7 @@
         "tipoAccion": "Capacitación",
         "descripcion": "",
         "responsables": [],
-        "fechas": "",
+        "fechas": "m",
         "instrumentos": ""
       }
     ]
@@ -41,5 +41,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:23.828Z"
+  "lastModified": "2026-01-28T13:32:26.495Z"
 }
