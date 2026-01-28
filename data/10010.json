@@ -4,10 +4,10 @@
     "practicaProblematica": "ad",
     "dimensionPME": "Gestión Pedagógica",
     "subdimensionPME": "Enseñanza y aprendizaje en el aula",
-    "objetivoEstrategicoPME": "as",
-    "estrategiaAnualPME": "",
-    "estandarIndicativo": "",
-    "capacidadBasal": "",
+    "objetivoEstrategicoPME": "asd",
+    "estrategiaAnualPME": "ads",
+    "estandarIndicativo": "6.2 El equipo directivo, en conjunto con los docentes, implementan estrategias efectivas para potenciar a los estudiantes con intereses diversos y habilidades destacadas.",
+    "capacidadBasal": "Reflexión",
     "estadoCapacidad": ""
   },
   "planificacion": {
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:31.915Z"
+  "lastModified": "2026-01-28T16:14:34.939Z"
 }
