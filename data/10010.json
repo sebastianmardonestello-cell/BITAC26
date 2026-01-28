@@ -1,8 +1,8 @@
 {
   "asesor": "Camila Suárez",
   "diagnostico": {
-    "practicaProblematica": "",
-    "dimensionPME": "",
+    "practicaProblematica": "ad",
+    "dimensionPME": "Gestión Pedagógica",
     "subdimensionPME": "",
     "objetivoEstrategicoPME": "",
     "estrategiaAnualPME": "",
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:27.531Z"
+  "lastModified": "2026-01-28T16:14:30.419Z"
 }
