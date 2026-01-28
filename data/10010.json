@@ -39,7 +39,8 @@
   "implementacion1": {
     "actions": {
       "action-1769607140379": {
-        "fecha": "2026-03-13"
+        "fecha": "2026-03-13",
+        "avance": 24
       }
     }
   },
@@ -57,5 +58,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:33:09.583Z"
+  "lastModified": "2026-01-28T13:33:12.009Z"
 }
