@@ -78,7 +78,11 @@
         "fecha": "2026-05-28",
         "avance": 100,
         "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
+        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
+        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
+      },
+      "action-1769607158717": {
+        "fecha": "2026-10-22"
       }
     }
   },
@@ -90,5 +94,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:34:59.974Z"
+  "lastModified": "2026-01-28T13:35:06.027Z"
 }
