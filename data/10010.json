@@ -13,7 +13,16 @@
   "planificacion": {
     "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
     "practicaDeseada": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
-    "actions": []
+    "actions": [
+      {
+        "id": "action-1769607140379",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
   },
   "implementacion1": {
     "actions": {}
@@ -32,5 +41,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:18.214Z"
+  "lastModified": "2026-01-28T13:32:20.379Z"
 }
