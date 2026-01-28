@@ -1,13 +1,13 @@
 {
-  "asesor": "",
+  "asesor": "Camila Suárez",
   "diagnostico": {
-    "practicaProblematica": "asd",
-    "dimensionPME": "Liderazgo",
-    "subdimensionPME": "Liderazgo del sostenedor",
-    "objetivoEstrategicoPME": "asd",
-    "estrategiaAnualPME": "asdasd",
-    "estandarIndicativo": "2.4 El director instaura en el personal una cultura de compromiso y colaboración con la tarea educativa.",
-    "capacidadBasal": "Colaboración",
+    "practicaProblematica": "",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
     "estadoCapacidad": ""
   },
   "planificacion": {
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:08.747Z"
+  "lastModified": "2026-01-28T16:14:27.531Z"
 }
