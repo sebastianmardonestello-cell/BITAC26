@@ -3,8 +3,8 @@
   "diagnostico": {
     "practicaProblematica": "asdasd",
     "dimensionPME": "Liderazgo",
-    "subdimensionPME": "",
-    "objetivoEstrategicoPME": "",
+    "subdimensionPME": "Liderazgo del director",
+    "objetivoEstrategicoPME": "a",
     "estrategiaAnualPME": "",
     "estandarIndicativo": "",
     "capacidadBasal": "",
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:13:07.139Z"
+  "lastModified": "2026-01-28T16:13:08.924Z"
 }
