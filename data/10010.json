@@ -3,8 +3,8 @@
   "diagnostico": {
     "practicaProblematica": "ad",
     "dimensionPME": "Gestión Pedagógica",
-    "subdimensionPME": "",
-    "objetivoEstrategicoPME": "",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "as",
     "estrategiaAnualPME": "",
     "estandarIndicativo": "",
     "capacidadBasal": "",
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:30.419Z"
+  "lastModified": "2026-01-28T16:14:31.915Z"
 }
