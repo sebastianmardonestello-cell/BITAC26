@@ -1,13 +1,13 @@
 {
   "asesor": "Camila Suárez",
   "diagnostico": {
-    "practicaProblematica": "ad",
-    "dimensionPME": "Gestión Pedagógica",
-    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
-    "objetivoEstrategicoPME": "asd",
-    "estrategiaAnualPME": "ads",
-    "estandarIndicativo": "6.2 El equipo directivo, en conjunto con los docentes, implementan estrategias efectivas para potenciar a los estudiantes con intereses diversos y habilidades destacadas.",
-    "capacidadBasal": "Reflexión",
+    "practicaProblematica": "",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
     "estadoCapacidad": ""
   },
   "planificacion": {
@@ -16,57 +16,13 @@
     "actions": []
   },
   "implementacion1": {
-    "actions": {
-      "action-1769607140379": {
-        "fecha": "2026-03-13",
-        "avance": 49,
-        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
-        "logros": "Jornada de reflxión pedagógica para evaluar y fortalecer el plan diseñado, con el fin de favorecer los aprendizajes de los/as estudiantes implicados (4° y 5° Básico), profundizando en el Decreto 373 y en la política pública que dice relación con las transiciones educativas.",
-        "acuerdos": "Jornada de reflxión pedagógica para evaluar y fortalecer el plan diseñado, con el fin de favorecer los aprendizajes de los/as estudiantes implicados (4° y 5° Básico), profundizando en el Decreto 373 y en la política pública que dice relación con las transiciones educativas."
-      },
-      "action-1769607158717": {
-        "fecha": "2026-07-08",
-        "avance": 24,
-        "justificacion": "El establecimiento consideró que la acción no estaba contribuyendo al objetivo e interrumpió su implementación.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
-        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
-      }
-    }
+    "actions": {}
   },
   "implementacion2": {
-    "actions": {
-      "action-1769607140379": {
-        "fecha": "2026-04-17",
-        "avance": 99,
-        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
-        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
-      },
-      "action-1769607158717": {
-        "fecha": "2026-09-17",
-        "avance": 0,
-        "justificacion": "Ciertas condiciones relacionadas con el tiempo, los recursos humanos y/o materiales o la infraestructura no permitieron la adecuada implementación de la acción.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
-        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
-      }
-    }
+    "actions": {}
   },
   "implementacion3": {
-    "actions": {
-      "action-1769607140379": {
-        "fecha": "2026-05-28",
-        "avance": 100,
-        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
-        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
-      },
-      "action-1769607158717": {
-        "fecha": "2026-10-22",
-        "justificacion": "La asignación de los recursos para la implementación de la acción fue interrumpida.",
-        "logros": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
-        "acuerdos": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026."
-      }
-    }
+    "actions": {}
   },
   "evaluacion": {
     "estadoFinalPracticaDeseada": "",
@@ -76,5 +32,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:34.939Z"
+  "lastModified": "2026-01-28T16:19:13.091Z"
 }
