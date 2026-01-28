@@ -17,9 +17,11 @@
       {
         "id": "action-1769607140379",
         "tipoAccion": "Capacitación",
-        "descripcion": "",
-        "responsables": [],
-        "fechas": "marzo a j",
+        "descripcion": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+        "responsables": [
+          "U"
+        ],
+        "fechas": "marzo a junio ",
         "instrumentos": ""
       }
     ]
@@ -41,5 +43,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:27.996Z"
+  "lastModified": "2026-01-28T13:32:34.523Z"
 }
