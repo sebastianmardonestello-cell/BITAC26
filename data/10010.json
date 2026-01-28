@@ -1,8 +1,8 @@
 {
   "asesor": "",
   "diagnostico": {
-    "practicaProblematica": "a",
-    "dimensionPME": "",
+    "practicaProblematica": "asd",
+    "dimensionPME": "Liderazgo",
     "subdimensionPME": "",
     "objetivoEstrategicoPME": "",
     "estrategiaAnualPME": "",
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:14:00.517Z"
+  "lastModified": "2026-01-28T16:14:02.195Z"
 }
