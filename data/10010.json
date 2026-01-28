@@ -1,19 +1,40 @@
 {
-  "asesor": "",
+  "asesor": "Sylvia Farias",
   "diagnostico": {
-    "practicaProblematica": "",
-    "dimensionPME": "",
-    "subdimensionPME": "",
-    "objetivoEstrategicoPME": "",
-    "estrategiaAnualPME": "",
-    "estandarIndicativo": "",
-    "capacidadBasal": "",
-    "estadoCapacidad": ""
+    "practicaProblematica": "Implementar lineamientos pedagógicos con los docentes de matemáticas, favoreciendo la implementación de  prácticas comunes en la disciplina.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+    "estrategiaAnualPME": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Implementación emergente"
   },
   "planificacion": {
-    "accionPMEVinculada": "",
-    "practicaDeseada": "",
-    "actions": []
+    "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1769607140379",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+        "responsables": [
+          ""
+        ],
+        "fechas": "marzo a junio ",
+        "instrumentos": "acta"
+      },
+      {
+        "id": "action-1769607158717",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Reunión de acompañamiento y reflexión  para revisar los acuerdos, fortalezas y debilidades que fueron detectadas , con el fin de tomar decisiones  desde la gestión curricular, proyectar mejoras y fortalecer el aprendizaje en la enseñanza de la matemáticas: planificar la articulación entre ciclos, fortalecer la didáctica, realizar reuniones periódicas con los docentes de la asignatura. ",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "junio - agosto",
+        "instrumentos": "acta y material utilizado "
+      }
+    ]
   },
   "implementacion1": {
     "actions": {
@@ -69,12 +90,12 @@
     }
   },
   "evaluacion": {
-    "estadoFinalPracticaDeseada": "",
-    "estadoFinalCapacidadBasal": "",
-    "fortalezas": "",
-    "oportunidades": "",
-    "debilidades": "",
+    "estadoFinalPracticaDeseada": "Parcialmente",
+    "estadoFinalCapacidadBasal": "Implementación emergente",
+    "fortalezas": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
+    "oportunidades": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
+    "debilidades": "Considerando el logro parcial del objetivo 2025, se propone mantener la codocencia como práctica de acompañamiento pedagógico institucionalizada y redefinir el foco del problema de práctica a partir del análisis de resultados de evaluaciones estandarizadas y evaluaciones internas del establecimiento, priorizando las SEAT. Este diagnóstico permitirá identificar brechas de aprendizaje relevantes y orientar el acompañamiento docente de manera más focalizada, fortaleciendo la toma de decisiones pedagógicas basada en evidencia para el trabajo 2026.",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T15:20:30.104Z"
+  "lastModified": "2026-01-28T15:24:59.026Z"
 }
