@@ -1,13 +1,13 @@
 {
   "asesor": "",
   "diagnostico": {
-    "practicaProblematica": "asdasd",
-    "dimensionPME": "Liderazgo",
-    "subdimensionPME": "Liderazgo del director",
-    "objetivoEstrategicoPME": "asd",
-    "estrategiaAnualPME": "asd",
-    "estandarIndicativo": "2.2 El director conduce de manera efectiva el funcionamiento general del establecimiento.",
-    "capacidadBasal": "Reflexión",
+    "practicaProblematica": "a",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
     "estadoCapacidad": ""
   },
   "planificacion": {
@@ -76,5 +76,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:13:11.963Z"
+  "lastModified": "2026-01-28T16:14:00.517Z"
 }
