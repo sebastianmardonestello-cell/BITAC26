@@ -32,12 +32,16 @@
           "UTP"
         ],
         "fechas": "junio - agosto",
-        "instrumentos": "acta y material uti"
+        "instrumentos": "acta y material utilizado "
       }
     ]
   },
   "implementacion1": {
-    "actions": {}
+    "actions": {
+      "action-1769607140379": {
+        "fecha": "2026-01-29"
+      }
+    }
   },
   "implementacion2": {
     "actions": {}
@@ -53,5 +57,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:59.988Z"
+  "lastModified": "2026-01-28T13:33:06.565Z"
 }
