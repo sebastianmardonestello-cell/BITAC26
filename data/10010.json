@@ -22,7 +22,15 @@
           "UTP"
         ],
         "fechas": "marzo a junio ",
-        "instrumentos": "a"
+        "instrumentos": "acta"
+      },
+      {
+        "id": "action-1769607158717",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
       }
     ]
   },
@@ -43,5 +51,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:36.996Z"
+  "lastModified": "2026-01-28T13:32:38.717Z"
 }
