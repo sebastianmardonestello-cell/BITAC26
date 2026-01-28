@@ -1,8 +1,8 @@
 {
   "asesor": "Muriel Garrido",
   "diagnostico": {
-    "practicaProblematica": "",
-    "dimensionPME": "",
+    "practicaProblematica": "asd",
+    "dimensionPME": "Convivencia Escolar",
     "subdimensionPME": "",
     "objetivoEstrategicoPME": "",
     "estrategiaAnualPME": "",
@@ -32,5 +32,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T16:27:31.610Z"
+  "lastModified": "2026-01-28T16:27:33.930Z"
 }
