@@ -16,7 +16,7 @@
     "actions": [
       {
         "id": "action-1769607140379",
-        "tipoAccion": "",
+        "tipoAccion": "Capacitación",
         "descripcion": "",
         "responsables": [],
         "fechas": "",
@@ -41,5 +41,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:32:20.379Z"
+  "lastModified": "2026-01-28T13:32:23.828Z"
 }
