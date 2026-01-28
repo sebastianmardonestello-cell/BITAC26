@@ -58,7 +58,8 @@
     "actions": {
       "action-1769607140379": {
         "fecha": "2026-04-17",
-        "avance": 24
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas."
       }
     }
   },
@@ -73,5 +74,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-28T13:34:22.320Z"
+  "lastModified": "2026-01-28T13:34:25.056Z"
 }
