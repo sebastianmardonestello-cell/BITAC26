@@ -1,0 +1,55 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula gestiona débilmente los tiempos pedagógicos para el logro de los objetivos de aprendizaje en la asignatura de Matemática en 8° básico, lo que limita el fortalecimiento de las prácticas docentes y afecta negativamente los aprendizajes y la trayectoria escolar de los estudiantes, quienes presentan bajos resultados y requieren un acompañamiento focalizado.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Mejorar el sistema de observación al aula con la retroalimentación de equipo directivo y entre pares.\n\n",
+    "estrategiaAnualPME": "Fortalecer trabajo colaborativo en comunidades de aprendizaje en las asignaturas de lenguaje y matemática con docentes PIE ",
+    "estandarIndicativo": "5.6 Los docentes hacen uso efectivo del tiempo de clases para que se destine al proceso de enseñanza-aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula gestiona de manera efectiva los tiempos pedagógicos en Matemática, fortaleciendo su planificación y prácticas docentes para mejorar los aprendizajes y acompañar oportunamente a los estudiantes de 8° básico",
+    "actions": [
+      {
+        "id": "action-1769781024584",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Diagnóstico pedagógico del uso del tiempo\nLevantar información sobre la gestión del tiempo y cobertura curricular en clases de Matemática de 8° básico, a través de observaciones, revisión de planificaciones y resultados de aprendizaje.",
+        "responsables": [
+          "Director"
+        ],
+        "fechas": "MARZO-ABRIL",
+        "instrumentos": "Material utilizado para el análisis en diagnóstico pedagógico."
+      },
+      {
+        "id": "action-1769781278218",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Planificación ajustada y colaborativa\nDiseñar una planificación semestral priorizada y flexible, construida en conjunto con el equipo técnico-pedagógico, que permita continuidad pedagógica ante eventuales contingencias.",
+        "responsables": [],
+        "fechas": "Mayo- noviembre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T13:56:04.435Z"
+}
