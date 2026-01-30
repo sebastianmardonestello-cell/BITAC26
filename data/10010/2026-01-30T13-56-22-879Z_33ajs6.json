@@ -1,0 +1,55 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo técnico implementa incipientes lineamientos pedagógicos con los docentes de matemáticas, dificultando el desarrollo de criterios unificados que generen metodologías especificas de la enseñanza de la disciplina.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar las estrategias metodológicas para mejorar los resultados de aprendizaje de todos los estudiantes a través de la integración curricular.               ",
+    "estrategiaAnualPME": "Jornadas de análisis y discusión de datos con foco en la mejora de los aprendizajes.",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "El equipo técnico implementa lineamientos pedagógicos con los docentes de matemáticas, favoreciendo la implementación de  prácticas comunes en la disciplina.",
+    "actions": [
+      {
+        "id": "action-1769781290138",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "El equipo directivo  organizará esta jornada cuyo foco es  mostrar evidencia de los resultados académicos para  levantar la necesidad de fortalecer los  lineamientos de la asignatura. Como producto de esta jornada es la construcción de un plan de trabajo en conjunto con los docentes de matemáticas para generar acuerdos colaborativamente. ",
+        "responsables": [
+          "Director-UTP"
+        ],
+        "fechas": "",
+        "instrumentos": "Presentación, plan de trabajo de matemáticas. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769781290138": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T13:56:22.879Z"
+}
