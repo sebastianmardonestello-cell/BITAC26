@@ -1,0 +1,36 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de segundo ciclo desarrollan estrategias de enseñanza aprendizaje tradicionales, limitando el logro de los objetivos de aprendizaje. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "Perfeccionar políticas, procedimientos y prácticas de organización, preparación, implementación y evaluación del proceso educativo para la mejora en el logro de los aprendizajes de los/as estudiantes, considerando las necesidades y potencialidades de cada uno de ellos/as.\n",
+    "estrategiaAnualPME": "Perfeccionar  procedimientos que faciliten el trabajo coordinado de los diverestes equipos dentro del estblecimiento, consolidando los procesos de trabajo colaborativio.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T14:05:19.451Z"
+}
