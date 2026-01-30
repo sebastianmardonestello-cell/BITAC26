@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "65",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T12:39:20.731Z"
+}
