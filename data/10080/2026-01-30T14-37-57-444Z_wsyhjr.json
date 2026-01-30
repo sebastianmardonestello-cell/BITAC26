@@ -1,0 +1,135 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula gestiona débilmente los tiempos pedagógicos para el logro de los objetivos de aprendizaje en la asignatura de Matemática en 8° básico, lo que limita el fortalecimiento de las prácticas docentes y afecta negativamente los aprendizajes y la trayectoria escolar de los estudiantes, quienes presentan bajos resultados y requieren un acompañamiento focalizado.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Mejorar el sistema de observación al aula con la retroalimentación de equipo directivo y entre pares.\n\n",
+    "estrategiaAnualPME": "Fortalecer trabajo colaborativo en comunidades de aprendizaje en las asignaturas de lenguaje y matemática con docentes PIE ",
+    "estandarIndicativo": "5.6 Los docentes hacen uso efectivo del tiempo de clases para que se destine al proceso de enseñanza-aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula gestiona de manera efectiva los tiempos pedagógicos en Matemática, fortaleciendo su planificación y prácticas docentes para mejorar los aprendizajes y acompañar oportunamente a los estudiantes de 8° básico",
+    "actions": [
+      {
+        "id": "action-1769781024584",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Diagnóstico pedagógico del uso del tiempo\nLevantar información sobre la gestión del tiempo y cobertura curricular en clases de Matemática de 8° básico, a través de observaciones, revisión de planificaciones y resultados de aprendizaje.",
+        "responsables": [
+          "Director"
+        ],
+        "fechas": "MARZO-ABRIL",
+        "instrumentos": "Material utilizado para el análisis en diagnóstico pedagógico."
+      },
+      {
+        "id": "action-1769781278218",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Planificación ajustada y colaborativa\nDiseñar una planificación semestral priorizada y flexible, construida en conjunto con el equipo técnico-pedagógico, que permita continuidad pedagógica ante eventuales contingencias.",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Mayo- noviembre",
+        "instrumentos": "Ficha técnica y planificaciones (muestra)"
+      },
+      {
+        "id": "action-1769781402599",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento técnico y apoyo focalizado a estudiantes\nImplementar estrategias de acompañamiento en aula y reforzamiento focalizado para estudiantes con bajos desempeños, promoviendo el trabajo colaborativo entre docentes y equipo de apoyo.",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Mayo-Noviembre",
+        "instrumentos": "Pautas de acompañamiento y planificaciones (muestra)"
+      },
+      {
+        "id": "action-1769781503898",
+        "tipoAccion": "Otra",
+        "descripcion": "Evaluación del proceso y ajustes estratégicos\nMonitorear periódicamente el avance en aprendizajes y el uso del tiempo pedagógico, ajustando prácticas docentes y apoyos según los resultados obtenidos y las necesidades emergentes.",
+        "responsables": [
+          "Director"
+        ],
+        "fechas": "Mayo- Diciembre",
+        "instrumentos": "Acta de acuerdos"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769781024584": {
+        "fecha": "2025-08-20",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "\nSe realizó el levantamiento de información sobre la gestión del tiempo pedagógico y la cobertura curricular en las clases de Matemática de 8° básico, a través de observaciones en aula, revisión de planificaciones y análisis de los resultados de aprendizaje. Este proceso ha permitido visibilizar fortalezas y nudos críticos en la organización del tiempo y en el cumplimiento de los objetivos priorizados, generando insumos relevantes para orientar la toma de decisiones pedagógicas.",
+        "acuerdos": "Se define continuar con las observaciones y sistematizar la información recogida, de manera que, en la próxima visita, se pueda contar con un diagnóstico más acabado que fundamente los ajustes en la planificación y en las estrategias de apoyo al nivel."
+      },
+      "action-1769781278218": {
+        "fecha": "2025-08-20",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se propone la elaboración de una planificación semestral priorizada y flexible, diseñada en conjunto con el equipo técnico-pedagógico. Este trabajo colaborativo permitió considerar los objetivos de aprendizaje esenciales, prever eventuales contingencias y asegurar la continuidad pedagógica en el proceso formativo de los estudiantes. La planificación del primer semestre se encuentra concluida, y resta la elaboración correspondiente al segundo semestre, que se trabajará en la siguiente visita programada para el jueves 4 de septiembre a las 15:30 hrs.",
+        "acuerdos": "Se establece que el equipo docente y técnico-pedagógico trabajará de manera conjunta en el diseño de la planificación del segundo semestre, incorporando aprendizajes de la experiencia anterior y ajustando la propuesta a las necesidades emergentes de los estudiantes."
+      },
+      "action-1769781402599": {
+        "fecha": "2025-08-20",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se establece que el equipo docente y técnico-pedagógico trabajará de manera conjunta en el diseño de la planificación del segundo semestre, incorporando aprendizajes de la experiencia anterior y ajustando la propuesta a las necesidades emergentes de los estudiantes.",
+        "acuerdos": "Se determina iniciar la aplicación de estas estrategias en el próximo ciclo de clases observadas, priorizando a los estudiantes que presentan mayores brechas de aprendizaje. El equipo docente se compromete a compartir evidencias y resultados de las intervenciones para retroalimentar colectivamente el proceso."
+      },
+      "action-1769781503898": {
+        "fecha": "2025-08-20",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se acuerda evaluar, al finalizar el semestre, el avance en el desarrollo de habilidades de los estudiantes en general, utilizando las observaciones de aula, las planificaciones y las autoevaluaciones docentes como base para realizar los ajustes necesarios en las prácticas pedagógicas.",
+        "acuerdos": "Apoyar en datos de octavo con TICS."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1769781024584": {
+        "fecha": "2025-09-24",
+        "avance": 99,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769781278218": {
+        "fecha": "2025-09-24",
+        "avance": 99,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769781402599": {
+        "fecha": "",
+        "avance": 74,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769781503898": {
+        "fecha": "",
+        "avance": 74,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "Parcialmente",
+    "estadoFinalCapacidadBasal": "Implementación satisfactoria",
+    "fortalezas": "El proceso desarrolló importantes fortalezas internas que permitieron sostener el trabajo pedagógico en la asignatura de Matemática. Destaca el apoyo del equipo PIE y la diversificación implementada, junto con un monitoreo sistemático que facilitó la realización de ajustes oportunos. Las docentes involucradas poseen un buen manejo disciplinar y han participado en instancias de formación continua orientadas a la mejora de resultados, lo que favoreció la consolidación de prácticas más efectivas. Además, ambos cursos mantuvieron una asistencia regular, lo que permitió avanzar en los objetivos propuestos.\nSe diseñaron y entregaron recursos adicionales para fortalecer habilidades matemáticas, y se evidenció una buena disposición al trabajo colaborativo entre docentes y equipos de apoyo. Finalmente, se protegieron tiempos para comunidades formativas de reflexión, contribuyendo a la continuidad del proceso.\n",
+    "oportunidades": "El establecimiento cuenta con oportunidades externas relevantes que fortalecen el proceso de enseñanza-aprendizaje. La vinculación con ADECO en el desarrollo de habilidades del siglo XXI permite instalar prácticas que proyectan continuidad para el próximo año. Asimismo, se inició el trabajo con comunidades de aprendizaje específicas en Matemática, lo que potencia el análisis pedagógico y la optimización del tiempo en el aula. Estas instancias favorecen la proyección de acciones y permiten anticipar eventuales desafíos. El PIE ha mostrado motivación para participar en procesos de formación continua vinculados a la asignatura, lo que amplía las posibilidades de mejora. A su vez, la existencia de una sala de matemáticas con variedad de materiales constituye un recurso externo complementario. Una de las docentes también ha participado en capacitaciones externas que enriquecen la formación profesional y abren nuevas oportunidades de fortalecimiento pedagógico",
+    "debilidades": "A pesar de los avances, persisten debilidades internas que afectan la continuidad y sistematicidad del proceso. Se identificó falta de continuidad en la implementación de prácticas debido a ausencias reiteradas de docentes, lo que debilitó la posibilidad de concretar todas las visitas planificadas al aula. Esto dificultó la instalación completa de los ajustes propuestos y limitó el seguimiento del proceso. Asimismo, se observó un uso poco eficiente del material disponible en la escuela, lo que impide aprovechar plenamente los recursos diseñados para apoyar la enseñanza de Matemática.\nEstas debilidades reflejan la necesidad de fortalecer la organización interna y asegurar condiciones que permitan la implementación sostenida de las acciones pedagógicas previstas.\n",
+    "amenazas": "Entre las amenazas externas que podrían afectar la continuidad del proceso se encuentra la posibilidad de que las docentes enfrenten dificultades de salud u otras contingencias que impidan participar en los procesos planificados. Esto podría comprometer la obtención de los resultados esperados en evaluaciones externas y generar incertidumbre en la proyección del trabajo pedagógico. Además, podrían surgir problemas de clima laboral asociados a la sobrecarga de funciones o situaciones desgastantes que afecten el bienestar del equipo docente.\nFinalmente, existen posibles aprehensiones respecto a la continuidad de procesos pedagógicos impulsados desde instancias externas, lo que podría influir negativamente en la motivación y en la estabilidad de las acciones implementadas.\n"
+  },
+  "lastModified": "2026-01-30T14:37:57.444Z"
+}
