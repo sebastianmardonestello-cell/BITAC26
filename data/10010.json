@@ -1,7 +1,7 @@
 {
   "asesor": "Johana González",
   "diagnostico": {
-    "practicaProblematica": "",
+    "practicaProblematica": "a",
     "dimensionPME": "",
     "subdimensionPME": "",
     "objetivoEstrategicoPME": "",
@@ -32,5 +32,5 @@
     "debilidades": "",
     "amenazas": ""
   },
-  "lastModified": "2026-01-30T11:39:31.714Z"
+  "lastModified": "2026-01-30T11:40:25.245Z"
 }
