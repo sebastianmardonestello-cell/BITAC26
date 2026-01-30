@@ -1,0 +1,48 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de cuarto básico implementa estrategias de lectura de forma poco sistemática, lo que limita el logro de los objetivos de aprendizaje",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar un modelo pedagógico colaborativo a través de la articulación de prácticas docentes de aula para el desarrollo de habilidades de lectura, matemáticas y socioemocionales de los estudiantes.",
+    "estrategiaAnualPME": "Planificación con instancias de colaboración para el intercambio y articulación de prácticas pedagógicas  ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de cuarto básico implementa estrategias de lectura de forma sistemática, propiciando el logro de los objetivos de aprendizaje",
+    "actions": [
+      {
+        "id": "action-1769783605245",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Se presenta la estrategia LEC a los docentes, a través de ejemplos de implementación desde el curriculum. ",
+        "responsables": [
+          "Jefatura UTP",
+          "Director"
+        ],
+        "fechas": "Mayo a Junio",
+        "instrumentos": "Acta de la actividad. (desarrollo de la actividad, lista de asistencia)  "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T14:34:25.135Z"
+}
