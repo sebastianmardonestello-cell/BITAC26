@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula gestiona débilmente los tiempos pedagógicos para el logro de los objetivos de aprendizaje en la asignatura de Matemática en 8° básico, lo que limita el fortalecimiento de las prácticas docentes y afecta negativamente los aprendizajes y la trayectoria escolar de los estudiantes, quienes presentan bajos resultados y requieren un acompañamiento focalizado.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Mejorar el sistema de observación al aula con la retroalimentación de equipo directivo y entre pares.\nFortalecer trabajo colaborativo en comunidades de aprendizaje en las asignaturas de lenguaje y matemática con docentes PIE \n",
+    "estrategiaAnualPME": "Mejorar el sistema de observación al aula con la retroalimentación de equipo directivo y entre pares.\nFortalecer trabajo colaborativo en comunidades de aprendizaje en las asignaturas de lenguaje y matemática con docentes PIE ",
+    "estandarIndicativo": "5.6 Los docentes hacen uso efectivo del tiempo de clases para que se destine al proceso de enseñanza-aprendizaje.",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T13:47:31.746Z"
+}
