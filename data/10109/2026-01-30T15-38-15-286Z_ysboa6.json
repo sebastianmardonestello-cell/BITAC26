@@ -1,0 +1,57 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico del segundo ciclo no garantiza el desarrollo de los aprendizajes fundamentales en cada nivel, particularmente en lo relacionado con las habilidades de razonamiento lógico y resolución de problemas en el área de Matemática. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "OE:  Profundizar competencias didácticas de los docentes para lograr efectivamente el desarrollo de habilidades intelectuales superiores en los estudiantes, en el marco del modelo pedagógico institucional indagativo-constructivo.\n",
+    "estrategiaAnualPME": "EA: Acompañamiento a docentes de aula, con foco en las competencias didácticas para el desarrollo de habilidades intelectuales superiores.",
+    "estandarIndicativo": "6.2 El equipo directivo, en conjunto con los docentes, implementan estrategias efectivas para potenciar a los estudiantes con intereses diversos y habilidades destacadas.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico del segundo ciclo asegura el desarrollo progresivo y sistemático de los aprendizajes fundamentales en cada nivel, con especial énfasis en las habilidades de razonamiento lógico y resolución de problemas en Matemática. Para ello, se implementan estrategias didácticas coherentes y articuladas, se monitorean los avances de los estudiantes y se fortalece el trabajo colaborativo entre docentes, garantizando así trayectorias de aprendizaje consistentes y de calidad.",
+    "actions": [
+      {
+        "id": "action-1769787371311",
+        "tipoAccion": "Taller",
+        "descripcion": "Analizar en profundidad los resultados disponibles (SIMCE y Evaluaciones DIA) para identificar patrones de bajo desempeño en habilidades de razonamiento lógico y resolución de problemas. Este análisis se desarrollará mediante talleres de revisión colaborativa con los docentes del segundo ciclo, focalizando en cursos críticos, brechas por habilidad y factores pedagógicos asociados.",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Abril",
+        "instrumentos": "RESULTADOS DIA"
+      },
+      {
+        "id": "action-1769787446922",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Diseñar un plan de fortalecimiento progresivo de las habilidades matemáticas de orden superior, articulando los niveles de 5° a 8° básico a través de una secuenciación didáctica alineada con los objetivos del currículum.\nEl plan incluirá: el diseño de estrategias específicas por nivel, la integración de metodologías activas —como el Aprendizaje Basado en Problemas—, la elaboración de instrumentos de evaluación formativa y un cronograma de acciones. Se considerará la diversidad del estudiantado mediante estrategias diferenciadas y el trabajo colaborativo con el equipo PIE.\nEste proceso será monitoreado mediante el acompañamiento docente en aula, utilizando indicadores asociados a las Habilidades de Orden Superior en Matemática (HOSM), con el propósito de entregar retroalimentación formativa a los docentes.",
+        "responsables": [
+          "utp"
+        ],
+        "fechas": "Mayo- Diciembre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T15:38:15.286Z"
+}
