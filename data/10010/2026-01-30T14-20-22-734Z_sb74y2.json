@@ -1,0 +1,107 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo técnico implementa incipientes lineamientos pedagógicos con los docentes de matemáticas, dificultando el desarrollo de criterios unificados que generen metodologías especificas de la enseñanza de la disciplina.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar las estrategias metodológicas para mejorar los resultados de aprendizaje de todos los estudiantes a través de la integración curricular.               ",
+    "estrategiaAnualPME": "Jornadas de análisis y discusión de datos con foco en la mejora de los aprendizajes.",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "El equipo técnico implementa lineamientos pedagógicos con los docentes de matemáticas, favoreciendo la implementación de  prácticas comunes en la disciplina.",
+    "actions": [
+      {
+        "id": "action-1769781290138",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "El equipo directivo  organizará esta jornada cuyo foco es  mostrar evidencia de los resultados académicos para  levantar la necesidad de fortalecer los  lineamientos de la asignatura. Como producto de esta jornada es la construcción de un plan de trabajo en conjunto con los docentes de matemáticas para generar acuerdos colaborativamente. ",
+        "responsables": [
+          "Director-UTP"
+        ],
+        "fechas": "Julio-Agosto",
+        "instrumentos": "Presentación, plan de trabajo de matemáticas. "
+      },
+      {
+        "id": "action-1769781552433",
+        "tipoAccion": "Capacitación",
+        "descripcion": "El equipo directivo promueve la participación de los docentes de matemáticas a las instancias de capacitación para conocer metodologías específicas en matemáticas: Clínica de matemáticas, uso de material de carro de matemáticas, etc. Los docentes deben compartir lo aprendido en dichas instancias. ",
+        "responsables": [
+          "Docentes-matemáticas-establecimiento"
+        ],
+        "fechas": "Agosto- Septiembre",
+        "instrumentos": "Asistencia de docentes a las diferentes instancias. Producto de las presentaciones a compartir. "
+      },
+      {
+        "id": "action-1769782411520",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "El equipo directivo y de gestión, junto al sostenedor (asesora pedagógica), realizan un seguimiento  a la ejecución de los lineamientos  acordados durante el acompañamiento al aula, observando interacciones pedagógicas a fortalecer a través de una reunión donde se de cuenta de los lineamientos implementados y los que faltan implementar a la fecha.  ",
+        "responsables": [
+          "UTP-Asesor"
+        ],
+        "fechas": "Septiembre- Octubre",
+        "instrumentos": "Plan de trabajo en matemáticas, pauta de observación al aula, integrando las interacciones del enfoque docente. "
+      },
+      {
+        "id": "action-1769782538720",
+        "tipoAccion": "Taller",
+        "descripcion": "Los docentes junto a sus asistentes de aula, comparten sus experiencias metodológicas  implementadas en el aula durante el segundo semestre,  incluyendo el uso de material del carro de matemáticas, indicando fortalezas y oportunidades de mejora. ",
+        "responsables": [
+          "Docentes-matemáticas-establecimiento-Coordinador-PIE"
+        ],
+        "fechas": "Octubre",
+        "instrumentos": "Organización de la reunión, evidencia del trabajo con PIE "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769781290138": {
+        "fecha": "2025-08-06",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes reconocen que deben trabajar en las habilidades descendidas y que el primer ciclo trabaja de forma diferente al 2  ciclo.  Se conversa sobre los resultados académicos, contenidos y habilidades mas descendidas, están en buena disposición a escuchar, aprender y hacer los cambios. ",
+        "acuerdos": "Se conversan algunos lineamientos a trabajar durante los meses de Septiembre a fin de año.  Los lineamientos acordados son: Comenzar la clase con alguna pregunta o desafío, relacionado al contexto real de los estudiantes\nPriorizar la comprensión sobre la memorización: Reflexionar sobre metodologías utilizadas y aplicar las estrategias aprendidas en talleres de matemática en ruta, clínica de matemática 2 ciclo.\nUsar múltiples representaciones.\nEstablecer rutinas: cálculo mental, resolución de problemas, operatoria, adaptado a cada nivel.\nFomentar la comunicación matemática. Uso de tecnología para apoyar sus clases: Usar IA.\nTrabajar las habilidades descendidas,  partir del análisis del 1 y 2 Simce.\n"
+      },
+      "action-1769781552433": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1769781290138": {
+        "fecha": "2025-08-06",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes reconocen que deben trabajar en las habilidades descendidas y que el primer ciclo trabaja de forma diferente al 2  ciclo.  Se conversa sobre los resultados académicos, contenidos y habilidades mas descendidas, están en buena disposición a escuchar, aprender y hacer los cambios. ",
+        "acuerdos": "Se conversan algunos lineamientos a trabajar durante los meses de Septiembre a fin de año.  Los lineamientos acordados son: Comenzar la clase con alguna pregunta o desafío, relacionado al contexto real de los estudiantes\nPriorizar la comprensión sobre la memorización: Reflexionar sobre metodologías utilizadas y aplicar las estrategias aprendidas en talleres de matemática en ruta, clínica de matemática 2 ciclo.\nUsar múltiples representaciones.\nEstablecer rutinas: cálculo mental, resolución de problemas, operatoria, adaptado a cada nivel.\nFomentar la comunicación matemática. Uso de tecnología para apoyar sus clases: Usar IA.\nTrabajar las habilidades descendidas,  partir del análisis del 1 y 2 Simce.\n"
+      },
+      "action-1769781552433": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T14:20:22.734Z"
+}
