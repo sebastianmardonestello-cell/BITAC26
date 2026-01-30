@@ -1,0 +1,36 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Las prácticas pedagógicas en matemáticas hacen escaso uso  del material concreto disponible en el establecimiento, lo que limita estrategias efectivas y variadas en la enseñanza de la disciplina. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante  la generación de espacios de análisis y discusión para la mejora de resultados académicos                                                                                           ",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones pedagógicas , incorporando el fomento de la lectura y el desarrollo de habilidades en el área de matemáticas. ",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T16:11:48.521Z"
+}
