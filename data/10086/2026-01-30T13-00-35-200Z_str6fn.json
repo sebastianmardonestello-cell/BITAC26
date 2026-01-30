@@ -1,0 +1,45 @@
+{
+  "asesor": "Belén Christo",
+  "diagnostico": {
+    "practicaProblematica": "Tai con la cámara ahí",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Participación y vida democrática",
+    "objetivoEstrategicoPME": "jhgfds",
+    "estrategiaAnualPME": "jhgvfcdx",
+    "estandarIndicativo": "9.1 El equipo directivo y los docentes promueven el sentido de pertenencia y participación en torno al Proyecto Educativo Institucional.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "1. Estrategias de transición educativa y articulación para los párvulos y estudiantes.",
+    "practicaDeseada": "jhbgfvd",
+    "actions": [
+      {
+        "id": "action-1769778030275",
+        "tipoAccion": "Taller",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T13:00:35.200Z"
+}
