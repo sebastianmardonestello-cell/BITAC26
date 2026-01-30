@@ -1,0 +1,129 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de cuarto básico implementa estrategias de lectura de forma poco sistemática, lo que limita el logro de los objetivos de aprendizaje",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar un modelo pedagógico colaborativo a través de la articulación de prácticas docentes de aula para el desarrollo de habilidades de lectura, matemáticas y socioemocionales de los estudiantes.",
+    "estrategiaAnualPME": "Planificación con instancias de colaboración para el intercambio y articulación de prácticas pedagógicas  ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de cuarto básico implementa estrategias de lectura de forma sistemática, propiciando el logro de los objetivos de aprendizaje",
+    "actions": [
+      {
+        "id": "action-1769783605245",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Se presenta la estrategia LEC a los docentes, a través de ejemplos de implementación desde el curriculum. ",
+        "responsables": [
+          "Jefatura UTP",
+          "Director"
+        ],
+        "fechas": "Mayo a Junio",
+        "instrumentos": "Acta de la actividad. (desarrollo de la actividad, lista de asistencia)  "
+      },
+      {
+        "id": "action-1769783670684",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento a la labor técnico pedagógica de manera quincenal e individual para los docentes en relación a instrumentos de planificación , ejecución y evaluación de la enseñanza. ",
+        "responsables": [
+          "Jefatura UTP",
+          "encargado de convivencia."
+        ],
+        "fechas": "Junio a Octubre",
+        "instrumentos": "Fichas de acompañamiento docente "
+      },
+      {
+        "id": "action-1769783738604",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Compartir practicas y proceso de acompañamiento en estrategias LEC dentro del aula de clases. ",
+        "responsables": [
+          "Director",
+          "Jefatura UTP"
+        ],
+        "fechas": "Junio a Octubre",
+        "instrumentos": "Pauta de observación y retroalimentación docente con registro de acuerdos de mejora. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769783605245": {
+        "fecha": "2025-08-27",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes de todos los niveles y asignaturas  estuvieron de acuerdo en implementar las estrategias LEC. ",
+        "acuerdos": "Se realizará monitoreo a través del acompañamiento al aula. "
+      },
+      "action-1769783670684": {
+        "fecha": "2025-08-27",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ha logrado clarificar el uso de las estrategias. \nMonitorear planificación y ejecución de practicas pedagogicas",
+        "acuerdos": "Entrega semanal  de planilla de seguimiento de estrategias LEC usadas en el aula. \nMonitoreo y retroalimentación al equipo de aula de manera quincenal"
+      },
+      "action-1769783738604": {
+        "fecha": "2025-08-27",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Equipo docente comprometido con la implementación de estrategias LEC en el aula. ",
+        "acuerdos": "Fortalecer las competencias docentes del equipo en la construcción de preguntas que movilicen la habilidad de lectura, a través de un centro de formación externo a la institución. \n\nEl docente presentará un taller de modelamiento de estrategias LEC "
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1769783605245": {
+        "fecha": "2025-10-02",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769783670684": {
+        "fecha": "2025-10-02",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Entrega semanal  de planilla de seguimiento de estrategias LEC usadas en el aula. \nMonitoreo y retroalimentación al equipo de aula de manera quincenal",
+        "acuerdos": "Completar el monitores con los profesores faltantes "
+      },
+      "action-1769783738604": {
+        "fecha": "2025-10-02",
+        "avance": 49,
+        "justificacion": "Ciertas condiciones relacionadas con el tiempo, los recursos humanos y/o materiales o la infraestructura no permitieron la adecuada implementación de la acción.",
+        "logros": "Se gestiono la participación de un ente externo para fortalecer las competencias docentes del equipo en la construcción de preguntas que movilicen la habilidad de lectura.\n\nSe coordinó con docente presentará un taller de modelamiento de estrategias LEC ",
+        "acuerdos": "Se realizará el modelamiento de estrategias LEC\n\nSe realizará taller con ente externo. \n"
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1769783605245": {
+        "fecha": "2025-10-27",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes conocieron la estrategia LEC, a través de ejemplos de implementación desde el curriculum. ",
+        "acuerdos": ""
+      },
+      "action-1769783670684": {
+        "fecha": "2025-10-27",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T14:42:08.383Z"
+}
