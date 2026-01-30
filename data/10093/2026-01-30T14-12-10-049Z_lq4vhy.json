@@ -1,0 +1,45 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de segundo ciclo desarrollan estrategias de enseñanza aprendizaje tradicionales, limitando el logro de los objetivos de aprendizaje. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar políticas, procedimientos y prácticas de organización, preparación, implementación y evaluación del proceso educativo para la mejora en el logro de los aprendizajes de los/as estudiantes, considerando las necesidades y potencialidades de cada uno de ellos/as.\n",
+    "estrategiaAnualPME": "Perfeccionar  procedimientos que faciliten el trabajo coordinado de los diferentes equipos dentro del establecimiento, consolidando los procesos de trabajo colaborativo.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "Los docentes de segundo ciclo desarrollan estrategias de enseñanza aprendizaje diversificadas y motivadoras, propiciando el logro de los objetivos de aprendizaje de los y las estudiantes. ",
+    "actions": [
+      {
+        "id": "action-1769782030883",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "Mayo a ",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T14:12:10.049Z"
+}
