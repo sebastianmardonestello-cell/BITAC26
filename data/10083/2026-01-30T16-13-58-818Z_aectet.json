@@ -1,0 +1,47 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Las prácticas pedagógicas en matemáticas hacen escaso uso  del material concreto disponible en el establecimiento, lo que limita estrategias efectivas y variadas en la enseñanza de la disciplina. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante  la generación de espacios de análisis y discusión para la mejora de resultados académicos                                                                                           ",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones pedagógicas , incorporando el fomento de la lectura y el desarrollo de habilidades en el área de matemáticas. ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "Las prácticas pedagógicas en matemáticas promueven el uso de material concreto de forma sistemática, a través de estrategias efectivas diversificadas,  promoviendo que los estudiantes construyan sus aprendizajes y desarrollen nuevas habilidades.",
+    "actions": [
+      {
+        "id": "action-1769789602160",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "El equipo directivo organiza dos jornadas con los docentes de matemáticas y sus equipos de aula. La primera jornada que tienen como objetivo:  Reflexionar el sentido de la matemáticas y su vinculación con la vida cotidiana.   La segunda Jornada corresponderá al análisis de datos relacionados a logros en el aprendizaje. ",
+        "responsables": [
+          "Director-UTP"
+        ],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T16:13:58.818Z"
+}
