@@ -1,0 +1,143 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Las prácticas pedagógicas en matemáticas hacen escaso uso  del material concreto disponible en el establecimiento, lo que limita estrategias efectivas y variadas en la enseñanza de la disciplina. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante  la generación de espacios de análisis y discusión para la mejora de resultados académicos                                                                                           ",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones pedagógicas , incorporando el fomento de la lectura y el desarrollo de habilidades en el área de matemáticas. ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "Las prácticas pedagógicas en matemáticas promueven el uso de material concreto de forma sistemática, a través de estrategias efectivas diversificadas,  promoviendo que los estudiantes construyan sus aprendizajes y desarrollen nuevas habilidades.",
+    "actions": [
+      {
+        "id": "action-1769789602160",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "El equipo directivo organiza dos jornadas con los docentes de matemáticas y sus equipos de aula. La primera jornada que tienen como objetivo:  Reflexionar el sentido de la matemáticas y su vinculación con la vida cotidiana.   La segunda Jornada corresponderá al análisis de datos relacionados a logros en el aprendizaje. ",
+        "responsables": [
+          "Director-UTP"
+        ],
+        "fechas": "Julio-Octubre",
+        "instrumentos": "Presentación para la Jornada. Acta de acuerdos de las jornadas, fotografías."
+      },
+      {
+        "id": "action-1769789679223",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "La asesora pedagógica junto al  equipo directivo organiza un cronograma para acompañar a cada docente en la planificación, implementación y evaluación del aprendizaje, estos observan aula incluyendo el uso de material disponible en la escuela. ",
+        "responsables": [
+          "Director-Asesor"
+        ],
+        "fechas": "Julio- Octubre",
+        "instrumentos": "Pauta observación de clases con interacciones de enfoque docente. "
+      },
+      {
+        "id": "action-1769789740968",
+        "tipoAccion": "Taller",
+        "descripcion": "Los  docentes junto a sus asistentes de aula (si corresponde) comparten sus propuestas metodológicas utilizando el material concreto  de matemáticas y demostrando evidencia, por ejemplo:  mejora de resultados, evidencia en el clima de aula, etc. ",
+        "responsables": [
+          "Docentes-matemáticas-Coordinador-PIE"
+        ],
+        "fechas": "Julio-Octubre ",
+        "instrumentos": "Evidencias del uso del material concreto en el aula (fotos o videos) . Datos como evaluaciones DIA, Ensayos SIMCE, "
+      },
+      {
+        "id": "action-1769789835688",
+        "tipoAccion": "Otra",
+        "descripcion": "El equipo directivo junto a los docentes organizan un hito de la escuela: Día de la matemáticas, donde los estudiantes demuestran los aprendizajes adquiridos durante el año en la asignatura. ",
+        "responsables": [
+          "UTP-Docentes-matemáticas"
+        ],
+        "fechas": "Julio- Octubre ",
+        "instrumentos": "Organización y videos del día de la matemáticas. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769789602160": {
+        "fecha": "2025-08-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realiza la reunión donde participan los docentes de matemáticas de primer ciclo, se conversa sobre resultados, habilidades descendidas. Los docentes comentan los contenidos y habilidades que mas les ha costado trabajar. Se conversan algunos lineamientos a trabajar durante los meses de Septiembre a fin de año. ",
+        "acuerdos": "Trabajar el vocabulario matemático (conceptos claves de la clase), compartir rutinas de pensamiento durante la clase, deben realizar reuniones para generar reporte a matemáticas de forma semestral, utilizar el material disponible en la sala de matemáticas. Retomar acuerdos del 2024, se sugiere trabajar de forma transversal el método MORA, pueden terminar sus clases con una situación contextualizada para aplicación del contenido. "
+      },
+      "action-1769789679223": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "-",
+        "acuerdos": "-"
+      },
+      "action-1769789740968": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "-",
+        "acuerdos": "-"
+      },
+      "action-1769789835688": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "-",
+        "acuerdos": "-"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1769789602160": {
+        "fecha": "2025-08-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realiza la reunión donde participan los docentes de matemáticas de primer ciclo, se conversa sobre resultados, habilidades descendidas. Los docentes comentan los contenidos y habilidades que mas les ha costado trabajar. Se conversan algunos lineamientos a trabajar durante los meses de Septiembre a fin de año. ",
+        "acuerdos": "Trabajar el vocabulario matemático (conceptos claves de la clase), compartir rutinas de pensamiento durante la clase, deben realizar reuniones para generar reporte a matemáticas de forma semestral, utilizar el material disponible en la sala de matemáticas. Retomar acuerdos del 2024, se sugiere trabajar de forma transversal el método MORA, pueden terminar sus clases con una situación contextualizada para aplicación del contenido. "
+      },
+      "action-1769789679223": {
+        "fecha": "2025-09-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se observa a dos docentes de la escuela en 3 básico y 7 básico, ambos docentes realizan una clase utilizando el material concreto, trabajando vocabulario matemático, realizando actividades que promueven la reflexión y el protagonismo de los estudiantes en el aula, con un buen nivel de interacción docente estudiante. ",
+        "acuerdos": "Los docentes deben mantener los acuerdos conversados y continuar trabajando de manera colaborativa como hasta ahora, deben desafiarse aún mas a contextualizar sus clases a la vida cotidiana de los estudiantes. "
+      },
+      "action-1769789740968": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "-",
+        "acuerdos": "-"
+      },
+      "action-1769789835688": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "-",
+        "acuerdos": "-"
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1769789602160": {
+        "fecha": "2025-08-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T16:23:23.288Z"
+}
