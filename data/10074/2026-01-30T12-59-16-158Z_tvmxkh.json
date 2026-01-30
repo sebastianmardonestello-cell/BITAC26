@@ -1,0 +1,36 @@
+{
+  "asesor": "Belén Christo",
+  "diagnostico": {
+    "practicaProblematica": "Holiiii",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "\nñljikuhygtfd",
+    "estrategiaAnualPME": "jhgfds",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T12:59:16.158Z"
+}
