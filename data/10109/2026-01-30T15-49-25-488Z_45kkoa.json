@@ -1,0 +1,111 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico del segundo ciclo no garantiza el desarrollo de los aprendizajes fundamentales en cada nivel, particularmente en lo relacionado con las habilidades de razonamiento lógico y resolución de problemas en el área de Matemática. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "OE:  Profundizar competencias didácticas de los docentes para lograr efectivamente el desarrollo de habilidades intelectuales superiores en los estudiantes, en el marco del modelo pedagógico institucional indagativo-constructivo.\n",
+    "estrategiaAnualPME": "EA: Acompañamiento a docentes de aula, con foco en las competencias didácticas para el desarrollo de habilidades intelectuales superiores.",
+    "estandarIndicativo": "6.2 El equipo directivo, en conjunto con los docentes, implementan estrategias efectivas para potenciar a los estudiantes con intereses diversos y habilidades destacadas.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico del segundo ciclo asegura el desarrollo progresivo y sistemático de los aprendizajes fundamentales en cada nivel, con especial énfasis en las habilidades de razonamiento lógico y resolución de problemas en Matemática. Para ello, se implementan estrategias didácticas coherentes y articuladas, se monitorean los avances de los estudiantes y se fortalece el trabajo colaborativo entre docentes, garantizando así trayectorias de aprendizaje consistentes y de calidad.",
+    "actions": [
+      {
+        "id": "action-1769787371311",
+        "tipoAccion": "Taller",
+        "descripcion": "Analizar en profundidad los resultados disponibles (SIMCE y Evaluaciones DIA) para identificar patrones de bajo desempeño en habilidades de razonamiento lógico y resolución de problemas. Este análisis se desarrollará mediante talleres de revisión colaborativa con los docentes del segundo ciclo, focalizando en cursos críticos, brechas por habilidad y factores pedagógicos asociados.",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Abril",
+        "instrumentos": "RESULTADOS DIA"
+      },
+      {
+        "id": "action-1769787446922",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Diseñar un plan de fortalecimiento progresivo de las habilidades matemáticas de orden superior, articulando los niveles de 5° a 8° básico a través de una secuenciación didáctica alineada con los objetivos del currículum.\nEl plan incluirá: el diseño de estrategias específicas por nivel, la integración de metodologías activas —como el Aprendizaje Basado en Problemas—, la elaboración de instrumentos de evaluación formativa y un cronograma de acciones. Se considerará la diversidad del estudiantado mediante estrategias diferenciadas y el trabajo colaborativo con el equipo PIE.\nEste proceso será monitoreado mediante el acompañamiento docente en aula, utilizando indicadores asociados a las Habilidades de Orden Superior en Matemática (HOSM), con el propósito de entregar retroalimentación formativa a los docentes.",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Noviembre",
+        "instrumentos": "PLAN DE FORTALECIMIENTO PROGRESIVO EN HABILIDADES MATEMÁTICAS DE ORDEN SUPERIOR. PAUTA DE ACOMPAÑAMIENTO. PLANILLAS DE NIVELES DE LOGRO DE HABILIDADES"
+      },
+      {
+        "id": "action-1769787558095",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Monitorear el impacto del plan mediante la aplicación de instrumentos de evaluación formativa y sumativa diseñados para medir el desarrollo de habilidades matemáticas superiores. Los resultados serán analizados periódicamente por el equipo UTP junto a los docentes para tomar decisiones de mejora, retroalimentar la práctica pedagógica y ajustar las planificaciones para asegurar el avance de todos los estu",
+        "responsables": [
+          "UTP"
+        ],
+        "fechas": "Noviembre",
+        "instrumentos": "Informe final"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1769787371311": {
+        "fecha": "2025-07-22",
+        "avance": 100,
+        "justificacion": "",
+        "logros": "Análisis detallado de los resultados obtenidos en SIMCE y Evaluaciones DIA, lo que permitió identificar patrones de bajo desempeño en habilidades de razonamiento lógico y resolución de problemas. A través de talleres colaborativos con los docentes del segundo ciclo, se visibilizaron cursos críticos, brechas específicas por habilidad y factores pedagógicos asociados que inciden en el desempeño de los estudiantes.",
+        "acuerdos": "Se acuerda dar continuidad al trabajo de análisis colaborativo de resultados, con especial énfasis en los cursos y habilidades más deficitarias, de modo que esta información oriente la planificación pedagógica. Los docentes participantes se comprometen a utilizar los hallazgos para focalizar estrategias de enseñanza y ajustar prácticas en el aula, favoreciendo así la mejora progresiva del aprendizaje matemático."
+      },
+      "action-1769787446922": {
+        "fecha": "2025-07-22",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se avanzó en la elaboración inicial del plan de fortalecimiento progresivo de las habilidades matemáticas de orden superior, articulando de manera preliminar los niveles de 5.º a 8.º básico en coherencia con los objetivos curriculares.",
+        "acuerdos": "Se acordó finalizar el diseño del plan en el siguiente monitoreo , integrando estrategias diferenciadas por nivel, un cronograma detallado de acciones y orientaciones de evaluación formativa. Además, se definió que el acompañamiento docente en aula será central para monitorear la aplicación del plan y retroalimentar oportunamente a los docentes."
+      },
+      "action-1769787558095": {
+        "fecha": "2025-07-22",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se definieron los primeros indicadores de evaluación formativa para medir el desarrollo de habilidades matemáticas superiores, estableciendo indicadores asociados a las HOSM como punto de partida para la medición. Si bien aún no se cuenta con aplicación sistemática, este diseño inicial constituye un avance en la instalación de un sistema de evaluación coherente con el plan.",
+        "acuerdos": "Se acordó aplicar los instrumentos de evaluación al cierre del primer semestre con el fin de obtener una línea de base respecto al nivel de desarrollo de las habilidades matemáticas en los estudiantes. Los resultados serán analizados por el equipo UTP junto a los docentes, de manera de retroalimentar la práctica pedagógica y realizar los ajustes necesarios al plan."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1769787371311": {
+        "fecha": "2025-09-09",
+        "avance": 100,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769787446922": {
+        "fecha": "2025-09-09",
+        "avance": 74,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1769787558095": {
+        "fecha": "2025-09-09",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-01-30T15:49:25.488Z"
+}
