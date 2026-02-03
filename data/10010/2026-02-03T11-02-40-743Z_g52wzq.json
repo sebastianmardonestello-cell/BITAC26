@@ -1,0 +1,36 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "uhu",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Liderazgo del director",
+    "objetivoEstrategicoPME": "u",
+    "estrategiaAnualPME": "c",
+    "estandarIndicativo": "1.4 El sostenedor introduce, de manera oportuna, los cambios estructurales necesarios para asegurar la viabilidad y buen funcionamiento de los establecimientos a su cargo.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-02-03T11:02:40.743Z"
+}
