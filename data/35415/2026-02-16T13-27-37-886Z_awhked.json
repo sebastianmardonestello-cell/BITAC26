@@ -1,0 +1,65 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "juego y ciencia ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "fortalecer",
+    "estrategiaAnualPME": "indicador",
+    "estandarIndicativo": "7.4 El equipo pedagógico promueve experiencias que incentivan la conciencia de la propia corporalidad mediante el movimiento, favoreciendo la autonomía y la exploración en los niños y las niñas.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "mejorar juego",
+    "actions": [
+      {
+        "id": "action-1771248412900",
+        "tipoAccion": "Capacitación",
+        "descripcion": "ghfdgjhfd",
+        "responsables": [
+          "fdht"
+        ],
+        "fechas": "abril",
+        "instrumentos": "hgfcg"
+      },
+      {
+        "id": "action-1771248437199",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "mhvmh",
+        "responsables": [
+          "ncgcn"
+        ],
+        "fechas": "",
+        "instrumentos": "ngcn"
+      },
+      {
+        "id": "action-1771248450799",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "tt",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-02-16T13:27:37.886Z"
+}
