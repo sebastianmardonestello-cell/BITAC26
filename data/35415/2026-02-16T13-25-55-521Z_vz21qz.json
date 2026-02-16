@@ -1,0 +1,36 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "juego y ciencia ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "fortalecer",
+    "estrategiaAnualPME": "indicador",
+    "estandarIndicativo": "7.4 El equipo pedagógico promueve experiencias que incentivan la conciencia de la propia corporalidad mediante el movimiento, favoreciendo la autonomía y la exploración en los niños y las niñas.",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-02-16T13:25:55.521Z"
+}
