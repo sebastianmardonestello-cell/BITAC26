@@ -1,0 +1,45 @@
+{
+  "asesor": "Belén Christo",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula (docentes de Lenguaje y Comunicación y E. Diferencial) de 3ero a 6to básico requieren fortalecer los lineamientos comunes (2025) para el desarrollo de habilidades de comprensión lectora, con el fin de no dificultar la construcción de los aprendizajes de los/as estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Sistematizar los aprendizajes...",
+    "estrategiaAnualPME": "Fortalecimiento de un plan de apoyo...",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula (docentes de Lenguaje y Comunicación y E. Diferencial) de 3ero a 6to básico fortalecen los lineamientos comunes (2025) para el desarrollo de habilidades de comprensión lectora, posibilitando la construcción de los aprendizajes de los/as estudiantes.",
+    "actions": [
+      {
+        "id": "action-1776874985219",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Equipos de aula ",
+        "responsables": [],
+        "fechas": "mayo - junio",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-22T16:25:15.466Z"
+}
