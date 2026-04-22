@@ -1,0 +1,78 @@
+{
+  "asesor": "Belén Christo",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula (docentes de Lenguaje y Comunicación y E. Diferencial) de 3ero a 6to básico requieren fortalecer los lineamientos comunes (2025) para el desarrollo de habilidades de comprensión lectora, con el fin de no dificultar la construcción de los aprendizajes de los/as estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Sistematizar los aprendizajes...",
+    "estrategiaAnualPME": "Fortalecimiento de un plan de apoyo...",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de habilidades precursoras en niveles de transición, lecto-escritura en primer ciclo básico y matemática segundo ciclo básico y enseñanza media basado en aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula (docentes de Lenguaje y Comunicación y E. Diferencial) de 3ero a 6to básico fortalecen los lineamientos comunes (2025) para el desarrollo de habilidades de comprensión lectora, posibilitando la construcción de los aprendizajes de los/as estudiantes.",
+    "actions": [
+      {
+        "id": "action-1776874985219",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Equipos de aula implicados y Equipo Directivo se reúnen para analizar los datos de la escuela y los lineamientos entregados y trabajados en 2025.",
+        "responsables": [
+          "Jefa UTP"
+        ],
+        "fechas": "mayo - junio",
+        "instrumentos": "Acta con acuerdos, lista de asistencia."
+      },
+      {
+        "id": "action-1776875308934",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller para compartir prácticas pedagógicas exitosas entre equipos de aula de 3ero a 6to Básico, bajo los lineamientos 2025.",
+        "responsables": [
+          "Docentes"
+        ],
+        "fechas": "julio",
+        "instrumentos": "Acta con acuerdos, lista de asistencia y material de prácticas pedagógicas exitosas."
+      },
+      {
+        "id": "action-1776875558809",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañar a docentes que imparten la asignatura de Lenguaje y Comunicación, con el fin de monitorear la implementación de los lineamientos de la escuela.",
+        "responsables": [
+          "Jefa UTP",
+          "Directora"
+        ],
+        "fechas": "agosto - octubre",
+        "instrumentos": "Pauta de acompañamiento al aula y retroalimentación,"
+      },
+      {
+        "id": "action-1776875760963",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Equipos de aula implicados y Equipo Directivo se reúnen con el fin de evaluar las acciones de mayor eficacia implementadas en clases para el desarrollo de habilidades de comprensión lectora desde 3ero a 6to Básico.",
+        "responsables": [
+          "Docentes y Equipo Directivo"
+        ],
+        "fechas": "octubre - noviembre",
+        "instrumentos": "Acta con acuerdos, lista de asistencia y "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-22T16:40:37.180Z"
+}
