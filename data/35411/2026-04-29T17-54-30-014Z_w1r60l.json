@@ -1,0 +1,45 @@
+{
+  "asesor": "Camila Suárez",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo propone estrategias pedagógicas que carecen de mecanismos de organización, dificultando las oportunidades de aprendizaje en los niños y niñas",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Progresar en un clima laboral positivo que fomente el desarrollo profesional con el fin de potenciar la labor educativa a través del acompañamiento y la retroalimentación.",
+    "estrategiaAnualPME": "Fortalecer ele trabajo colaborativo del equipo educativo mediante la implementación, seguimiento y retroalimentación de proyectos interdisciplinarios impulsando el desarrollo profesional y la mejora continua de las practicas pedagógicas.",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo educativo organiza y estructura las estrategias pedagógicas que contribuyen a mejorar la calidad de los aprendizajes de los niños y las niñas.",
+    "actions": [
+      {
+        "id": "action-1777485213605",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T17:54:30.014Z"
+}
