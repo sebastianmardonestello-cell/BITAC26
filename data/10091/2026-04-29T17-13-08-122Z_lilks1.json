@@ -1,0 +1,61 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de educación media generan escasos vínculos y poco sistemáticos con sus estudiantes lo que genera poca motivación por la asignatura",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Promover el desarrollo profesional docente a fin de mejorar los aprendizajes de las y los estudiantes en las asignaturas de matemática, lenguaje y comunicación logrando avanzar los resultados hacia el estándar elemental.",
+    "estrategiaAnualPME": "Plan de desarrollo profesional docente con foco en la reflexión y análisis de datos DIA.\n\n",
+    "estandarIndicativo": "5.3 Los docentes establecen vínculos pedagógicos positivos con todos sus estudiantes y generan motivación por la asignatura.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de educación media generan vínculos positivos y sistemáticos con sus estudiantes lo que genera motivación por la asignatura",
+    "actions": [
+      {
+        "id": "action-1777482554304",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "4 sesiones de análisis y reflexión para potenciar el rol del profesor jefe y de como se potencian vínculos positivos con los estudiantes",
+        "responsables": "Director",
+        "fechas": "mayo-noviembre",
+        "instrumentos": "Acta de consejo, fotografía, material de las jornadas"
+      },
+      {
+        "id": "action-1777482634936",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento a docentes con enfoque en la dimensión 2 para el desarrollo del ambiente socioafectivo para el aprendizaje",
+        "responsables": "equipo de gestión",
+        "fechas": "mayo-noviembre",
+        "instrumentos": "actas de retroalimentación y planificación del equipo"
+      },
+      {
+        "id": "action-1777482754063",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornadas de reflexión enfocadas en prácticas ",
+        "responsables": "",
+        "fechas": "mayo -noviembre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T17:13:08.122Z"
+}
