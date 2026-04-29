@@ -1,0 +1,53 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa practicas educativas focalizadas solo en los niveles medios con niños y niñas con NEE, limitando las posibilidades de aprendizaje de todos los niños y niñas de los niveles medios ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "ortalecer la interacción pedagógica para potenciar la imaginación y creatividad e los párvulos, mediante ambientes de aprendizaje flexibles y lúdicos ",
+    "estrategiaAnualPME": "Fortalecer la implementación del sellos artística mediante la incorporación sistemática de experiencias de aprendizaje en expresión artística en las planificaciones mensuales ",
+    "estandarIndicativo": "7.3 El equipo pedagógico genera experiencias e interacciones que valoran la diversidad y promueven la inclusión dentro de cada grupo y nivel.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Implementar acciones que favorezcan la valoración de la diversidad y la inclusión en el aula.",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1777492354403",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Se propone contar con una profesional del área de inclusión que pueda realizar una charla dirigida al equipo educativo, enfocada en entregar estrategias y tips prácticos para el trabajo en aula con niños y niñas, tanto con Necesidades Educativas Especiales (NEE) como sin ellas.",
+        "responsables": "directora ",
+        "fechas": "1 semestre ",
+        "instrumentos": "acta de participación "
+      },
+      {
+        "id": "action-1777492426035",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T19:53:47.041Z"
+}
