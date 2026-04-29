@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa practicas educativas focalizadas solo en los niveles medios con niños y niñas con NEE, limitando las posibilidades de aprendizaje de todos los niños y niñas de los niveles medios ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "ortalecer la interacción pedagógica para potenciar la imaginación y creatividad e los párvulos, mediante ambientes de aprendizaje flexibles y lúdicos ",
+    "estrategiaAnualPME": "Fortalecer la implementación del sellos artística mediante la incorporación sistemática de experiencias de aprendizaje en expresión artística en las planificaciones mensuales ",
+    "estandarIndicativo": "7.3 El equipo pedagógico genera experiencias e interacciones que valoran la diversidad y promueven la inclusión dentro de cada grupo y nivel.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Implementar acciones que favorezcan la valoración de la diversidad y la inclusión en el aula.",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T19:52:30.582Z"
+}
