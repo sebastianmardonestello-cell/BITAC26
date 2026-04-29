@@ -1,0 +1,36 @@
+{
+  "asesor": "Camila Suárez",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo propone estrategias pedagógicas que carecen de mecanismos de organización, dificultando las oportunidades de aprendizaje en los niños y niñas",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Progresar en un clima laboral positivo que fomente el desarrollo profesional con el fin de potenciar la labor educativa a través del acompañamiento y la retroalimentación.",
+    "estrategiaAnualPME": "Fortalecer ele trabajo colaborativo del equipo educativo mediante la implementación, ",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T17:36:32.893Z"
+}
