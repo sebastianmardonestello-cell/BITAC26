@@ -1,0 +1,77 @@
+{
+  "asesor": "Belén Christo",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes que imparten la asignatura de Mat",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "Afianzar los procesos de enseñanza que promueven el logro de los aprendizaje y habilidades en Lenguaje y Matemática, para resguardar la trayectoria educativa de todos nuestros estudiantes.",
+    "estrategiaAnualPME": "Jornadas de trabajo colaborativo con las comunidades de profesionales de aprendizaje, a través de la implementación de proyectos, para fortalecer las habilidades en las asignaturas de Lenguaje y Matemática.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1777471052079",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada de análisis sobre resultados DIA y SEAT, en relación a la habilidad de LOCALIZAR INFORMACIÓN. Participan docentes de Lenguaje y Matemática de los cursos 3°, 5° y 8° Básico, Jefa de UTP y asesora.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1777471069310",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En instancia de reflexión pedagógica, docentes de Lenguaje y Matemática de 3°, 5° y 8° Básico, en conjunto con Jefa de UTP, acuerdan y diseñan estrategias para el desarrollo sistemático de la habilidad de LOCALIZAR INFORMACIÓN, con el fin de promover el pensamiento creativo, crítico y metacognitivo en los/as estudiantes.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1777471086935",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Jefa de UTP lidera acompañamiento al aula, con el fin de hacer seguimiento y retroalimentar la implementación de estrategias para el desarrollo de la habilidad de LOCALIZAR INFORMACIÓN.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1777471118919",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Docentes a través de una encuesta de satisfacción evalúan el trabajo colaborativo y las estrategias implementadas para el desarrollo sistemático de de la habilidad de LOCALIZAR INFORMACIÓN.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1777471140976",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En instancia de reflexión pedagógica, se socializan resultados de encuesta de satisfacción y se proyectan líneas de trabajo para el año 2026.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T19:44:11.571Z"
+}
