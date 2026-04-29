@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa practicas educativas focalizadas solo en los niveles medios con niños y niñas con NEE, limitando las posibilidades de aprendizaje de todos los niños y niñas de los niveles medios ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "ortalecer la interacción pedagógica para potenciar la imaginación y creatividad e los párvulos, mediante ambientes de aprendizaje flexibles y lúdicos ",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T19:51:03.810Z"
+}
