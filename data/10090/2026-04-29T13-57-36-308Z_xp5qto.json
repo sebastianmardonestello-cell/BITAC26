@@ -1,0 +1,45 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1777471052079",
+        "tipoAccion": "",
+        "descripcion": "Jornada de análisis sobre resultados DIA y SEAT, en relación a la habilidad de LOCALIZAR INFORMACIÓN. Participan docentes de Lenguaje y Matemática de los cursos 3°, 5° y 8° Básico, Jefa de UTP y asesora.",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-04-29T13:57:36.308Z"
+}
