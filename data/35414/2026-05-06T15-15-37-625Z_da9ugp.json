@@ -1,0 +1,45 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula del nivel medio menor apoya de manera poco sistemática  el desarrollo del lenguaje verbal  en niños y niñas, no propiciando comunicación, capacidades y habilidades de comprensión.  ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Mejorar las planificaciones para consolidar las interacciones pedagógicas en los espacios educativos para responder a las necesidades y características de cada niño y niña través del plan de aula. \n\n\n\n\n",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "7.6 El equipo pedagógico promueve el desarrollo del lenguaje verbal en los párvulos, propiciando la comunicación y extendiendo sus capacidades y habilidades de comprensión y expresión.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Generación de experiencias de aprendizaje significativas, variadas y pertinentes considerando ritmos y necesidades de niños/as.",
+    "practicaDeseada": "  El equipo de aula del nivel medio menor pedagógico apoya\nconsistentemente el desarrollo del\nlenguaje verbal en los niños y las niñas\nmediante interacciones que promueven su\nexpresión oral ",
+    "actions": [
+      {
+        "id": "action-1778080350328",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-06T15:15:37.625Z"
+}
