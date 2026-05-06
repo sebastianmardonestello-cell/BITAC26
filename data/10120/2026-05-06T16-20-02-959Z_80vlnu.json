@@ -1,0 +1,36 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "El Equipo de Gestión toma decisiones principalmente a partir de percepciones subjetivas, realizando análisis de datos relevantes de manera esporádica, lo que conlleva a decisiones poco fundamentadas y potencialmente sesgadas",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Planificación y gestión de resultados",
+    "objetivoEstrategicoPME": "Implementar el trabajo colaborativo de los distintos estamentos del establecimiento, con el fin de promover el intercambio de prácticas profesionales exitosas, mediante la sistematización y uso de datos",
+    "estrategiaAnualPME": "Planificación de capacitaciones y acompañamiento docente.",
+    "estandarIndicativo": "3.3 El director y el equipo directivo sistematizan continuamente los datos relevantes de la gestión escolar y los utilizan para tomar decisiones.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "El equipo de gestión toma decisiones ",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-06T16:20:02.960Z"
+}
