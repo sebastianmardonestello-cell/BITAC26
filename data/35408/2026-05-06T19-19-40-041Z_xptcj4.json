@@ -1,0 +1,61 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo presenta limitaciones en la implementación de estrategias pedagógicas intencionadas para favorecer el desarrollo del pensamiento matemático en niños y niñas de 0 a 2 años. ",
+    "dimensionPME": "Gestión de Recursos",
+    "subdimensionPME": "Gestión de las Personas",
+    "objetivoEstrategicoPME": "Fortalecer la retroalimentación al personal para potenciar su labor educativa.",
+    "estrategiaAnualPME": "Implementar un plan de estrategia anual con acompañamiento al aula y retroalimentación, incorporando trabajo colaborativo para el intercambio de practicas pedagógicas, junto con instancias de participación de la comunidad educativa que fortalezcan la asistencia y permanencia.",
+    "estandarIndicativo": "12.3 El equipo directivo gestiona la evaluación y retroalimentación del personal sistemáticamente, y promueve el desarrollo profesional para la mejora continua del desempeño.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "21. Fortalecer las capacidades profesionales y técnicas de los equipos educativos mediante el diseño colaborativo del Plan Local de Formación",
+    "practicaDeseada": "El equipo educativo desarrolla sus capacidades técnico profesionales para implementar estrategias y experiencias que promueven el desarrollo del pensamiento lógico matemático de los niños y niñas de 0 a 2 años.",
+    "actions": [
+      {
+        "id": "action-1778077789596",
+        "tipoAccion": "Taller",
+        "descripcion": "En esta instancia se da a conocer y se profundiza el núcleo de pensamiento matemático con el equipo educativo con la finalidad de ampliar sus conocimientos, aplicación y conocer la progresión de los ",
+        "responsables": "Equipo asesor Slep",
+        "fechas": "Primer semestre ",
+        "instrumentos": "Acta, registro de asistencia, muestra del taller práctico"
+      },
+      {
+        "id": "action-1778080145971",
+        "tipoAccion": "Otra",
+        "descripcion": "Equipo técnico crea cápsulas dirigidas a la comunidad y pares sobre conocimientos de pensamiento matemático y actividades al hogar.",
+        "responsables": "Equipo técnico",
+        "fechas": "segundo semestre",
+        "instrumentos": "Carta gantt, muestra de cápsula"
+      },
+      {
+        "id": "action-1778080226966",
+        "tipoAccion": "Otra",
+        "descripcion": "Incorporar en la organización del tiempo, un momento para el desarrollo del pensamiento matemático",
+        "responsables": "Educadora de párvulos",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Planificación de la organización del tiempo"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-06T19:19:40.041Z"
+}
