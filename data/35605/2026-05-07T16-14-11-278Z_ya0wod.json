@@ -1,0 +1,53 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "La comunidad educativa presenta escaso conocimiento del instrumento de evaluación institucional lo que afecta la valoración y conocimiento del proceso de enseñanza de los niños y niñas del centro educativo.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Mejorar el proceso de evaluación para responder a las necesidades y características de cada nivel y/o grupo, mediante  talleres reflexivos.",
+    "estrategiaAnualPME": "Diseño y definición de instrumentos institucionales para los procesos de evaluación de los niños y niñas.",
+    "estandarIndicativo": "6.2 El equipo directivo and el pedagógico implementan un proceso de evaluación de acuerdo con las características de cada nivel and grupo.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "7. Planificación y Evaluación de los procesos de enseñanza aprendizaje para el aseguramiento de la calidad educativa.",
+    "practicaDeseada": "La comunidad educativa fortalece progresivamente su conocimiento del instrumento de evaluación institucional, favoreciendo la valoración y comprensión del proceso de enseñanza de los niños y niñas del centro educativo.",
+    "actions": [
+      {
+        "id": "action-1778169517438",
+        "tipoAccion": "Taller",
+        "descripcion": "En instancia de comunidad de aprendizaje, se presenta un resumen de cómo surge el instrumento, cuál es el fin y definir la participación de la comunidad educativa. Se da a conocer los elementos del instrumento. Al finalizar se aplica encuesta para conocer su apreciación y aportes al instrumento. ",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "3 de mayo",
+        "instrumentos": "Acta de CAUE, presentación y compilado de respuesta del formulario"
+      },
+      {
+        "id": "action-1778170010262",
+        "tipoAccion": "Otra",
+        "descripcion": "En esta acción, se espera dar a conocer el instrumento a las familias para que completen información, revisen el instrumento y levanten su dudas y comentarios. ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-07T16:14:11.278Z"
+}
