@@ -1,0 +1,36 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa espacios de reflexión y retroalimentación con escasa discusión técnica y análisis profundo de las prácticas pedagógicas, dificultando la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "dimensionPME": "Bienestar Integral",
+    "subdimensionPME": "Vida Saludable",
+    "objetivoEstrategicoPME": "Fortalecer los espacios de tranquilidad, reflexión y pausa,  para promover  el autocuidado de los párvulos a través de acompañamiento y retroalimentación a la labor educativa. ",
+    "estrategiaAnualPME": "Implementar un plan sistemático de acompañamiento y retroalimentación al equipo educativo, mediante  espacios de reflexión, para fortalecer prácticas que promuevan la tranquilidad, la pausa y el autocuidado en los párvulos.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Acompañamiento técnico pedagógico",
+    "practicaDeseada": "El equipo educativo implementa espacios de reflexión y retroalimentación con escasa discusión técnica y análisis profundo de las prácticas pedagógicas, dificultando la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-07T15:09:21.307Z"
+}
