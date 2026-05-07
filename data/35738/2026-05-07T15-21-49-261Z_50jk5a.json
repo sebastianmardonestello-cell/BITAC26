@@ -1,0 +1,53 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa espacios de reflexión y retroalimentación con escasa discusión técnica y análisis profundo de las prácticas pedagógicas, dificultando la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "dimensionPME": "Bienestar Integral",
+    "subdimensionPME": "Vida Saludable",
+    "objetivoEstrategicoPME": "Fortalecer los espacios de tranquilidad, reflexión y pausa,  para promover  el autocuidado de los párvulos a través de acompañamiento y retroalimentación a la labor educativa. ",
+    "estrategiaAnualPME": "Implementar un plan sistemático de acompañamiento y retroalimentación al equipo educativo, mediante  espacios de reflexión, para fortalecer prácticas que promuevan la tranquilidad, la pausa y el autocuidado en los párvulos.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Acompañamiento técnico pedagógico",
+    "practicaDeseada": "El equipo educativo implementa espacios de reflexión y retroalimentación que promueven la discusión técnica y un análisis profundo de las prácticas pedagógicas, fortaleciendo la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "actions": [
+      {
+        "id": "action-1778166783308",
+        "tipoAccion": "Taller",
+        "descripcion": "1. Realizar reuniones con equipo de educadoras para definir un plan de  acompañamiento  y retroalimentación a los equipos educativos, mediante espacios de reflexión,  con foco en prácticas pedagógicas que promuevan los espacios de tranquilidad, reflexión y pausa. ",
+        "responsables": "Asesora pedagógica - Directora",
+        "fechas": "junio - julio",
+        "instrumentos": " 1) Material empleado en el taller teórico-práctico. 2) Acta de las reuniones implementadas 3) F"
+      },
+      {
+        "id": "action-1778167224690",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-07T15:21:49.261Z"
+}
