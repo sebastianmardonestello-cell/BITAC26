@@ -1,0 +1,36 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "Los procesos evaluativos son desconocidos por la comunidad educativa, afectando la \nes desconocido por la comunidad educativa lo que afectando la mirada el proceso de enseñanza de los niños y niñas dificulta la valoración de los procesos de aprendizajes de los niños y niñas del centro educativo",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-07T15:09:17.308Z"
+}
