@@ -1,0 +1,36 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa estrategias y experiencias para trabajar con escasa respuesta y participación de las familias provocando una falta de valoración y vinculación con el centro educativo y el proceso formativo de los niños y niñas de la sala cuna.",
+    "dimensionPME": "Familia y Comunidad",
+    "subdimensionPME": "Vínculo con la Comunidad y sus Redes",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T15:26:53.752Z"
+}
