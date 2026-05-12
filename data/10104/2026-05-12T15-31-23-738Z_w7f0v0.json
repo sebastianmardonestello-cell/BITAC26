@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 3° y 4° básico implementa estrategias pedagógicas desvinculadas de una ruta de aprendizaje coherente, lo que dificulta la continuidad de los procesos y debilita la efectividad de la enseñanza para asegurar el logro de los Objetivos de Aprendizaje en las asignaturas de Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T15:31:23.738Z"
+}
