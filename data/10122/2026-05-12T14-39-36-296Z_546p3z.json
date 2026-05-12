@@ -1,0 +1,53 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de 7mo y 8vo básico desarrolla experiencias educativas tradicionales que limitan el vínculo pedagógico y disminuyen la motivación de los estudiantes por la asignatura.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el quehacer pedagógico del equipo técnico y docente, para la mejora de los resultados SIMCE; con foco en la profundización del proceso de lectura, escritura y matemática de estudiantes de primer y segundo ciclo básico.",
+    "estrategiaAnualPME": "Fortalecer a través del plan de desarrollo profesional docente la movilización de la\n lectoescritura y\n matemática en\n estudiantes de primer y segundo ciclo.\n",
+    "estandarIndicativo": "5.3 Los docentes establecen vínculos pedagógicos positivos con todos sus estudiantes y generan motivación por la asignatura.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "El equipo pedagógico de 7mo y 8vo básico implementan experiencias educativas innovadoras y centradas en las necesidades de los estudiantes lo que promueve el vínculo pedagógico y  la motivación de estos por la asignatura.",
+    "actions": [
+      {
+        "id": "action-1778596727776",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Análisis de los resultados DIA socioemocional Diagnostico",
+        "responsables": "Equipo Directivo",
+        "fechas": "Mayo",
+        "instrumentos": "Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1778596775296",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T14:39:36.296Z"
+}
