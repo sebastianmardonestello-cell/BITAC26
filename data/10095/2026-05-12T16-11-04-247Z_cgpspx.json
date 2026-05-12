@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de segundo ciclo  implementa prácticas pedagógicas estandarizadas que limitan la atención a la diversidad y a las necesidades educativas de los estudiantes, lo que se traduce en una participación desigual en las actividades de aprendizaje y en brechas en el desarrollo de habilidades cognitivas y socioemocionales, evidenciadas en desempeños heterogéneos y bajo logro de aprendizajes esperados.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar la articulación de  las asignaturas, para movilizar los niveles de desempeño de las y los estudiantes en lenguaje y matemática mediante el monitoreo y retroalimentación constante de las practicas docentes",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T16:11:04.248Z"
+}
