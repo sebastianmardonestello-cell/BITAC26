@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 3° y 4° básico implementa estrategias pedagógicas propias y asiladas entre estos niveles, lo que dificulta la continuidad de los procesos y debilita la efectividad de la enseñanza para asegurar el logro de los Objetivos de Aprendizaje en las asignaturas de Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar el desarrollo de habilidades cognitivas de nivel superior en los estudiantes, mediante la articulación pedagógica institucional y la implementación de estrategias didácticas coherentes con el currículum, que promuevan aprendizajes profundos y significativos.",
+    "estrategiaAnualPME": "Consolidar la implementación de estrategias didácticas orientadas al desarrollo de habilidades superiores mediante el acompañamiento pedagógico, el trabajo colaborativo docente y el análisis sistemático de evidencias de aprendizaje",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T15:34:05.539Z"
+}
