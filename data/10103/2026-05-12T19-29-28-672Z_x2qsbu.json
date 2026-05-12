@@ -1,0 +1,45 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes proponen una mejora en relacion al clima de aula del segundo ciclo con la finalidad de potenciar o mejorar los aprendizajes de los y las estudiantes ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "5.3 Los docentes establecen vínculos pedagógicos positivos con todos sus estudiantes y generan motivación por la asignatura.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1778613981083",
+        "tipoAccion": "Taller",
+        "descripcion": "presentar la problemática  y buscar acciones especificas para, a través de un taller, se presenta el problema y se busca hacer un plan de trabajo de estratrgias con plazos y técnicas que favorezcan el clima  ",
+        "responsables": "equipo de gestion",
+        "fechas": "1 semestre ",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T19:29:28.672Z"
+}
