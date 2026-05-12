@@ -1,0 +1,45 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "La comunidad educativa presenta dificultades para sostener acciones concretas y apropiarse del concepto de conciencia medioambiental lo que dificulta la consolidación del sello en el jardín infantil.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Perfeccionar las interacciones pedagógicas para fomentar la exploración del entorno natural y la conciencia ambiental.",
+    "estrategiaAnualPME": "Implementar talleres de pensamiento científico enfocado en la conciencia ambiental.",
+    "estandarIndicativo": "7.7 El equipo pedagógico fomenta la exploración del entorno natural por medio de experiencias que estimulan la curiosidad y el desarrollo del pensamiento científico en los párvulos.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1778618415434",
+        "tipoAccion": "Otra",
+        "descripcion": "Confeccionar una cápsula para las familias entregando información sobre la importancia de la conciencia medioambiental y mostrar los lugares físicos y/o puntos limpios en el jardín infantil.",
+        "responsables": "",
+        "fechas": "Primer semestre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T20:42:25.148Z"
+}
