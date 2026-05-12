@@ -1,0 +1,45 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico promueve de manera poco sistemática la implementación y socialización de prácticas efectivas e innovadoras de enseñanza-aprendizaje, lo que limita el intercambio de experiencias pedagógicas, el fortalecimiento del trabajo colaborativo y la consolidación de la\ncomunidad educativa, para potenciar el desarrollo de los niños y niñas.",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1778601207977",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T16:11:05.667Z"
+}
