@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El Equipo pedagógico del primer ciclo básico implementa actividades de enseñanza que priorizan la repetición mecánica y la memorización, lo que no asegura la comprensión de los procedimientos y el pensamiento lógico  matemático",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-12T15:21:06.081Z"
+}
