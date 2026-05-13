@@ -1,0 +1,36 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa experiencias educativas relacionadas con el pensamiento científico poco desafiantes, limitando la curiosidad, exploración, descubrimiento y el desarrollo del aprendizaje profundo de las ciencias en los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Progresar en experiencias de aprendizaje que  fomenten la exploración del entorno natural para potenciar  el desarrollo del pensamiento científico en los párvulos, mediante reuniones sistemáticas para la reflexión.",
+    "estrategiaAnualPME": "Implementar instancias periódicas y participativas que permitan a las familias aportar en la planificación de experiencias de aprendizaje orientadas a promover el desarrollo del pensamiento científico en los párvulos.",
+    "estandarIndicativo": "7.7 El equipo pedagógico fomenta la exploración del entorno natural por medio de experiencias que estimulan la curiosidad y el desarrollo del pensamiento científico en los párvulos.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "8. Fortalecimiento del vínculo con la familia integrando sus saberes y aportes de forma activa en el diseño de los  Planes de Aula de cada nivel.",
+    "practicaDeseada": "El equipo educativo implementa experiencias de aprendizajerelacionadas con el pensamiento científico: desafiantes, que potencian la curiosidad, exploración, descubrimiento, favoreciendo el desarrollo del aprendizaje profundo de las ciencias en los niños y niñas. ",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T14:35:34.542Z"
+}
