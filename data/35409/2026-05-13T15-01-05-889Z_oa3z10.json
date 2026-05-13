@@ -1,0 +1,61 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa experiencias de aprendizaje relacionadas con el pensamiento científico poco desafiantes, limitando la curiosidad, exploración, descubrimiento y el desarrollo del aprendizaje profundo de las ciencias en los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Progresar en experiencias de aprendizaje que  fomenten la exploración del entorno natural para potenciar  el desarrollo del pensamiento científico en los párvulos, mediante reuniones sistemáticas para la reflexión.",
+    "estrategiaAnualPME": "Implementar instancias periódicas y participativas que permitan a las familias aportar en la planificación de experiencias de aprendizaje orientadas a promover el desarrollo del pensamiento científico en los párvulos.",
+    "estandarIndicativo": "7.7 El equipo pedagógico fomenta la exploración del entorno natural por medio de experiencias que estimulan la curiosidad y el desarrollo del pensamiento científico en los párvulos.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "8. Fortalecimiento del vínculo con la familia integrando sus saberes y aportes de forma activa en el diseño de los  Planes de Aula de cada nivel.",
+    "practicaDeseada": "El equipo educativo implementa experiencias de aprendizaje relacionadas con el pensamiento científico: desafiantes, que potencian la curiosidad, exploración y descubrimiento, favoreciendo el desarrollo del aprendizaje profundo de las ciencias en los niños y niñas. ",
+    "actions": [
+      {
+        "id": "action-1778683355772",
+        "tipoAccion": "Taller",
+        "descripcion": "Realizar taller teórico-práctico con foco en estrategias concretas para abordar el pensamiento científico con todos los niveles. ",
+        "responsables": "Asesora pedagógica - Directora",
+        "fechas": "junio",
+        "instrumentos": "Material empleado en el taller teórico - práctico - Acta de reunión CAUE"
+      },
+      {
+        "id": "action-1778683533705",
+        "tipoAccion": "Otra",
+        "descripcion": "Desarrollar planificaciones colaborativas con el equipo educativo y familia respecto a estrategias para implementar en los distintos niveles en relación al pensamiento científico. ",
+        "responsables": "Educadoras de cada nivel ",
+        "fechas": "julio - noviembre",
+        "instrumentos": "Planificaciones variables con estrategias para abordar el pensamiento científico en las experiencias de aprendizaje. "
+      },
+      {
+        "id": "action-1778683705568",
+        "tipoAccion": "Otra",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T15:01:05.889Z"
+}
