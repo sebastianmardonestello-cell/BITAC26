@@ -1,0 +1,61 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo promueve de manera esporádica las interacción pedagógicas  limitando el desarrollo verbal de los párvulos. \n\n\n",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer las interacciones pedagógicas para potenciar la imaginación y creatividad en los párvulos.\n\n\n\n\n\n\n",
+    "estrategiaAnualPME": "Instalar encuentros de reflexión y planificación de las estrategias pedagógicas que se realizan para potenciar la imaginación y creatividad. \n\n\n\n\n\n\n",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo educativo promueve de manera sistemática las interacciones pedagógicas mejorando el desarrollo verbal de los párvulos. \n\n\n",
+    "actions": [
+      {
+        "id": "action-1778686201826",
+        "tipoAccion": "Taller",
+        "descripcion": "Se realizara un taller con el fin de fortalecer la competencia del personal del jardín infantil para apoyar el desarrollo del aparato fonoarticulatorio y del lenguaje verbal mediante prácticas pedagógicas coherentes, intencionadas y acordes a las necesidades de los niños y niñas.\n",
+        "responsables": "directora / asesora ",
+        "fechas": "Julio ",
+        "instrumentos": "Bitácora "
+      },
+      {
+        "id": "action-1778687651722",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "La jornada de reflexión se desarrollará en el marco de una reunión de aula con la participación del equipo educativo del nivel. Su propósito es generar un espacio colectivo de análisis, diálogo y revisión crítica de las prácticas pedagógicas implementadas.",
+        "responsables": "Educadoras de párvulos ",
+        "fechas": "Julio ",
+        "instrumentos": "Bitácora "
+      },
+      {
+        "id": "action-1778688236867",
+        "tipoAccion": "Otra",
+        "descripcion": "La implementación se llevará a cabo mediante la elaboración y puesta en práctica de una planificación pedagógica que incorpore los aprendizajes obtenidos en el taller 3",
+        "responsables": "Directora / Educadora de párvulos ",
+        "fechas": "Julio  a noviembre ",
+        "instrumentos": "Planificación , Registro fotográfico, evaluación "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T16:10:17.682Z"
+}
