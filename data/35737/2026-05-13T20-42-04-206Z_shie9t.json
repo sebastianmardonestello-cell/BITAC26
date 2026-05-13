@@ -1,0 +1,61 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo presenta una baja sistematización de las prácticas pedagógicas implementadas en el jardín infantil, lo que dificulta la reflexión y mejora continua del quehacer educativo de las funcionarias.",
+    "dimensionPME": "Gestión de Recursos",
+    "subdimensionPME": "Gestión de las Personas",
+    "objetivoEstrategicoPME": "Perfeccionar la retroalimentación al personal para potenciar la labor educativa mediante el acompañamiento al aula.",
+    "estrategiaAnualPME": "Articular el Plan de Formación Profesional conjuntamente con los acompañamientos y retroalimentación al aula.  ",
+    "estandarIndicativo": "12.3 El equipo directivo gestiona la evaluación y retroalimentación del personal sistemáticamente, y promueve el desarrollo profesional para la mejora continua del desempeño.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Acompañamiento técnico pedagógico",
+    "practicaDeseada": "El equipo educativo sistematiza las prácticas pedagógicas implementadas en el jardín infantil favoreciendo la reflexión y mejora continua del quehacer educativo de las funcionarias.",
+    "actions": [
+      {
+        "id": "action-1778704674444",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En reunión de equipo de sala se realizará una socialización del instrumento territorial para observar los ambientes de para que el equipo educativo conozca instrumento y la modalidad de aplicación.",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "Mayo",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1778704675519",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1778704676123",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T20:42:04.207Z"
+}
