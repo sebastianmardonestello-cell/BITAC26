@@ -1,0 +1,45 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico promueve de manera poco sistemática la implementación y socialización de prácticas efectivas e innovadoras de enseñanza-aprendizaje, lo que limita el intercambio de experiencias pedagógicas, el fortalecimiento del trabajo colaborativo y la consolidación de la comunidad educativa, para potenciar el desarrollo integral de los niños y niñas.",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Potenciar las prácticas educativas efectivas para el desarrollo y el aprendizaje de los niños y niñas a través de reuniones sistemáticas para la reflexión.",
+    "estrategiaAnualPME": "Implementar reuniones sistemáticas de  reflexión pedagógica de manera colaborativa, centradas en el análisis prácticas educativas.",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo pedagógico promueve de manera sistemática la implementación y socialización de prácticas efectivas e innovadoras de enseñanza-aprendizaje, favoreciendo el intercambio de experiencias pedagógicas, el fortalecimiento del trabajo colaborativo y la consolidación de la comunidad educativa, con el propósito de potenciar el desarrollo integral de los niños y las niñas.",
+    "actions": [
+      {
+        "id": "action-1778601207977",
+        "tipoAccion": "Taller",
+        "descripcion": " Realizar una jornada formativa para el personal   sobre prácticas pedagógicas efectivas, abordando su importancia en los niño y  niñas.",
+        "responsables": "Educadora de parvulos ",
+        "fechas": "junio",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T12:04:00.450Z"
+}
