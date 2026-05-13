@@ -1,0 +1,36 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo y técnico-pedagógico define lineamientos curriculares generales, lo que se traduce en que los docentes implementen el currículum de manera aislada, con baja coordinación entre niveles y asignaturas, predominando clases expositivas, con interacciones pedagógicas que tienden a ser poco sensibles a las necesidades emocionales y académicas de los estudiantes, lo que afecta el sentido de seguridad y pertenencia.\n\nAdemás, las expectativas de aprendizaje no son explícitas ni desafiantes para todos los estudiantes, generando brechas en el acceso al currículum. La respuesta docente frente a la diversidad es más bien reactiva que planificada, y el bienestar de los estudiantes no se integra como parte del proceso pedagógico.",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T13:17:01.676Z"
+}
