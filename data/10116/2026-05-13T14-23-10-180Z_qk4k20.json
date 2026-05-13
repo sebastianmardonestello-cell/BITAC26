@@ -1,0 +1,36 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "Fortalecer la gestión de la convivencia educativa a través del desarrollo de actividades formativas y preventivas a través de los distintos planes normativos vinculados a la convivencia escolar.",
+    "estrategiaAnualPME": "El equipo de gestión, docentes y asistentes de la educación implementarán durante el año estrategias integrales orientadas al fortalecimiento de la sana convivencia escolar, a través de jornadas de trabajo colaborativo, espacios reflexivos, instancias de orientación y atención focalizada a estudiantes y familias.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-13T14:23:10.180Z"
+}
