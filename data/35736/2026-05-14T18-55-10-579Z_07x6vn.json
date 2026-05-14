@@ -1,0 +1,36 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "\nEl equipo educativo no atribuye al patio una intencionalidad pedagógica que favorezca el desarrollo del sello educativo del jardín, lo que limita las oportunidades de aprendizaje de los niños y niñas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Consolidar las interacciones pedagógicas para potenciar la imaginación y creatividad de los párvulos, mediante la planificación educativa.",
+    "estrategiaAnualPME": "Implementar un proceso sistemático de creación, uso y evaluación de material educativo en espacios comunes, alineado con el sello educativo, que promueva experiencias de aprendizaje significativas para los niños y niñas.",
+    "estandarIndicativo": "8.1 El equipo pedagógico, en conjunto con los párvulos, organizan y crean ambientes físicos flexibles, lúdicos y pedagógicamente intencionados para el aprendizaje significativo e inclusivo de la comunidad.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de  experiencias de aprendizaje basadas en el principio del juego. ",
+    "practicaDeseada": "El equipo educativo implementa recursos pedagógicos con intención educativa en algunos sectores del patio, fortaleciendo el sello del jardín y los aprendizajes de los niños y niñas.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T18:55:10.579Z"
+}
