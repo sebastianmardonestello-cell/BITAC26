@@ -1,0 +1,36 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "El quipo pedagógico y directo implementan lineamientos pedagógicos generales, lo que deriva en interacciones poco sensibles a las necesidades emocionales y académicas de los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Sistematizar las prácticas pedagógicas promoviendo comunidades de aprendizaje a través de un trabajo colaborativo y reflexivo que permitan: el desarrollo de habilidades y competencias, el logro y la promoción del aprendizaje profundo e integral de los estudiantes.",
+    "estrategiaAnualPME": "Monitoreando el trabajo colaborativo y reflexivo entre docentes, mediante instancias sistemáticas de análisis pedagógico, observación y retroalimentación de prácticas de aula, promoviendo la socialización de metodologías y estrategias pedagógicas diversificadas que contribuyan a mejorar los procesos de enseñanza y aprendizaje de todos los estudiantes.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T12:50:23.772Z"
+}
