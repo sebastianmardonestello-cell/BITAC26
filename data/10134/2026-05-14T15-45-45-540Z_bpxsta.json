@@ -1,0 +1,45 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Docentes implementan rutinas de lenguaje y matemáticas de manera poco sistemática, lo que genera poca adherencia a estas rutinas por partes de los estudiantes para el logro de los OAs ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar las prácticas pedagógicas mediante la implementación de estrategias efectivas de enseñanza-aprendizaje, para mejorar el desarrollo de habilidades de lectoescritura y las competencias matemáticas.",
+    "estrategiaAnualPME": "Instancias de trabajo colaborativas que permitan el uso de metodologías de enseñanza aprendizaje, que consoliden el desarrollo de habilidades de lectoescritura y matemáticas en los estudiantes.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Docentes implementan rutinas de lenguaje y matemáticas de manera sistemática, lo que genera adherencia a estas rutinas por partes de los estudiantes para el logro de los OAs ",
+    "actions": [
+      {
+        "id": "action-1778773370642",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornadas de reflexión destinadas a",
+        "responsables": "",
+        "fechas": "Mayo",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T15:45:45.540Z"
+}
