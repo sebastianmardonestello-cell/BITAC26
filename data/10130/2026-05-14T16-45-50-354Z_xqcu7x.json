@@ -1,0 +1,53 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de Lenguaje y matemáticas de 2°medio implementa prácticas de co-docencia poco coordinadas para abordar la diversidad de estudiantes del nivel lo que dificulta el transito de estudiantes hacia los niveles esperados ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar un proceso de acompañamiento pedagógico que permita contribuir al desarrollo profesional de los docentes del establecimiento. Institucionalizar iniciativas de innovación pedagógica que favorezcan el desarrollo de habilidades de orden superior y/o que promuevan una formación educativa integral.",
+    "estrategiaAnualPME": "Acompañamiento pedagógicos a los docentes, incorporando observación entre pares Formación de un Equipo de Innovación.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo pedagógico de Lenguaje y matemáticas de 2°medio implementa prácticas de co-docencia coordinadas para abordar la diversidad de estudiantes del nivel lo que promueve el transito de estudiantes hacia los niveles esperados ",
+    "actions": [
+      {
+        "id": "action-1778777003746",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller para la co-construcción de indicadores para la coordinación prácticas de co-docencia",
+        "responsables": "Equipo directivo -asesor",
+        "fechas": "mayo",
+        "instrumentos": "Indicadores para el monitoreo de la co-docencia"
+      },
+      {
+        "id": "action-1778777149345",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T16:45:50.354Z"
+}
