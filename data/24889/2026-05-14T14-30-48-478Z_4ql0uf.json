@@ -1,0 +1,53 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de lenguaje y matemática de 4°, 6° y 2° medio implementan prácticas efectivas de enseñanza de manera intermitente lo que limita los logros de objetivos de aprendizaje",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar la gestión pedagógica para lograr la diversificación de las prácticas pedagógicas, uso de la evaluación formativa y el análisis de datos de aprendizaje para el fortalecimiento del desarrollo de competencias de los(as) docentes que permitan impactar en las trayectorias educativas de los estudiantes mediante procesos de acompañamiento.",
+    "estrategiaAnualPME": "Acompañamiento a docentes mediante la implementación sistemática de instancias de análisis de datos de aprendizaje, observación y retroalimentación de prácticas de aula, y desarrollo de estrategias de enseñanza diversificadas para el logro de los aprendizajes de los(as) estudiantes",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de lenguaje y matemática de 4°, 6° y 2° medio implementan prácticas efectivas de enseñanza de manera sistemática y transversal a los ciclos, lo que permite los logros de objetivos de aprendizaje.",
+    "actions": [
+      {
+        "id": "action-1778768980155",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Definición de estrategias efectivas que se implementarán de manera transversal por parte de UTP y de los docentes.",
+        "responsables": "UTPs-asesor",
+        "fechas": "mayo",
+        "instrumentos": "Documento de Practicas transversales/bitácora de acompañamiento"
+      },
+      {
+        "id": "action-1778769034763",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T14:30:48.478Z"
+}
