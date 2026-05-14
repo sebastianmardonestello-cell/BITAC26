@@ -1,0 +1,36 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de lenguaje y matemática de 4°, 6° y 2° medio implementan prácticas efectivas de enseñanza de manera intermitente lo que limita los logros de objetivos de aprendizaje",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar la gestión pedagógica para lograr la diversificación de las prácticas pedagógicas, uso de la evaluación formativa y el análisis de datos de aprendizaje para el fortalecimiento del desarrollo de competencias de los(as) docentes que permitan impactar en las trayectorias educativas de los estudiantes mediante procesos de acompañamiento.",
+    "estrategiaAnualPME": "Acompañamiento a docentes mediante la implementación sistemática de instancias de análisis de datos de aprendizaje, observación y retroalimentación de prácticas de aula, y desarrollo de estrategias de enseñanza diversificadas para el logro de los aprendizajes de los(as) estudiantes\n\n",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T14:28:12.826Z"
+}
