@@ -1,0 +1,77 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "El Equipo de Gestión toma decisiones principalmente a partir de percepciones subjetivas, realizando análisis de datos relevantes de manera esporádica, lo que conlleva a decisiones poco fundamentadas y potencialmente sesgadas.",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Planificación y gestión de resultados",
+    "objetivoEstrategicoPME": "Implementar el trabajo colaborativo de los distintos estamentos del establecimiento, con el fin de promover el intercambio de prácticas profesionales exitosas, mediante la sistematización y uso de datos",
+    "estrategiaAnualPME": "Planificación de capacitaciones y acompañamiento docente.",
+    "estandarIndicativo": "3.3 El director y el equipo directivo sistematizan continuamente los datos relevantes de la gestión escolar y los utilizan para tomar decisiones.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de gestión toma decisiones informadas y estratégicas a partir del análisis sistemático y oportuno de datos cuantitativos y cualitativos, fortaleciendo la toma de decisiones objetivas y alineadas con las necesidades reales del establecimiento.",
+    "actions": [
+      {
+        "id": "action-1778084490526",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornada de sensibilización para el EGE y diagnóstico breve del uso de datos:\nReflexión guiada sobre cómo actualmente se toman decisiones, sus efectos y la importancia de basarse en datos y aplicación de una pauta de autoevaluación para identificar brechas en el uso de información para la toma de decisiones.",
+        "responsables": "EE",
+        "fechas": "Mayo",
+        "instrumentos": "Acta"
+      },
+      {
+        "id": "action-1778084657365",
+        "tipoAccion": "Otra",
+        "descripcion": "Reuniones de coordinación para elaborar Instrumento de Levantamiento de información sobre estudiantes EPJA\nSe realizan 6 sesiones con monitoreo y seuimiento y otros establecimientos EPJa, a fin de elaborar instrumento para ser aplicado y en tomar desiciones en bases  sus resultados.",
+        "responsables": "SLEPB y EJE",
+        "fechas": "Mayo a Noviemnre",
+        "instrumentos": "Asistencia e Instrumento."
+      },
+      {
+        "id": "action-1778084689277",
+        "tipoAccion": "Otra",
+        "descripcion": "Trabajo con foco priorizado de comprensión en primero TPA, Diruno.\nSe resaliza disnostico, e implementación de un plan de trabajo sobre comprensión en Servicio de alimentación en el nivel mencionado, (por continuaidad 3 años y permanencia), a fin de poder obtener resultados y tomar desiciones pertinentes.",
+        "responsables": "EJE",
+        "fechas": "Mayo a Octubre",
+        "instrumentos": "Actas, Plan de trabajo, informe final"
+      },
+      {
+        "id": "action-1778084690029",
+        "tipoAccion": "Otra",
+        "descripcion": "Incorporación de análisis de datos en al menos dos reuniones de gestión:\nQue el equipo gestione al menos dos reuniones con revisión sistemática de datos vinculados al foco priorizado.",
+        "responsables": "eje",
+        "fechas": "Aosto y Diciembre",
+        "instrumentos": "Actas e informe"
+      },
+      {
+        "id": "action-1778084690557",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Evaluación interna del proceso y proyección:\nRevisión de lo implementado, dificultades encontradas y planificación de próximas acciones para el año siguiente (2027).",
+        "responsables": "EJE",
+        "fechas": "Diciembre",
+        "instrumentos": "Acta e informe"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T18:31:51.069Z"
+}
