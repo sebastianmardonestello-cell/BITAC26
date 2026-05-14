@@ -1,0 +1,45 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 2do ciclo implementan estrategias de enseñanza-aprendizaje de lecto-escritura y matemática poco efectivas para el logro de los objetivos de aprendizaje   ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar acciones de seguimiento y monitoreo del acompañamiento docente para el mejoramiento de los aprendizajes a través del trabajo colaborativo.\n\n",
+    "estrategiaAnualPME": "Implementación sistemática de procesos de acompañamiento docente mediante observación de aula, retroalimentación pedagógica y análisis de prácticas en espacios de trabajo colaborativo, con foco en el monitoreo de estrategias de enseñanza y su impacto en los aprendizajes de los estudiantes.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1776688640610",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [],
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-14T17:05:13.446Z"
+}
