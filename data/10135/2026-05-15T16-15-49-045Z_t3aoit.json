@@ -1,0 +1,61 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática de segundo ciclo implementas practicas pedagógicas focalizadas en el trabajo con guias, limitando la posibilidad de  un aprendizaje  vivencial a través del uso material concreto en   los y las estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Institucionalizar los procedimientos y estrategias pedagógicas del establecimiento, con foco\nen la evaluación, la diversificación de la enseñanza y el acompañamiento docente sistemático, con el propósito de mejorar los aprendizajes de todos los estudiantes, en coherencia con el Proyecto Educativo Institucional y los lineamientos del Ministerio de Educación.",
+    "estrategiaAnualPME": "Consolidar un sistema de acompañamiento pedagógico al aula que considere observación de clases, retroalimentación docente y espacios de trabajo colaborativo orientados al análisis de prácticas pedagógicas y resultados de aprendizaje ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1778597928080",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller a cargo de la responsable del linea de matemáticas, en uso del carro matemático a docente y jefe técnico",
+        "responsables": "asesora ",
+        "fechas": "1 SEMESTRE",
+        "instrumentos": "lista de asistencia y acta del taller "
+      },
+      {
+        "id": "action-1778598144528",
+        "tipoAccion": "Taller",
+        "descripcion": "Modelamiento de clase practica a estudiantes ",
+        "responsables": "jefe tecnico",
+        "fechas": "segundo semestre",
+        "instrumentos": "acta de la sesión "
+      },
+      {
+        "id": "action-1778598150583",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Dos acompañamiento al aula en el área de matemática ",
+        "responsables": "asesora - jefe técnico ",
+        "fechas": "sergundo semetre",
+        "instrumentos": "pauta de observación - informe final de impacto  "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T16:15:49.045Z"
+}
