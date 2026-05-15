@@ -1,0 +1,71 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "Las educadoras utilizan experiencias de aprendizaje que priorizan el núcleo de comunicacion integral, dificultando las habilidades precursoras del pensamiento matemático en los niños y niñas ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Potenciar ambientes de trabajo colaborativo reflexivos a través de reuniones sistemáticas en pro de los aprendizajes de niños y niñas",
+    "estrategiaAnualPME": "Implementar al menos una instancia semestral de trabajo colaborativo entre los equipos pedagógicos de los niveles sala cuna heterogénea y nivel medio heterogéneo, orientada al intercambio de experiencias educativas significativas y prácticas pedagógicas exitosas propias de la educación parvularia. ",
+    "estandarIndicativo": "7.8 El equipo pedagógico fomenta el pensamiento lógico matemático, favoreciendo en los párvulos la resolución de problemas.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "Las educadoras implementan experiencias de aprendizaje que fortalecen las habilidades precursoras del pensamiento matemático en los niños y niñas, favoreciendo aprendizajes significativos y el desarrollo integral.",
+    "actions": [
+      {
+        "id": "action-1771248412900",
+        "tipoAccion": "Taller",
+        "descripcion": "El taller se desarrollará mediante una metodología participativa y práctica, donde las educadoras de párvulos vivenciarán distintas experiencias de aprendizaje relacionadas con el pensamiento matemático. A través de juegos, uso de material concreto, resolución de desafíos y trabajo colaborativo, se modelarán estrategias pedagógicas que puedan ser implementadas posteriormente en el aula con niños y niñas.",
+        "responsables": "Directora - Ed de párvulo ",
+        "fechas": "abril",
+        "instrumentos": "acta del taller "
+      },
+      {
+        "id": "action-1771248437199",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "reflexión pedagógica, donde las educadoras compartirán experiencias, aprendizajes y desafíos sobre lo trabajado en el taller, promoviendo el intercambio de estrategias y la construcción colaborativa de prácticas que fortalezcan el pensamiento matemático. ",
+        "responsables": "direco",
+        "fechas": "segundo semestre ",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1771248450799",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [
+          ""
+        ],
+        "fechas": "tt",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1771248412900": {
+        "fecha": "",
+        "avance": 49,
+        "justificacion": "El establecimiento consideró que la acción no estaba contribuyendo al objetivo e interrumpió su implementación.",
+        "logros": "fs",
+        "acuerdos": "bxv"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T19:42:04.102Z"
+}
