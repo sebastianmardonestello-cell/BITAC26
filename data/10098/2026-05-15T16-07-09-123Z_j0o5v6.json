@@ -1,0 +1,61 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo, identifica brechas en la calidad de escritura de los estudiantes de 5 básico , lo que dificulta el aprendizaje y la autoestima académica de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Consolidar el acompañamiento a los docentes con el fin de desarrollar capacidades y competencias en los profesores, mediante monitoreo y retroalimentación constante para potenciar y asegurar las trayectorias educativas de los estudiantes.",
+    "estrategiaAnualPME": "Consolidar el plan de acompañamiento docente, ampliando su implementación desde un enfoque focalizado a uno institucional, mediante la sistematización del monitoreo de las prácticas pedagógicas y la retroalimentación efectiva, promoviendo el desarrollo de capacidades profesionales, la reflexión pedagógica y el trabajo colaborativo en las asignaturas de lenguaje y matemáticas.",
+    "estandarIndicativo": "4.3 El equipo directivo gestiona la elaboración de planificaciones que contribuyen a la conducción efectiva de los procesos de enseñanza aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "1. Estrategia de transición educativa y articulación para el fortalecimiento de las trayectorias de párvulos y estudiantes",
+    "practicaDeseada": "El equipo directivo fortalece estrategias orientadas al desarrollo de la calidad de escritura en los estudiantes de 5° básico, con la finalidad de potenciar sus aprendizajes y fortalecer su autoestima académica.",
+    "actions": [
+      {
+        "id": "action-1778852478879",
+        "tipoAccion": "Otra",
+        "descripcion": "Reunión con docente de Lenguaje de segundo ciclo para socializar y analizar los resultados de la evaluación diagnóstica de escritura DIA , con el propósito de favorecer su involucramiento en el diseño e implementación de acciones pedagógicas orientadas a fortalecer la calidad de la escritura de los y las estudiantes. Durante la jornada, se entregarán estrategias y orientaciones metodológicas para apoyar la mejora continua de las habilidades de escritura.",
+        "responsables": "jefe técnico - directora",
+        "fechas": "1 semestre",
+        "instrumentos": "evaluacion dia - acta de Reunión "
+      },
+      {
+        "id": "action-1778852942401",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "jefe técnico asiste acompañar  al docente, para visualizar la implementación de las estrategias utilizadas ",
+        "responsables": "jefe técnico - docente de lenguaje ",
+        "fechas": "segundo semestre",
+        "instrumentos": "acta del acompañamiento "
+      },
+      {
+        "id": "action-1778853107621",
+        "tipoAccion": "Otra",
+        "descripcion": "Reflexión sobre los acompañamientos, las estrategias estregadas tuvieron el impacto esperado en los niños y niñas",
+        "responsables": "jefe tecnico- docente de lenguaje ",
+        "fechas": "segundo semestre ",
+        "instrumentos": "Evaluación de impacto "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T16:07:09.123Z"
+}
