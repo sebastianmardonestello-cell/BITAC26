@@ -1,0 +1,36 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 4 y 5 básico planifican actividades de aprendizaje de manera aislada, delimitando la articulación entre niveles para una propuesta metodológica institucional. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para profundizar en áreas críticas, articular prácticas e interacciones pedagógicas a través de instancias de reflexión y trabajo colaborativo, en conjunto con las acciones del Plan Desarrollo Profesional Docente que permita generar una gestión pedagógica exitosa.\n",
+    "estrategiaAnualPME": "Implementación de espacios de análisis de datos, reflexión y trabajo colaborativo entre docentes, educadoras diferenciales, asistentes de la educación para compartir e intercambiar prácticas exitosas que generen aprendizajes profundos en los estudiantes.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T14:05:07.553Z"
+}
