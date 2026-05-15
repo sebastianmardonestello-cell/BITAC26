@@ -1,0 +1,69 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico y directo implementan lineamientos pedagógicos generales, lo que deriva en interacciones poco sensibles a las necesidades emocionales y académicas de los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Sistematizar las prácticas pedagógicas promoviendo comunidades de aprendizaje a través de un trabajo colaborativo y reflexivo que permitan: el desarrollo de habilidades y competencias, el logro y la promoción del aprendizaje profundo e integral de los estudiantes.",
+    "estrategiaAnualPME": "Monitoreando el trabajo colaborativo y reflexivo entre docentes, mediante instancias sistemáticas de análisis pedagógico, observación y retroalimentación de prácticas de aula, promoviendo la socialización de metodologías y estrategias pedagógicas diversificadas que contribuyan a mejorar los procesos de enseñanza y aprendizaje de todos los estudiantes.",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "7. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "El quipo pedagógico y directo acuerdan lineamientos pedagógicos comunes, para potenciar las interacciones sensibles a las necesidades emocionales y académicas de los estudiantes",
+    "actions": [
+      {
+        "id": "action-1778763262333",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada desde el equipo directivo que tienen por objetivo levantar prácticas esperadas para potenciar el vinculo estudiantes-docentes, diversificación de practicas de enseñanza, rol de profesor jefe.",
+        "responsables": "Equipo de gestión-asesor",
+        "fechas": "27/05/2026",
+        "instrumentos": "Acta, Síntesis de propuestas de buenas practicas"
+      },
+      {
+        "id": "action-1778763580605",
+        "tipoAccion": "Taller",
+        "descripcion": "Talleres de reflexión y análisis con profesores de lenguaje y matemáticas de 4°, 6°, y 2°medio destinados a presentar y co-construir lineamientos de buenas practicas como establecimiento en temáticas de enseñanza-aprendizaje de las asignaturas, DUA y Vínculos positivos entre docentes y estudiantes",
+        "responsables": "Equipo de gestión/asesor",
+        "fechas": "2do semestre",
+        "instrumentos": "Acta y propuestas de docentes"
+      },
+      {
+        "id": "action-1778763759613",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornada de síntesis de propuesta definitiva de lineamientos de buenas practicas en enseñanza-aprendizaje, vínculo y diversificación de enseñanza del establecimiento",
+        "responsables": "Equipo de gestión/asesor",
+        "fechas": "Octubre",
+        "instrumentos": "Documento de buenas practicas del EE, acta de jornada"
+      },
+      {
+        "id": "action-1778763959117",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Sociabilización de propuesta definitiva de documento que sintetiza buenas prácticas comunes para el establecimiento ",
+        "responsables": "Equipo de gestión",
+        "fechas": "Octubre",
+        "instrumentos": "Acta de jornada y documento publicado."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T16:31:24.378Z"
+}
