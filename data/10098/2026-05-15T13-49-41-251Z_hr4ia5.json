@@ -1,0 +1,53 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo, identifica brechas en la calidad de escritura de los estudiantes de 5 básico  , lo que dificulta el aprendizaje y la autoestima académica de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "4.3 El equipo directivo gestiona la elaboración de planificaciones que contribuyen a la conducción efectiva de los procesos de enseñanza aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "1. Estrategia de transición educativa y articulación para el fortalecimiento de las trayectorias de párvulos y estudiantes",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1778852478879",
+        "tipoAccion": "Otra",
+        "descripcion": "Reunión con docente de lenguaje en segundo ciclo, para compartir  y analizar los resultados de la evaluación dia de escritura , con el propicito de lograr su involucramientos en el diseño y la  implementaciones de las acciones.",
+        "responsables": "jefe técnico - directora",
+        "fechas": "1 semestre",
+        "instrumentos": "evaluacion dia - acta de Reunión "
+      },
+      {
+        "id": "action-1778852942401",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "jefe tecnico asis",
+        "responsables": "",
+        "fechas": "segundo semestre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T13:49:41.251Z"
+}
