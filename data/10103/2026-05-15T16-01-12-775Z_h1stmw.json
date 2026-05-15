@@ -1,0 +1,61 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de segundo ciclo utilizan pocas normas  y estructura dentro de la sala de clases lo que dificulta  la  relación al clima de aula del segundo ciclo con la finalidad de potenciar o mejorar los aprendizajes de los y las estudiantes ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Fortalecer estrategias de enseñanza que apunten a promover el aprendizaje profundo en todas y todos nuestros estudiantes de primer y segundo ciclo potenciando las prácticas pedagógicas de las y los docentes",
+    "estrategiaAnualPME": "Fortalecer la colaboración docente y la sistematización de estrategias de enseñanza y evaluación formativa, con el objetivo de consolidar el aprendizaje profundo adecuando las metodologías a los distintos niveles y estilos de aprendizaje de los estudiantes",
+    "estandarIndicativo": "5.3 Los docentes establecen vínculos pedagógicos positivos con todos sus estudiantes y generan motivación por la asignatura.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "Los docentes de segundo ciclo implementan normas claras, consistentes y una estructura organizada dentro de la sala de clases, favoreciendo un clima de aula positivo, respetuoso y propicio para el aprendizaje, con la finalidad de potenciar el desarrollo integral y mejorar los aprendizajes de los y las estudiantes.",
+    "actions": [
+      {
+        "id": "action-1778613981083",
+        "tipoAccion": "Taller",
+        "descripcion": "Presentar la problemática identificada y, a través de un taller participativo, generar un espacio de reflexión y análisis orientado a la elaboración de un plan de trabajo. Este plan considerará estrategias, técnicas y acciones específicas, con plazos definidos, que favorezcan el fortalecimiento del clima de aula y la mejora de la convivencia escolar.",
+        "responsables": "equipo de gestion",
+        "fechas": "1 semestre ",
+        "instrumentos": "acta y producto "
+      },
+      {
+        "id": "action-1778614214913",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "monitorio y seguimiento de las acciones propuestas ",
+        "responsables": "equipo de gestion ",
+        "fechas": "segundo semestre ",
+        "instrumentos": "acta "
+      },
+      {
+        "id": "action-1778614217483",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "socialización de estrategias exitosas y evolución ",
+        "responsables": "docente expositores de segundo cliclo",
+        "fechas": "segundo semtres",
+        "instrumentos": "informe final de impacto"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T16:01:12.775Z"
+}
