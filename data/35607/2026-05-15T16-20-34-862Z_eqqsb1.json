@@ -1,0 +1,61 @@
+{
+  "asesor": "",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa practicas educativas focalizadas solo en los niveles medios con niños y niñas con NEE, limitando las posibilidades de aprendizaje de todos los niños y niñas de los niveles medios ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer la interacción pedagógica para potenciar la imaginación y creatividad e los párvulos, mediante ambientes de aprendizaje flexibles y lúdicos ",
+    "estrategiaAnualPME": "Fortalecer la implementación del sellos artística mediante la incorporación sistemática de experiencias de aprendizaje en expresión artística en las planificaciones mensuales ",
+    "estandarIndicativo": "7.3 El equipo pedagógico genera experiencias e interacciones que valoran la diversidad y promueven la inclusión dentro de cada grupo y nivel.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Implementar acciones que favorezcan la valoración de la diversidad y la inclusión en el aula.",
+    "practicaDeseada": "El equipo pedagógico implementa prácticas educativas inclusivas y diversificadas en los niveles medios, promoviendo oportunidades de aprendizaje significativas para todos los niños y niñas, considerando especialmente las necesidades educativas especiales (NEE).",
+    "actions": [
+      {
+        "id": "action-1777492354403",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Se propone contar con una profesional del área de inclusión que pueda realizar una charla dirigida al equipo educativo, enfocada en entregar estrategias y tips prácticos para el trabajo en aula con niños y niñas, tanto con Necesidades Educativas Especiales (NEE) como sin ellas.",
+        "responsables": "directora ",
+        "fechas": "1 semestre ",
+        "instrumentos": "acta de participación "
+      },
+      {
+        "id": "action-1777492426035",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller que promueva la reflexión y la entrega de herramientas prácticas para abordar las Necesidades Educativas Especiales (NEE) en los niveles medios, favoreciendo la comprensión y el acompañamiento de niños y niñas, tanto con NEE como sin ellas.”",
+        "responsables": "educadoras ",
+        "fechas": "segundo semestre ",
+        "instrumentos": "lista de participantes, fotografías, en cuenta previa hacia las familias para conocer sus dudas ,  google form para conocer la opiniones de la familia con respecto al taller "
+      },
+      {
+        "id": "action-1777492498027",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "En el marco del CAUE, se propone generar un espacio de análisis y reflexión en torno a las acciones 1 y 2 implementadas, con el propósito de evaluar el impacto que estas han tenido en las comunidades educativas.",
+        "responsables": "equipo pedagogi",
+        "fechas": "segundo semestre ",
+        "instrumentos": "formulario, acta de Reunión "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T16:20:34.862Z"
+}
