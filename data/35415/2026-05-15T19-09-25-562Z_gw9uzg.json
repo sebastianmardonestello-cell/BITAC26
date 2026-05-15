@@ -1,0 +1,75 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "Las educadoras utilizan experiencias de aprendizaje que priorizan el núcleo de comunicacion integral, dificultando las habilidades precursoras del pensamiento matemático en los niños y niñas ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Potenciar ambientes de trabajo colaborativo reflexivos a través de reuniones sistemáticas en pro de los aprendizajes de niños y niñas",
+    "estrategiaAnualPME": "Implementar al menos una instancia semestral de trabajo colaborativo entre los equipos pedagógicos de los niveles sala cuna heterogénea y nivel medio heterogéneo, orientada al intercambio de experiencias educativas significativas y prácticas pedagógicas exitosas propias de la educación parvularia. ",
+    "estandarIndicativo": "7.8 El equipo pedagógico fomenta el pensamiento lógico matemático, favoreciendo en los párvulos la resolución de problemas.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": [
+      {
+        "id": "action-1771248412900",
+        "tipoAccion": "Capacitación",
+        "descripcion": "",
+        "responsables": [
+          ""
+        ],
+        "fechas": "abril",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1771248437199",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [
+          ""
+        ],
+        "fechas": "xdf",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1771248450799",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": [
+          ""
+        ],
+        "fechas": "tt",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1771248412900": {
+        "fecha": "",
+        "avance": 49,
+        "justificacion": "El establecimiento consideró que la acción no estaba contribuyendo al objetivo e interrumpió su implementación.",
+        "logros": "fs",
+        "acuerdos": "bxv"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T19:09:25.562Z"
+}
