@@ -1,0 +1,36 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "Las estrategias pedagógicas implementadas en el primer nivel de enseñanza básica, en las asignaturas de Lenguaje y Matemática, se centran predominantemente en el desarrollo de habilidades procedimentales y mecánicas. Esta orientación didáctica posterga la enseñanza de estrategias de comprensión profunda y razonamiento lógico, generando una base de aprendizaje debilitada que no logra articularse con la demanda cognitiva requerida en los niveles superiores (5° y 6° básico), lo que se refleja en la inestabilidad de los resultados institucionales.\n",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar políticas, procedimientos y prácticas de organización, preparación, implementación y evaluación del proceso educativo para la mejora en el logro de los aprendizajes de los/as estudiantes, considerando las necesidades y potencialidades de cada uno de ellos/as.",
+    "estrategiaAnualPME": "Consolidar las prácticas pedagógicas mediante acompañamiento docente, planificación colaborativa y evaluación formativa sistemática.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "Los docentes de 1° a 4° básico en Lenguaje y Matemática implementan estrategias pedagógicas articuladas que integran la alfabetización inicial con actividades de comprensión, interpretación y resolución de problemas, promoviendo la participación activa y el uso del conocimiento en contextos diversos, asegurando la progresión de habilidades y una trayectoria de aprendizaje coherente hacia los niveles superiores.\n\n",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T12:56:25.111Z"
+}
