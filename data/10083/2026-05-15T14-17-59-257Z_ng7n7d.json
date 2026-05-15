@@ -1,0 +1,36 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo y de gestión implementan lineamientos incipientes y poco efectivos para el desarrollo de las habilidades esenciales y niveles de comprensión lectora  en 3, 4 y 6 básico, debilitando el desarrollo de habilidades de lectura y comprensión en los estudiantes  y afectando la articulación pedagógica con los demás niveles educativos.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante la generación de espacios de análisis y discusión para la mejora de los resultados académicos.\n",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones\npedagógicas que\npromuevan la mejora\nde los resultados de\naprendizaje. \n",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-15T14:17:59.257Z"
+}
