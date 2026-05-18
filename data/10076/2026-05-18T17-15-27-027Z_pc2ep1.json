@@ -1,0 +1,69 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes que imparten la asignatura de Matemática en 1° Medio utlizan estrategias tradicionales centradas principalmente en el algoritmo, lo que provoca un desarrollo incipiente del pensamiento lógico matemático desde la problematización.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fomentar el desarrollo\nprofesional docente a través de\nestrategias de trabajo\ncolaborativo y\nacompañamiento a la labor\ndocente para contribuir con la\nmejora de aprendizajes.",
+    "estrategiaAnualPME": "Implementar el plan de\ndesarrollo profesional docente.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes que imparten la asignatura de Matemática en 1° Medio utlizan estrategias diversificadas que potencian un adecuado desarrollo del pensamiento lógico matemático desde la problematización.",
+    "actions": [
+      {
+        "id": "action-1778611328706",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada de análisis sobre resultados DIA, SEAT y Matemática en Aptus, en relación a la habilidades de Resolución de Problemas. Participan docentes de Matemática de 1° Medio, Jefa de UTP, Directora y asesor.",
+        "responsables": "Jefa UTP",
+        "fechas": "Martes 09 de Junio",
+        "instrumentos": "Presentación, lista de asistencia, acta con acuerdos."
+      },
+      {
+        "id": "action-1778611594051",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En instancia de reflexión pedagógica, docentes de Matemática y Profesionales PIE de 1° medio, en conjunto con Jefa de UTP, acuerdan y diseñan estrategias para el desarrollo sistemático de las habilidades de Resolución de Problemas, con el fin de promover el pensamiento lógico matemático desde la problematización.",
+        "responsables": "Jefa de UTP",
+        "fechas": "Junio-Julio",
+        "instrumentos": "Presentación, lista de asistencia, propuesta metodológica"
+      },
+      {
+        "id": "action-1778611828344",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "El equipo de gestión lidera acompañamiento al aula, con el fin de hacer seguimiento y retroalimentar la implementación de estrategias para el desarrollo de la habilidades de Resolución de Problemas.",
+        "responsables": "Equipo de gestión",
+        "fechas": "Julio a Noviembre",
+        "instrumentos": "Pauta de acompañamiento y retroalimentación docente."
+      },
+      {
+        "id": "action-1778612427057",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "En instancia de reflexión pedagógica con los docentes de matemática de 1° Medio, se analiza el trabajo  realizado durante el año, se analizan resultados y se proyectan líneas de trabajo para el año 2027.",
+        "responsables": "Jefa de UTP",
+        "fechas": "Noviembre",
+        "instrumentos": "Presentación, resultados, Proyección año 2027, informe final."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-18T17:15:27.027Z"
+}
