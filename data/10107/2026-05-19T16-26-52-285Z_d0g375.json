@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de segundo ciclo básico implementa prácticas de enseñanza-aprendizaje con escasa diversificación metodológica y limitada la incorporación de estrategias activas, lo que restringe el desarrollo progresivo de habilidades cognitivas en Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer los procesos de implementación curricular mediante el uso de estrategias de\nenseñanza-aprendizaje efectivas, con el objetivo de cultivar hábitos y habilidades en los\nestudiantes. Esto se logrará a través de la observación y la retroalimentación constructivas\nde clases.",
+    "estrategiaAnualPME": "Instancias de trabajo colaborativo para fortalecer el acompañamiento docente, con foco en la mejora de los procesos de enseñanza y aprendizaje en las asignaturas de Lenguaje y\nMatemática, tanto en el primer como en el segundo ciclo.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T16:26:52.285Z"
+}
