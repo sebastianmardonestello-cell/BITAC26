@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de primer ciclo básico implementa metodologías de enseñanza en la asignatura de Lenguaje con escasa diversificación y predominio de estrategias homogéneas, poco contextualizadas, lo que restringe el desarrollo progresivo de habilidades de lectura y escritura, dificultando el logro de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar estrategias efectivas de enseñanza-aprendizaje para desarrollar capacidades y competencias que optimicen los resultados de aprendizaje en Lenguaje y Matemática en los\nestudiantes de primer y segundo ciclo.",
+    "estrategiaAnualPME": "Consolidación de capacidades técnicas pedagógicas que promuevan el desarrollo de habilidades para la mejora de resultados de aprendizaje de Lenguaje y Matemática en nuestros estudiantes",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T16:24:35.841Z"
+}
