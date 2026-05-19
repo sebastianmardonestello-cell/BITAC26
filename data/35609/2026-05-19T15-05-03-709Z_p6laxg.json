@@ -1,0 +1,36 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "En la sala cuna, los procesos de observación y retroalimentación de las prácticas pedagógicas presentan escasas oportunidades de análisis y reflexión conjunta, dificultando la toma de decisiones para la mejora continua.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T15:05:03.710Z"
+}
