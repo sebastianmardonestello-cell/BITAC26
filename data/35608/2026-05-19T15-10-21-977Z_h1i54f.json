@@ -1,0 +1,61 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "La comunidad educativa presenta dificultades para sostener acciones concretas y apropiarse del concepto de conciencia medioambiental lo que dificulta la consolidación del sello en el jardín infantil.",
+    "dimensionPME": "Familia y Comunidad",
+    "subdimensionPME": "Vínculo Familia - Establecimiento",
+    "objetivoEstrategicoPME": "Potenciar el vínculo",
+    "estrategiaAnualPME": "Implementar talleres de pensamiento científico enfocado en la conciencia ambiental.",
+    "estandarIndicativo": "",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "18. Promoción de estrategias de cuidado del entorno natural y el medioambiente.",
+    "practicaDeseada": "La comunidad educativa se apropia a través de diversas acciones cotidianas del concepto de conciencia medioambiental consolidando el sello del jardín infantil.",
+    "actions": [
+      {
+        "id": "action-1778618415434",
+        "tipoAccion": "Otra",
+        "descripcion": "Los equipos educativos confeccionarán cápsulas con el fin de entregar información sobre la importancia de la conciencia medioambiental y mostrar los lugares físicos y/o puntos limpios del jardín infantil.",
+        "responsables": "Equipo educativo",
+        "fechas": "Primer semestre",
+        "instrumentos": "Muestra de las cápsulas y toma de conocimiento de las familias."
+      },
+      {
+        "id": "action-1778618731699",
+        "tipoAccion": "Otra",
+        "descripcion": "Con esta acción se espera promocionar las acciones desarrolladas en el jardín y visibilizar a través de recursos audiovisuales (letreros, brújulas, entre otros), los puntos limpios e informar los días recolección de reciclaje. Además, se motivará a las familias sobre las acciones de certificación medioambiental.",
+        "responsables": "Equipo educativo",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Registro fotográfico de los puntos limpios e informativos compartidos a las familias."
+      },
+      {
+        "id": "action-1778618888858",
+        "tipoAccion": "Otra",
+        "descripcion": "En esta acción se aplicará una encuesta de satisfacción con preguntas abiertas y cerradas, para evaluar y conocer la apreciación de las familias sobre aquellos aspectos les gustaría seguir fortaleciendo, mejorando y/o modificar alguna actividad implementada para fortalecer la conciencia medioambiental en el jardín infantil.",
+        "responsables": "Equipo educativo",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Resultados y análisis cualitativo de la encuesta de satisfacción. Acta de conclusiones y oportunidades de mejora."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T15:10:21.978Z"
+}
