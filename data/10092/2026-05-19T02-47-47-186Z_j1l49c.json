@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de gestión realiza un seguimiento poco sistemático a las estrategias de enseñanza-aprendizaje implementadas en Lenguaje y Matemática en los niveles de segundo y cuarto año básico, lo que dificulta la retroalimentación oportuna y la consolidación de prácticas pedagógicas diversificadas orientadas al desarrollo de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para la implementación de estrategias efectivas de enseñanza-aprendizaje en Lenguaje y Matemática, optimizando los procesos de enseñanza en primer y segundo ciclo.",
+    "estrategiaAnualPME": "Instancias de acompañamiento docente, fortaleciendo espacios de análisis y discusión pedagógica con enfoque en la mejora de los resultados de aprendizaje en Lenguaje y Matemática.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T02:47:47.186Z"
+}
