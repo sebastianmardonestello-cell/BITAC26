@@ -1,0 +1,45 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El educativo educativo implementa experiencias educativas focalizadas sólo en la sala, limitando la posibilidad de otorgarle una intención educativa al patio que fortalezca el sello del jardín y amplíe las oportunidades de aprendizaje de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Consolidar las interacciones pedagógicas para potenciar la imaginación y creatividad de los párvulos, mediante la planificación educativa.",
+    "estrategiaAnualPME": "Implementar un proceso sistemático de creación, uso y evaluación de material educativo en espacios comunes, alineado con el sello educativo, que promueva experiencias de aprendizaje significativas para los niños y niñas.",
+    "estandarIndicativo": "8.1 El equipo pedagógico, en conjunto con los párvulos, organizan y crean ambientes físicos flexibles, lúdicos y pedagógicamente intencionados para el aprendizaje significativo e inclusivo de la comunidad.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de  experiencias de aprendizaje basadas en el principio del juego. ",
+    "practicaDeseada": "El equipo educativo implementa recursos pedagógicos con intención educativa en algunos sectores del patio, fortaleciendo el sello del jardín y los aprendizajes de los niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1779192687308",
+        "tipoAccion": "Otra",
+        "descripcion": "El equipo educativo realizará un mapeo de los distintos sectores del patio ",
+        "responsables": "",
+        "fechas": "Mayo - Junio",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-19T15:20:31.346Z"
+}
