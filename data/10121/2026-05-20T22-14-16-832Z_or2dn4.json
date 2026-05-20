@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de primer ciclo básico implementan estrategias de enseñanza-aprendizaje de manera poco sistemática y con limitada diversificación metodológica en las asignaturas de Lenguaje y Matemática, predominando prácticas centradas en actividades de baja complejidad cognitiva y escasa articulación pedagógica, lo que restringe el desarrollo progresivo de habilidades disciplinares y cognitivas para la promoción de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar estrategias innovadoras y colaborativas de enseñanza-aprendizaje, integrando\nmetodologías activas que favorezcan el desarrollo de habilidades en Lenguaje y Matemática\npara los estudiantes del primer y segundo ciclo.",
+    "estrategiaAnualPME": "Desarrollar Jornadas de trabajo colaborativo y acompañamiento docente que permitan la\nreflexión de la práctica pedagógica y el análisis de resultados, fortaleciendo los procesos de\nenseñanza y aprendizaje y el logro de las metas propuestas.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "Los docentes de primer ciclo básico implementan estrategias de enseñanza-aprendizaje diversificadas y articuladas en Lenguaje y Matemática, promoviendo el desarrollo progresivo de habilidades disciplinares y cognitivas para favorecer aprendizajes profundos en los estudiantes.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-20T22:14:16.832Z"
+}
