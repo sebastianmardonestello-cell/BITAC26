@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico utiliza las horas no lectivas con limitada intencionalidad pedagógica y escasa articulación colaborativa, predominando acciones administrativas y prácticas poco sistemáticas, lo que restringe los espacios de reflexión profesional, el análisis y apropiación de las nuevas Bases Curriculares de EPJA, así como la implementación de metodologías activas orientadas al aprendizaje profundo y al desarrollo progresivo de habilidades en los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Consolidar las oportunidades de aprendizaje significativo y profundo a través del trabajo\ninterdisciplinarios y colaborativo entre los distintos departamentos para asegurar las\ntrayectorias educativas",
+    "estrategiaAnualPME": "Intancias de trabajo docente interdisciplinario mediante comunidades de aprendizaje que\nfortalezcan las prácticas pedagógicas centradas en resguardar las trayectorias educativas.",
+    "estandarIndicativo": "5.1 Los docentes centran sus clases en los Objetivos de Aprendizaje estipulados en las Bases Curriculares, con un manejo riguroso de las habilidades, contenidos y actitudes a desarrollar.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-20T18:41:39.424Z"
+}
