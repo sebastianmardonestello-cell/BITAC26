@@ -1,0 +1,61 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo Implementa de manera poco sistemática estrategias formativas orientadas al fortalecimiento de la convivencia armónica y la ciudadanía, limitando oportunidades cotidianas para promover habilidades socioemocionales, el respeto , la escucha activa, la colaboración y la empatía entre los distintos integrantes de la comunidad educativa.",
+    "dimensionPME": "Bienestar Integral",
+    "subdimensionPME": "Buen Trato y Convivencia",
+    "objetivoEstrategicoPME": "Promover hábitos de autocuidado en los párvulos integrando acciones pedagógicas que promuevan la convivencia educativa",
+    "estrategiaAnualPME": "Sistematizar la implementación de acciones pedagógicas de autocuidado y convivencia educativa mediante la planificación, ejecución y evaluación de experiencias intencionadas y lúdicas, que promuevan la adquisición de hábitos en los párvulos en distintos contextos de la jornada educativa.\n\n\n",
+    "estandarIndicativo": "9.2 El equipo pedagógico and el directivo implementan estrategias que favorecen la integración social de los niños y las niñas y el desarrollo de conductas de convivencia democrática.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "19. Promoción de estrategias para el autocuidado de los párvulos.",
+    "practicaDeseada": "El equipo educativo cuenta con oportunidades para fortalecer y sistematizar estrategias formativas orientadas a convivencia armónicas y la ciudadanía, promoviendo de manera más interinidad habilidades socioemocionales, el respeto , la escucha activa, la colaboración y la empatía entre los distintos integrantes de la comunidad educativa.",
+    "actions": [
+      {
+        "id": "action-1779289347709",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1779289620020",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller de autocuidado ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1779289641048",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-20T15:07:46.344Z"
+}
