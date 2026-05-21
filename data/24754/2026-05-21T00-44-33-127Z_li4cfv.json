@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Incorporar prácticas pedagógicas en los docentes , que los hagan facilitadores del proceso de enseñanza aprendizaje, desarrollando habilidades y competencias en nuestros estudiantes a través de estrategias innovadoras en distintas asignaturas.",
+    "estrategiaAnualPME": "Implementar jornadas de trabajo colaborativo y planificación de estrategias innovadoras de enseñanza aprendizaje que desarrollen habilidades y competencias en nuestros estudiantes.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-21T00:44:33.127Z"
+}
