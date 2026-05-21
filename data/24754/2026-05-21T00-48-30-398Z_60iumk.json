@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo implementa acciones de apoyo de manera poco sistemática y con limitada articulación para abordar barreras idiomáticas y procesos de revinculación educativa en estudiantes con trayectorias formativas discontinuas, lo que restringe la generación de condiciones inclusivas para la permanencia y el aprendizaje de los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Incorporar prácticas pedagógicas en los docentes , que los hagan facilitadores del proceso de enseñanza aprendizaje, desarrollando habilidades y competencias en nuestros estudiantes a través de estrategias innovadoras en distintas asignaturas.",
+    "estrategiaAnualPME": "Implementar jornadas de trabajo colaborativo y planificación de estrategias innovadoras de enseñanza aprendizaje que desarrollen habilidades y competencias en nuestros estudiantes.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-21T00:48:30.398Z"
+}
