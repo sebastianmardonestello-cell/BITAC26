@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de segundo ciclo básico implementa prácticas de enseñanza-aprendizaje con escasa diversificación metodológica y limitada la incorporación de estrategias activas, lo que restringe el desarrollo progresivo de habilidades cognitivas en Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer los procesos de implementación curricular mediante el uso de estrategias de enseñanza-aprendizaje efectivas, con el objetivo de cultivar hábitos y habilidades en los estudiantes. Esto se logrará a través de la observación y la retroalimentación constructivas de clases.",
+    "estrategiaAnualPME": "Instancias de trabajo colaborativo para fortalecer el acompañamiento docente, con foco en la mejora de los procesos de enseñanza y aprendizaje en las asignaturas de Lenguaje y\nMatemática, tanto en el primer como en el segundo ciclo.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de segundo  básico implementa prácticas de enseñanza-aprendizaje diversificadas e incorpora estrategias activas en las asignaturas de Lenguaje y Matemática, promoviendo el desarrollo progresivo de habilidades cognitivas en los estudiantes",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-21T00:11:48.945Z"
+}
