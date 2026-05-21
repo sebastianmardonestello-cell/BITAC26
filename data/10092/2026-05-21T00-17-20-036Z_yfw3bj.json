@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de gestión realiza un seguimiento poco sistemático a las estrategias de enseñanza-aprendizaje implementadas en Lenguaje y Matemática en los niveles de segundo y cuarto año básico, lo que dificulta la retroalimentación oportuna y la consolidación de prácticas pedagógicas diversificadas orientadas al desarrollo de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para la implementación de estrategias efectivas de enseñanza-aprendizaje en Lenguaje y Matemática, optimizando los procesos de enseñanza en primer y segundo ciclo.",
+    "estrategiaAnualPME": "Instancias de acompañamiento docente, fortaleciendo espacios de análisis y discusión pedagógica con enfoque en la mejora de los resultados de aprendizaje en Lenguaje y Matemática.",
+    "estandarIndicativo": "4.4 El equipo directivo y el técnico-pedagógico acompañan a los docentes mediante la observación y retroalimentación de clases.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de gestión implementa un seguimiento sistemático y articulado a las estrategias de enseñanza-aprendizaje en las asignaturas de Lenguaje y Matemática en los niveles de segundo y cuarto año básico, con el propósito de fortalecer la retroalimentación pedagógica y consolidar prácticas diversificadas que promuevan aprendizajes profundos en los estudiantes.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-21T00:17:20.036Z"
+}
