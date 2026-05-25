@@ -1,0 +1,61 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 3° y 4° básico implementa estrategias pedagógicas propias y asiladas entre estos niveles, lo que dificulta la continuidad de los procesos y debilita la efectividad de la enseñanza para asegurar el logro de los Objetivos de Aprendizaje en las asignaturas de Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar el desarrollo de habilidades cognitivas de nivel superior en los estudiantes, mediante la articulación pedagógica institucional y la implementación de estrategias didácticas coherentes con el currículum, que promuevan aprendizajes profundos y significativos.",
+    "estrategiaAnualPME": "Consolidar la implementación de estrategias didácticas orientadas al desarrollo de habilidades superiores mediante el acompañamiento pedagógico, el trabajo colaborativo docente y el análisis sistemático de evidencias de aprendizaje",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de 3° y 4° básico ejecuta un diseño pedagógico articulado y secuencial, aplicando estrategias efectivas que garantizan una trayectoria de aprendizaje coherente y sprofundo de los Objetivos de Aprendizaje en Lenguaje y Matemática",
+    "actions": [
+      {
+        "id": "action-1779717755096",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Analizar la coherencia técnica entre las planificaciones y las prácticas de aula de 3° y 4° básico, mediante el cruce de resultados DIA y evaluaciones internas.",
+        "responsables": "Equipo directivo",
+        "fechas": "Abril",
+        "instrumentos": "Presentación de resultados "
+      },
+      {
+        "id": "action-1779717903516",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Diseñar una ruta de trabajo articulada (orientaciones/plan) que defina criterios metodológicos comunes y secuencias didácticas compartidas, con el fin de asegurar que la enseñanza en ambos niveles responda a una trayectoria lógica y continua hacia el logro de los Objetivos de Aprendizaje.",
+        "responsables": "Coordinación pedagógica (utp+pie)",
+        "fechas": "Mayo",
+        "instrumentos": "Planificaciones (muestra)"
+      },
+      {
+        "id": "action-1779718018366",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Ejecutar experiencias de aprendizaje basadas en el diseño articulado, utilizando el acompañamiento entre pares y el modelamiento en aula para asegurar que las estrategias acordadas se apliquen de manera efectiva y consistente frente a los estudiantes",
+        "responsables": "",
+        "fechas": "Mayo-Octubre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T14:11:11.698Z"
+}
