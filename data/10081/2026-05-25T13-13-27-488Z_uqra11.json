@@ -1,0 +1,61 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 2° a 4° básico implementa estrategias de retroalimentación y evaluación formativa centradas principalmente en el monitoreo mecánico de la lectoescritura, con énfasis en respuestas correctas e incorrectas. Esta práctica limita el desarrollo de habilidades de comprensión profunda, pensamiento crítico y autonomía en la producción escrita de los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar los aprendizajes de los estudiantes mediante la implementación sistemática de estrategias metodológicas y tecnológicas diversificadas en las asignaturas troncales, fortaleciendo el desarrollo de habilidades en Lenguaje, Matemática, Ciencias Naturales e Historia.",
+    "estrategiaAnualPME": "Al finalizar el cuarto año del ciclo PME, al menos el 75% de los estudiantes mejora sus niveles de aprendizaje en las asignaturas troncales, evidenciado en resultados de evaluaciones internas y del Diagnóstico Integral de Aprendizajes (DIA), como resultado de la implementación sistemática de estrategias metodológicas diversificadas por parte de los docentes.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de 2° a 4° básico implementa estrategias metodológicas diversificadas que promueven el desarrollo de habilidades de comprensión y de orden superior, integrando retroalimentación descriptiva y oportuna centrada en los procesos de aprendizaje. Esta práctica favorece el logro de niveles profundos de comprensión lectora y el desarrollo de la autonomía en la escritura de los estudiantes, utilizando el error como una oportunidad de aprendizaje y reflexión.",
+    "actions": [
+      {
+        "id": "action-1779713466505",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Triangulación de las evaluaciones internas, las pruebas del Diagnóstico Integral de Aprendizaje (DIA) y los ensayos SIMCE en el nivel de 2° a 4° básico; el propósito es contrastar si los criterios de corrección aplicados por el equipo de aula se limitan al monitoreo mecánico y literal, o si miden efectivamente las habilidades de inferencia, reflexión y producción textual autónoma exigidas por las mediciones nacionales.",
+        "responsables": "Jefa de utp",
+        "fechas": "ABRIL",
+        "instrumentos": "Presentación de resultados"
+      },
+      {
+        "id": "action-1779714235637",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Rediseñar las estrategias de aula para el primer ciclo, integrando de manera sistemática actividades de análisis de textos.\n",
+        "responsables": "Coordinación pedagógica (utp+pie)",
+        "fechas": " Mayo – Noviembre (mensuales)",
+        "instrumentos": "Planificaciones (muestra)"
+      },
+      {
+        "id": "action-1779714412293",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Ejecutar un programa de acompañamiento docente centrado en la retroalimentación de la mediación pedagógica en Durante la fase de implementación, los docentes llevarán a cabo en el aula las estrategias diseñadas, con el objetivo de promover el desarrollo de habilidades de comprensión y la autonomía en la escritura de los estudiantes. Este proceso será acompañado sistemáticamente por el equipo técnico mediante observaciones de aula, instancias de co-planificación y retroalimentación pedagógica. Además, se apoyará el uso de recursos como guías con preguntas abiertas, textos para el análisis y pautas de escritura, junto con la aplicación de estrategias de evaluación formativa, tales como rúbricas simples, autoevaluación y retroalimentación descriptiva. Este acompañamiento busca fortalecer la práctica docente y asegurar la implementación efectiva de las estrategias.",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T13:13:27.488Z"
+}
