@@ -1,0 +1,61 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo de la sala cuna, implementa procesos de observación y retroalimentación de las prácticas pedagógicas con escasas oportunidades de análisis y reflexión conjunta, dificultando la toma de decisiones para la mejora continua.",
+    "dimensionPME": "Gestión de Recursos",
+    "subdimensionPME": "Gestión de las Personas",
+    "objetivoEstrategicoPME": "Mejorar continuamente el desempeño profesional, potenciando la labor educativa, para la mantención de un clima laboral positivo,  mediante acompañamiento y retroalimentación de manera sistemática. \n",
+    "estrategiaAnualPME": "Fortalecer las prácticas pedagógicas del equipo educativo mediante la implementación de un sistema de acompañamiento al aula con enfoque formativo, utilizando una pauta construida colaborativamente y procesos sistemáticos de retroalimentación.",
+    "estandarIndicativo": "12.3 El equipo directivo gestiona la evaluación y retroalimentación del personal sistemáticamente, y promueve el desarrollo profesional para la mejora continua del desempeño.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Retroalimentación y acompañamiento pedagógico al equipo de aula en función de las experiencias de aprendizaje.",
+    "practicaDeseada": "El equipo educativo de la sala cuna, implementa procesos de observación y retroalimentación de las prácticas pedagógicas evidenciando oportunidades de análisis y reflexión conjunta, lo cual favorece  la toma de decisiones para la mejora continua.",
+    "actions": [
+      {
+        "id": "action-1779204265491",
+        "tipoAccion": "Taller",
+        "descripcion": "Realizar jornada de actualización, con el equipo educativo, respecto al sistema de observación y retroalimentación de las prácticas pedagógicas con énfasis en el proceso de análisis y toma de decisiones para realizar seguimiento. ",
+        "responsables": "Asesora - Directora",
+        "fechas": "3 de junio",
+        "instrumentos": "Material empleado en el taller - Acta de reunión CAUE"
+      },
+      {
+        "id": "action-1779740711975",
+        "tipoAccion": "Otra",
+        "descripcion": "Reunión entre educadoras para ajustar pauta de observación y retroalimentación y calendarizar fechas de visitas de acompañamiento al aula. ",
+        "responsables": "Directora",
+        "fechas": "junio - julio",
+        "instrumentos": "Calendarización de las visitas de acompañamiento y retroalimentación. "
+      },
+      {
+        "id": "action-1779740825719",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T20:27:24.934Z"
+}
