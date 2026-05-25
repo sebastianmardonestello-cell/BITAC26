@@ -1,0 +1,45 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de Matemática PRIMER CICLO básico implementan estrategias de enseñanza centradas en la transmisión de contenidos, con predominio de actividades reproductivas y descontextualizadas, sin promover la participación activa ni la resolución de problemas, lo que restringe el desarrollo del aprendizaje profundo y la progresión en habilidades de comprensión y transferencia del aprendizaje, en coherencia con los estándares de aprendizaje.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar y fortalecer las prácticas pedagógicas a través del trabajo colaborativo docente, promoviendo el desarrollo de habilidades de nivel superior en los estudiantes mediante estrategias innovadoras y el uso efectivo de recursos tecnológicos en el aula.",
+    "estrategiaAnualPME": "Consolidar comunidades profesionales de aprendizaje docente como práctica institucional permanente, orientada al análisis colaborativo de las prácticas pedagógicas, la planificación curricular y la implementación de estrategias de enseñanza que promuevan el desarrollo de habilidades de pensamiento de nivel superior en los estudiantes.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de Matemática del primer nivel de enseñanza básica implementan estrategias de enseñanza basadas en estrategias diversificadas, que integran tareas contextualizadas, promueven la participación activa, el desarrollo de habilidades matemáticas y que articulan coherentemente los objetivos de aprendizaje, la enseñanza y la evaluación, favoreciendo el desarrollo del aprendizaje profundo en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1779718679312",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Levantar información sobre las prácticas de enseñanza en Lenguaje y Matemática del primer nivel básico, mediante observación de clases, revisión de planificaciones y análisis de evidencias de aprendizaje, para identificar el tipo de tareas implementadas y el nivel de desarrollo de habilidades de aprendizaje profundo.",
+        "responsables": "Jefa Técnica Pedagogica",
+        "fechas": "Abril",
+        "instrumentos": "Informe de diagnostico (PPT)"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T14:23:16.724Z"
+}
