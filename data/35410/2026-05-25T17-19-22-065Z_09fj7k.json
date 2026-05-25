@@ -1,0 +1,36 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa un sistema de reflexión y retroalimentación de la práctica educativa con escasos espacios de análisis colaborativo, dificultando la promoción de la reflexión conjunta y la mejora continua. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer interacciones pedagógicas que promuevan la imaginación y creatividad de los párvulos, valorando las diferentes expresiones artísticas, para potenciar nuestro sello, mediante el acompañamiento y retroalimentación de la labor educativa. ",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T17:19:22.065Z"
+}
