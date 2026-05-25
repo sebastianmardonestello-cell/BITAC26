@@ -1,0 +1,53 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico implementa un sistema de reflexión y retroalimentación de la práctica educativa con escasos espacios de análisis colaborativo, dificultando la promoción de la reflexión conjunta y la mejora continua. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer interacciones pedagógicas que promuevan la imaginación y creatividad de los párvulos, valorando las diferentes expresiones artísticas, para potenciar nuestro sello, mediante el acompañamiento y retroalimentación de la labor educativa. ",
+    "estrategiaAnualPME": " Implementar espacios sistemáticos de acompañamiento y retroalimentación de las prácticas pedagógicas de  los equipos educativos,  con foco en experiencias de aprendizaje que fomentan la imaginación y creatividad de los párvulos.",
+    "estandarIndicativo": "6.3 El equipo directivo retroalimenta la implementación de experiencias de aprendizaje, promoviendo la reflexión conjunta y la mejora continua.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Retroalimentación y acompañamiento pedagógico al equipo de aula en función de las experiencias de aprendizaje.",
+    "practicaDeseada": "El equipo pedagógico implementa un sistema de reflexión y retroalimentación de la práctica educativa con escasos espacios de análisis colaborativo, dificultando la promoción de la reflexión conjunta y la mejora continua. ",
+    "actions": [
+      {
+        "id": "action-1779729680551",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar taller teórico-práctico, con el equipo educativo, para dar a conocer metodología de retroalimentación entre pares \"club del video\", entregando orientaciones y lineamientos que favorezcan la reflexión y mejora continua de las prácticas pedagógicas.",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1779729837990",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación y seguimiento de las instancias de reflexión y retroalimentación entre pares, según calendarización establecida. ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T17:25:00.625Z"
+}
