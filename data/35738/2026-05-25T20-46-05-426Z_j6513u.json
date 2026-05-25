@@ -1,0 +1,61 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa espacios de reflexión y retroalimentación con escasa discusión técnica y análisis profundo de las prácticas pedagógicas, dificultando la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer los espacios de tranquilidad, reflexión y pausa,  para promover  el autocuidado de los párvulos a través de acompañamiento y retroalimentación a la labor educativa. ",
+    "estrategiaAnualPME": "Implementar un plan sistemático de acompañamiento y retroalimentación al equipo educativo, mediante  espacios de reflexión, para fortalecer prácticas que promuevan la tranquilidad, la pausa y el autocuidado en los párvulos.",
+    "estandarIndicativo": "6.3 El equipo directivo retroalimenta la implementación de experiencias de aprendizaje, promoviendo la reflexión conjunta y la mejora continua.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Acompañamiento técnico pedagógico",
+    "practicaDeseada": "El equipo educativo implementa espacios de reflexión y retroalimentación que promueven la discusión técnica y un análisis profundo de las prácticas pedagógicas, fortaleciendo la construcción de reflexiones conjuntas y procesos de mejora continua.",
+    "actions": [
+      {
+        "id": "action-1778166783308",
+        "tipoAccion": "Taller",
+        "descripcion": "Realizar reuniones con equipo de educadoras para definir un plan de  acompañamiento  y retroalimentación a los equipos educativos, mediante espacios de reflexión,  con foco en prácticas pedagógicas que promuevan los espacios de tranquilidad, reflexión y pausa. ",
+        "responsables": "Asesora pedagógica - Directora",
+        "fechas": "junio - julio",
+        "instrumentos": "Material empleado en el taller teórico-práctico. 2) Acta de las reuniones implementadas 3) Plan de acompañamiento y retroalimentación."
+      },
+      {
+        "id": "action-1778167224690",
+        "tipoAccion": "Otra",
+        "descripcion": "Socializar con el equipo educativo la estrategia y cronograma de acompañamiento y retroalimentación, enfatizando el abordaje de la capacidad basal durante el proceso de implementación.",
+        "responsables": "Directora",
+        "fechas": "julio",
+        "instrumentos": "1) Material empleado en la difusión 2) Acta de la reunión con el equipo educativo."
+      },
+      {
+        "id": "action-1778168067850",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementar el sistema de acompañamiento y retroalimentación, según el cronograma acordado.  ",
+        "responsables": "Educadora de cada nivel",
+        "fechas": "agosto - diciembre",
+        "instrumentos": "1) Registro de retroalimentación implementado. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T20:46:05.426Z"
+}
