@@ -1,0 +1,61 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "Los equipos pedagógicos de la escuela,  implementan metodologías de enseñanza tradicionales, pocos motivadoras y que no responden a las necesidades de los estudiantes, lo que dificulta el progreso de estos, principalmente los alumnos con ritmos de aprendizajes distintos.  ",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Convivencia Escolar",
+    "objetivoEstrategicoPME": "Fortalecer la gestión de la convivencia educativa a través del desarrollo de actividades formativas y preventivas a través de los distintos planes normativos vinculados a la convivencia escolar.",
+    "estrategiaAnualPME": "Implementar durante el año estrategias integrales orientadas al fortalecimiento de la sana convivencia escolar, a través de jornadas de trabajo colaborativo, espacios reflexivos, instancias de orientación y atención focalizada a estudiantes y familias.",
+    "estandarIndicativo": "8.1 El equipo directivo y los docentes promueven, modelan y aseguran un ambiente de amabilidad y respeto entre todos los miembros de la comunidad educativa.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo pedagógico implementa metodologías de enseñanza motivadoras e innovadoras, incorporando estrategias diversificadas que responden a las necesidades de los estudiantes favoreciendo el progreso con distintos ritmos de aprendizaje y fortalecen su autoestima académica.",
+    "actions": [
+      {
+        "id": "action-1778685313111",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller de formación del rol de profesor jefe orientado a fortalecer las habilidades pedagógicas, formativas y socioemocionales de los docentes, promoviendo estrategias para el acompañamiento integral de los y las estudiantes.",
+        "responsables": "directora - jefe técnico - asesora",
+        "fechas": "segundo semetre",
+        "instrumentos": "acta con acuerdo "
+      },
+      {
+        "id": "action-1778686537302",
+        "tipoAccion": "Taller",
+        "descripcion": "Los docentes realizarán presentaciones sobre metodologías activas de enseñanza, abordando estrategias como el Aprendizaje Basado en Proyectos (ABP), aula invertida, gamificación y aprendizaje cooperativo, destacando sus principales características y beneficios. Además, se promoverá la reflexión sobre cómo estas metodologías pueden ser implementadas en el aula para fortalecer la participación, motivación y aprendizaje de los y las estudiantes, considerando distintos ritmos y estilos de aprendizaje.",
+        "responsables": "utp",
+        "fechas": "primer  y segundo semestre ",
+        "instrumentos": "acta - "
+      },
+      {
+        "id": "action-1778686691194",
+        "tipoAccion": "Otra",
+        "descripcion": "Conversatorio: generar espacios de encuentro y reflexión donde todos los integrantes de la comunidad educativa puedan dialogar y compartir experiencias respecto al trabajo realizado durante la implementación de las estrategias. En esta instancia se analizará el impacto de las acciones desarrolladas, identificando avances, desafíos y oportunidades de mejora que permitan fortalecer las prácticas educativas y el aprendizaje de los y las estudiantes.",
+        "responsables": "Encargado de convivencia ",
+        "fechas": "segundo semestre",
+        "instrumentos": "Informe de resultado "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T14:32:21.610Z"
+}
