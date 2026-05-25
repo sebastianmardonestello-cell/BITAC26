@@ -1,0 +1,69 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa un sistema de observación y retroalimentación de la práctica pedagógica, poco sistemático y analítico, dificultando la reflexión conjunta y la mejora continua. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": " Fortalecer la retroalimentación de las prácticas educativas para favorecer los procesos de reflexión y mejora continua del equipo pedagógico, mediante reuniones sistemáticas. \n",
+    "estrategiaAnualPME": "Implementar espacios sistemáticos de retroalimentación entre pares, mediante encuentros periódicos y pautas de observación compartidas, para facilitar la reflexión sobre la práctica y promover la participación activa.",
+    "estandarIndicativo": "6.3 El equipo directivo retroalimenta la implementación de experiencias de aprendizaje, promoviendo la reflexión conjunta y la mejora continua.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Retroalimentación y acompañamiento pedagógico al equipo de aula en función de las experiencias de aprendizaje.",
+    "practicaDeseada": "El equipo educativo implementa un sistema de observación y retroalimentación de la práctica pedagógica, sistemático y analítico, que potencia la reflexión conjunta y la mejora continua. ",
+    "actions": [
+      {
+        "id": "action-1778617155279",
+        "tipoAccion": "Otra",
+        "descripcion": "Realizar pasantía a jardín infantil del territorio que actualmente implementa la metodología \"club del video\" para fortalecer y retroalimentar las prácticas pedagógica entre pares, mediante el intercambio de experiencias y estrategias educativas.  ",
+        "responsables": "Asesora - Directora",
+        "fechas": "mayo - junio",
+        "instrumentos": "Acta de reunión de pasantía."
+      },
+      {
+        "id": "action-1778618085236",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar taller teórico-práctico con el equipo educativo, para fortalecer  \"club del video\" para dar a conocer metodología de retroalimentación entre pares \"club del video\", entregando orientaciones y lineamientos que favorezcan la reflexión y mejora continua de las prácticas educativas. ",
+        "responsables": "Asesora pedagógica - Equipo de pasantía",
+        "fechas": "junio",
+        "instrumentos": "Material utilizado en el taller - Acta CAUE"
+      },
+      {
+        "id": "action-1779720110112",
+        "tipoAccion": "Otra",
+        "descripcion": "Realizar reuniones con el equipo de educadoras para diseñar pauta de retroalimentación, calendarización y difusión de los lineamientos de la estrategia \"club del video\" con el fin de promover y fortalecer prácticas pedagógicas colaborativas. ",
+        "responsables": "Educadora medio mayor A",
+        "fechas": "junio - julio",
+        "instrumentos": "Acta de las reuniones con educadoras"
+      },
+      {
+        "id": "action-1779720438716",
+        "tipoAccion": "",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T14:47:19.723Z"
+}
