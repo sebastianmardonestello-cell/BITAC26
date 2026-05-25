@@ -1,0 +1,61 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo presenta dificultades para sistematizar sus prácticas y evaluar el trabajo desarrollado en aula para responder de manera pertinente y oportuna a las características de los niños y las niñas. ",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Fortalecer la innovación pedagógica en ambientes de trabajo colaborativo para el desarrollo y el aprendizaje de los niños y niñas, mediante las comunidades educativas de aprendizaje",
+    "estrategiaAnualPME": "Instalar encuentros sistemáticos de intercambio, análisis y retroalimentación de prácticas pedagógicas innovadoras para replicarlas a los distintos niveles educativos.",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo educativo sistematiza sus prácticas y evalúan el trabajo en aula, adecuando sus practicas innovadoras de expresión musical respondiendo de manera pertinente y oportuna a las características de los niños y las niñas. ",
+    "actions": [
+      {
+        "id": "action-1778684461533",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Se realizará un análisis de las experiencias musicales que se realizan en aula y cómo va su implementación en reunión CAUE. Posteriormente a partir de estas reflexiones, se creará un instrumento para que puedan evaluar cómo son las interacciones y experiencias musicales con su grupo de niños y niñas. ",
+        "responsables": "Equipo educativo",
+        "fechas": "17 de junio",
+        "instrumentos": "Acta de la CAUE y pauta de evaluación"
+      },
+      {
+        "id": "action-1778684463228",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementar la pauta creada una vez al mes con el fin de visualizar oportunidades de mejora y adecuar las experiencias musicales al grupo de niños y niñas. Estas adecuaciones se conversan en la CAA.",
+        "responsables": "Equipo educativo",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Pauta aplicada y proyecciones para el siguiente mes. Planificación adecuada y/ cambio del mapeo sonoro."
+      },
+      {
+        "id": "action-1778684463949",
+        "tipoAccion": "Otra",
+        "descripcion": "Se levanta información sobre los intereses de los niños y niñas, a través de consultas en los niveles medios para ver por opciones de canciones que se pueden integrar al panel sonoro y en los niveles de sala cuna, se aplicará un formulario web para que las familias den a conocer los intereses musicales de su hijo o hija. Con esta información cada equipo adecuará panel sonoro para dar pertinencia y protagonismo a los niños y niñas.",
+        "responsables": "Equipo Educativo",
+        "fechas": "15 de julio",
+        "instrumentos": "Resultados de las encuestas, planificación de la experiencia para conocer los intereses y muestra de la adecuación del panel sonoro."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T12:26:20.128Z"
+}
