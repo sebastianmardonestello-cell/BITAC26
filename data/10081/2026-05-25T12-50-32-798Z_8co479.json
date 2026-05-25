@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 2° a 4° básico implementa estrategias de retroalimentación y evaluación formativa centradas principalmente en el monitoreo mecánico de la lectoescritura, con énfasis en respuestas correctas e incorrectas. Esta práctica limita el desarrollo de habilidades de comprensión profunda, pensamiento crítico y autonomía en la producción escrita de los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar los aprendizajes de los estudiantes mediante la implementación sistemática de estrategias metodológicas y tecnológicas diversificadas en las asignaturas troncales, fortaleciendo el desarrollo de habilidades en Lenguaje, Matemática, Ciencias Naturales e Historia.",
+    "estrategiaAnualPME": "Al finalizar el cuarto año del ciclo PME, al menos el 75% de los estudiantes mejora sus niveles de aprendizaje en las asignaturas troncales, evidenciado en resultados de evaluaciones internas y del Diagnóstico Integral de Aprendizajes (DIA), como resultado de la implementación sistemática de estrategias metodológicas diversificadas por parte de los docentes.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de 2° a 4° básico implementa estrategias metodológicas diversificadas que promueven el desarrollo de habilidades de comprensión y de orden superior, integrando retroalimentación descriptiva y oportuna centrada en los procesos de aprendizaje. Esta práctica favorece el logro de niveles profundos de comprensión lectora y el desarrollo de la autonomía en la escritura de los estudiantes, ",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-25T12:50:32.798Z"
+}
