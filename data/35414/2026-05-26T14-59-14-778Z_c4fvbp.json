@@ -1,0 +1,53 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico del nivel Medio Menor implementa interacciones de lenguaje verbal de manera poco sistemática, limitando las oportunidades de expresión oral  de los niños y niñas",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Mejorar las planificaciones para consolidar las interacciones pedagógicas en los espacios educativos para responder a las necesidades y características de cada niño y niña través del plan de aula. \n\n",
+    "estrategiaAnualPME": "Implementar la integración de los   principios pedagógicos en el Plan de Aula, planificaciones e interacciones educativas\n\n\n\n\n\n\n",
+    "estandarIndicativo": "7.6 El equipo pedagógico promueve el desarrollo del lenguaje verbal en los párvulos, propiciando la comunicación y extendiendo sus capacidades y habilidades de comprensión y expresión.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Generación de experiencias de aprendizaje significativas, variadas y pertinentes considerando ritmos y necesidades de niños/as.",
+    "practicaDeseada": "  El equipo de aula del nivel Medio Menor implementa de manera sistemática interacciones pedagógicas intencionadas y experiencias de aprendizaje orientadas al fortalecimiento del lenguaje verbal, promoviendo oportunidades de comunicación, expresión y desarrollo de habilidades de comprensión oral en niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1778080350328",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Utilización de las CAA (reuniones de aula, internas, por nivel) para realizar trabajo de retroalimentación al equipo pedagógico",
+        "responsables": "Educadora de párvulo medio menor ",
+        "fechas": "Mayo a octubre ",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1778081166711",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornadas mensuales de trabajo de planificación de actividades conjuntas y en función de las necesidades del nivel medio menor. ",
+        "responsables": "",
+        "fechas": "Mayo a octubre ",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-26T14:59:14.778Z"
+}
