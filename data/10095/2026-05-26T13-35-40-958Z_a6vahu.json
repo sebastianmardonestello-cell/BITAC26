@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de segundo ciclo básico implementan actividades de aprendizaje que priorizan la extracción e interpretación de información explícita, mientras que las estrategias orientadas a la reflexión crítica, la inferencia y la argumentación se abordan de manera menos sistemática, lo que limita el desarrollo de habilidades de comprensión profunda en los estudiantes en las distintas asignaturas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar la articulación de  las asignaturas, para movilizar los niveles de desempeño de las y los estudiantes en lenguaje y matemática mediante el monitoreo y retroalimentación constante de las practicas docentes",
+    "estrategiaAnualPME": "Implementar un ciclo de monitoreo de aula y retroalimentación clínica entre UTP y docentes, centrado en la articulación de habilidades en Lenguaje y Matemática. La estrategia prioriza el diseño de enseñanza diversificada y evaluaciones remediales inmediatas, analizando evidencias de aprendizaje para movilizar anualmente al 5% de los estudiantes desde niveles Insuficiente y Elemental hacia logros satisfactorios",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de segundo ciclo implementa prácticas pedagógicas diversificadas que responden a la diversidad y a las necesidades educativas de los estudiantes, lo que se traduce en una participación activa y equitativa en las actividades de aprendizaje y en el desarrollo progresivo de habilidades cognitivas y socioemocionales, evidenciado en desempeños más homogéneos y en el logro de los aprendizajes esperados.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-26T13:35:40.958Z"
+}
