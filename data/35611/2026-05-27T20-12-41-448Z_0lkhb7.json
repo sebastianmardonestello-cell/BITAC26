@@ -1,0 +1,69 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa estrategias para el desarrollo del lenguaje verbal con escasa sistematicidad y predominio de prácticas centradas en la repetición mecánica, limitando el desarrollo de habilidades de comprensión y expresión en los niños y niñas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer interacciones pedagógicas que promuevan el desarrollo del lenguaje verbal en los párvulos, para propiciar la comunicación y extender sus capacidades y habilidades.",
+    "estrategiaAnualPME": "Implementar canales de reporte y herramientas de registro diversificadas para que las familias informen sobre las prácticas de aprendizaje innovadoras que han desarrollado con los niños y niñas en el hogar,  tras participar en taller sobre estrategias de fortalecimiento  del lenguaje verbal en los párvulos  y/o recibir material gráfico-digital relacionado con la temática .",
+    "estandarIndicativo": "7.6 El equipo pedagógico promueve el desarrollo del lenguaje verbal en los párvulos, propiciando la comunicación y extendiendo sus capacidades y habilidades de comprensión y expresión.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de  experiencias de aprendizaje basadas en el principio del juego. ",
+    "practicaDeseada": "El equipo educativo implementa estrategias para el desarrollo del lenguaje verbal de forma sistemática  y con predominio de prácticas lúdicas e innovadoras, potenciando el desarrollo de habilidades de comprensión y expresión en los niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1778250842453",
+        "tipoAccion": "Otra",
+        "descripcion": "Realizar reuniones de educadoras para organizar levantamiento diagnóstico, analizar resultados y planificar taller teórico-práctico. ",
+        "responsables": "Directora",
+        "fechas": "mayo",
+        "instrumentos": "Actas de reuniones de educadoras."
+      },
+      {
+        "id": "action-1778251916996",
+        "tipoAccion": "Taller",
+        "descripcion": "Implementación de taller teórico-práctico con foco en interacciones que favorecen el desarrollo del lenguaje verbal en forma progresiva con los niños y niñas.",
+        "responsables": "Asesora pedagógica - Educadora Salas Cunas",
+        "fechas": "junio",
+        "instrumentos": "1) Material empleado en el taller. 2) Acta reunión CAUE"
+      },
+      {
+        "id": "action-1778252289613",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementar estrategias para favorecer el desarrollo del lenguaje verbal de forma progresiva en cada nivel, según definiciones establecidas en el taller teórico-practico. ",
+        "responsables": "Educadoras de cada nivel. ",
+        "fechas": "junio - noviembre",
+        "instrumentos": "Planificación de la estrategia pedagógica de lenguaje incorporada. "
+      },
+      {
+        "id": "action-1778252440645",
+        "tipoAccion": "Otra",
+        "descripcion": "Evaluar la implementación de las estrategias para el desarrollo del leguaje verbal ejecutadas durante el año. ",
+        "responsables": "Directora",
+        "fechas": "noviembre - diciembre",
+        "instrumentos": "Acta de reunión. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T20:12:41.448Z"
+}
