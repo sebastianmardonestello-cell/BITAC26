@@ -1,0 +1,61 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "v",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer los procesos pedagógicos referidos a la gestión de aula (diseño, planificación, evaluación) que permitan mejorar la distribución en los estándares de aprendizaje, tanto en comprensión lectora como en pensamiento matemático, en mediciones internas y externas.",
+    "estrategiaAnualPME": "Acompañando y retroalimentando al docente, en la gestión de aula, para movilizar a los estudiantes en los distintos estándares de aprendizaje. Focalizando el acompañamiento y retroalimentación docente en el desarrollo de habilidades de comprensión lectora y pensamiento matemático.",
+    "estandarIndicativo": "5.3 Los docentes establecen vínculos pedagógicos positivos con todos sus estudiantes y generan motivación por la asignatura.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes del establecimientos generan vínculos afectivos y pedagógicos con los estudiantes lo que genera ambientes socioafectivos atractivos y motivantes para el aprendizaje",
+    "actions": [
+      {
+        "id": "action-1777478808053",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento docente focalizado en la dimensión 2 de enfoque docente y en el indicador 2.1.3",
+        "responsables": "Equipo de gestión",
+        "fechas": "Mayo-Noviembre",
+        "instrumentos": "Retroalimentaciones de la plataforma firmadas por docentes."
+      },
+      {
+        "id": "action-1777478997708",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementación de campaña para promover, difundir y socializar criterios que fomenten ambientes socioafectivos propicios para el aprendizaje en la comunidad educativa",
+        "responsables": "UTP-Asesor",
+        "fechas": "mayo-noviembre",
+        "instrumentos": "Planificación de campaña, fotografías e informe de ejecución "
+      },
+      {
+        "id": "action-1777479169261",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada para el análisis de los indicadores que promueven vínculos positivos, preparan el ambiente socioafectivo y generan mayor aprendizaje y motivación por las asignaturas ",
+        "responsables": "Equipo de gestión",
+        "fechas": "abril-noviembre",
+        "instrumentos": "Acta de jornadas, Material Utilizado"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T13:11:57.033Z"
+}
