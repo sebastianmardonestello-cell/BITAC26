@@ -1,0 +1,61 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa un sistema de análisis y retroalimentación de las prácticas pedagógicas de manera unidireccional, con escasa incorporación de procesos de observación colaborativos, limitando la participación y el involucramiento de todo el equipo educativo. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Fortalecer interacciones pedagógicas que promuevan la imaginación y creatividad de los párvulos, valorando las diferentes expresiones artísticas, mediante el acompañamiento y retroalimentación de la labor educativa. \n",
+    "estrategiaAnualPME": "Implementar un sistema de acompañamiento y retroalimentación al equipo educativo, con foco en experiencias de aprendizaje que promuevan la imaginación y la creatividad, con el fin de orientar y fortalecer la práctica pedagógica.",
+    "estandarIndicativo": "6.3 El equipo directivo retroalimenta la implementación de experiencias de aprendizaje, promoviendo la reflexión conjunta y la mejora continua.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Retroalimentación y acompañamiento pedagógico al equipo de aula en función de las experiencias de aprendizaje.",
+    "practicaDeseada": "El equipo educativo implementa un sistema de análisis y retroalimentación de la práctica pedagógica de manera colaborativa, promoviendo la participación y el involucramiento de todo el equipo educativo. ",
+    "actions": [
+      {
+        "id": "action-1778769791509",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar taller teórico-práctico con el equipo educativo, para dar a conocer metodología de retroalimentación entre pares \"club del video\", entregando orientaciones y lineamientos que favorezcan la reflexión y mejora continua de las prácticas educativas. ",
+        "responsables": "Asesora - Directora",
+        "fechas": "17 junio",
+        "instrumentos": "Material utilizado en el taller teórico-práctica, Acta CAUE."
+      },
+      {
+        "id": "action-1778770574575",
+        "tipoAccion": "Otra",
+        "descripcion": "Realizar reuniones con el equipo de educadoras para diseñar pauta de retroalimentación, calendarización y difusión de los lineamientos de la estrategia \"club del video\" con el fin de promover y fortalecer prácticas pedagógicas colaborativas. ",
+        "responsables": "Educadora de sala cuna menor. ",
+        "fechas": "julio",
+        "instrumentos": "Acta de reuniones. "
+      },
+      {
+        "id": "action-1778770822563",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación y seguimiento de las instancias de reflexión y retroalimentación entre pares, según calendarización establecida. ",
+        "responsables": "Directora",
+        "fechas": "julio - noviembre",
+        "instrumentos": "Pauta de retroalimentación implementada."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T19:55:10.073Z"
+}
