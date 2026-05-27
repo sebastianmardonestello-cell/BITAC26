@@ -1,0 +1,36 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de Lenguaje de 3° y 4° básico implementa prácticas evaluativas para el monitoreo de los aprendizajes, principalmente mediante actividades de reproducción de información y respuestas cerradas; sin embargo, estas presentan un nivel de exigencia cognitiva limitado, ofreciendo escasas oportunidades para que los estudiantes desarrollen habilidades de pensamiento creativo, crítico y metacognitivo, lo que se evidencia en dificultades para interpretar, analizar, argumentar y responder con profundidad en evaluaciones externas y estandarizadas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T16:16:24.986Z"
+}
