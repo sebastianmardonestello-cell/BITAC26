@@ -1,0 +1,69 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de gestión define lineamientos curriculares generales, evidenciado en que los docentes implementen el currículum de manera aislada, con baja coordinación entre niveles y asignaturas, predominando clases expositivas, con interacciones pedagógicas que tienden a ser poco sensibles a las necesidades emocionales y académicas de los estudiantes, lo que afecta el sentido de seguridad, pertenencia y el bienestar de estos no integrándose como parte del proceso pedagógico.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Consolidar y evaluar el impacto de las prácticas pedagógicas innovadoras y diversificadas en el equipo docente, integrando recursos tecnológicos para eliminar brechas de aprendizaje y garantizar la continuidad de las trayectorias educativas de todos los estudiantes",
+    "estrategiaAnualPME": "Consolidación de espacios de trabajo colaborativo y acompañamiento al aula mediante la implementación de un sistema de monitoreo de participación docente y jornadas de análisis de resultados pedagógicos para la toma de decisiones.",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "3. Fortalecimiento de la enseñanza media técnico profesional para potenciar las trayectorias educativas de los estudiantes.",
+    "practicaDeseada": "El equipo de gestión lidera un proceso sistemático de co-construcción de lineamientos pedagógicos con los docentes, centrados en la implementación efectiva del currículum y en la promoción de relaciones seguras y sensibles focalizadas en estrategias de enseñanza activa y participativa, retroalimentación efectiva y generación de climas de aula basados en respeto, confianza y apoyo emocional, a fin de generar ambientes donde los estudiantes se sienten seguros para equivocarse y aprender.",
+    "actions": [
+      {
+        "id": "action-1778678444517",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Capacitación con el equipo directivo y docentes  focalizado en estrategias de enseñanza activa y participativa, retroalimentación efectiva y generación de climas de aula basados en respeto, confianza y apoyo emocional",
+        "responsables": "Asesora SLEP",
+        "fechas": "Junio",
+        "instrumentos": "Lista de asistencia, Material utilizado "
+      },
+      {
+        "id": "action-1778678651017",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Reunión para co construir  los lineamientos pedagógicos con los docentes, centrados en la implementación efectiva del currículum y en la promoción de relaciones seguras y sensibles",
+        "responsables": "Equipo de Gestión ",
+        "fechas": "Julio",
+        "instrumentos": "Lista de asistencia - Acta de la jornada - Material visual utilizado- Informe o minuta de conclusiones y compromisos."
+      },
+      {
+        "id": "action-1778678707606",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento al aula utilizando enfoque Docente aplicando la sub-dimensión 2.1 Relaciones Seguras y sensibles ",
+        "responsables": "Equipo de Gestión - Asesora",
+        "fechas": "Agosto a octubre",
+        "instrumentos": "Cronograma de acompañamientos al aula- Informes de seguimiento pedagógico - Bitácoras de acompañamiento y reflexión docente -Pauta de acompañamiento - Acta de retroalimentación "
+      },
+      {
+        "id": "action-1778678840871",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Reunión para hacer seguimiento y compartir prácticas, a partir de la observación, compartiendo buenas experiencias docentes donde se estén implementando los lineamientos para generar ambientes donde los estudiantes se sienten seguros para equivocarse y aprender.",
+        "responsables": "Equipo de Gestión - Asesora",
+        "fechas": "octubre",
+        "instrumentos": "Registro de asistencia - Sistematización de buenas prácticas docentes compartidas - Evidencias de reflexión pedagógica (bitácoras, acuerdos, conclusiones)."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T17:06:01.543Z"
+}
