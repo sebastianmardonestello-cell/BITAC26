@@ -1,0 +1,69 @@
+{
+  "asesor": "Francisca Illanes",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo desarrolla prácticas relacionales con los párvulos,  poco sensibles, respetuosas, afectuosas e inclusivas, lo que limita una formación integral de los niños y niñas. ",
+    "dimensionPME": "Bienestar Integral",
+    "subdimensionPME": "Buen Trato y Convivencia",
+    "objetivoEstrategicoPME": "Fortalecer la convivencia armónica entre todos los miembros de la comunidad educativa, con el fin de promover prácticas bien tratantes a través del Plan de convivencia escolar.",
+    "estrategiaAnualPME": "Articular un trabajo colaborativo con el equipo educativo mediante la planificación conjunta, la definición de responsabilidades y el seguimiento periódico de las acciones del Plan de Convivencia Escolar, promoviendo la corresponsabilidad y el compromiso.",
+    "estandarIndicativo": "9.1 El equipo directivo and el pedagógico promueven un clima de buen trato, respeto y empatía entre todos los integrantes de la comunidad educativa.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "15. Fortalecimiento de la convivencia e inclusión educativa a través del desarrollo de actividades territoriales, con el propósito de aportar al desarrollo integral de los párvulos.",
+    "practicaDeseada": "El equipo educativo utiliza estrategias pedagógicas  sensibles, respetuosas, afectuosas e inclusivas, favoreciendo una formación integral de los niños y niñas. ",
+    "actions": [
+      {
+        "id": "action-1778600663036",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar un taller teórico-práctico para unificar conceptos de: interacciones sensibles. respetuosas, afectuosas e inclusivas y tomar decisiones sobre estrategias a implementar.  ",
+        "responsables": "Asesora - Directora",
+        "fechas": "17 de junio",
+        "instrumentos": "Acta de reunión CAUE"
+      },
+      {
+        "id": "action-1779741237652",
+        "tipoAccion": "Otra",
+        "descripcion": "Reuniones sistemáticas de equipo (CAA) para planificar las estrategias pedagógicas que se implementarán respecto a interacciones que favorecen cuidados sensibles, respetuosos, afectuosos e inclusivos, contextualizándolas a cada nivel. ",
+        "responsables": "Educadora de cada nivel",
+        "fechas": "junio - noviembre",
+        "instrumentos": "Actas de reunión CAA."
+      },
+      {
+        "id": "action-1779741529478",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementar las estrategias definidas por cada nivel, respecto a interacciones que favorecen cuidados sensibles, respetuosos, afectuosos e inclusivos. ",
+        "responsables": "Educadora de cada nivel",
+        "fechas": "julio - noviembre",
+        "instrumentos": "Planificación variable y/o permanente"
+      },
+      {
+        "id": "action-1779741779906",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementar un sistema de monitoreo y seguimiento a la implementación de las estrategias pedagógicas  definidas por cada nivel respecto interacciones sensibles, respetuosos, afectuosos e inclusivos. ",
+        "responsables": "Directora",
+        "fechas": "junio - noviembre",
+        "instrumentos": "Pauta de monitoreo y seguimiento implementada"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-27T20:27:07.237Z"
+}
