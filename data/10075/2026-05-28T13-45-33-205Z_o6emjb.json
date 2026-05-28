@@ -1,0 +1,36 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de Matemática de primero y segundo medio implementan estrategias de trabajo poco lúdicas y didácticas, lo que provoca baja motivación en los y las estudiantes e impacta de manera negativa en los resultados de las pruebas de medición internas y externas.",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-28T13:45:33.205Z"
+}
