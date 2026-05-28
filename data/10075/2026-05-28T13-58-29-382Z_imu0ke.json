@@ -1,0 +1,77 @@
+{
+  "asesor": "Dimas Calderón",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de Matemática de primero y segundo medio implementan estrategias de trabajo poco lúdicas y didácticas, lo que provoca baja motivación en los y las estudiantes e impacta de manera negativa en los resultados de las pruebas de medición internas y externas.",
+    "dimensionPME": "",
+    "subdimensionPME": "",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de Matemática de primero y segundo medio implementan estrategias de trabajo poco lúdicas y didácticas, lo que provoca baja motivación en los y las estudiantes e impacta de manera negativa en los resultados de las pruebas de medición internas y externas.",
+    "actions": [
+      {
+        "id": "action-1779976061886",
+        "tipoAccion": "Taller",
+        "descripcion": "Se realiza jornada tipo taller para modelar utilización de material concreto en la asinatura de matemática para los niveles de primero y seundo medio",
+        "responsables": "Asesor Pedagógico y Jefes de UTP",
+        "fechas": "12 - 19 Junio",
+        "instrumentos": "Asistencia."
+      },
+      {
+        "id": "action-1779976296666",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento en aula para la implementación del uso de material lúdico en las planificaciones.",
+        "responsables": "Jefes de UTP",
+        "fechas": "Julio a Noviembre",
+        "instrumentos": "Pauta de acompañamiento y retroalimentación"
+      },
+      {
+        "id": "action-1779976466681",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Los docentes de matemática de primero y segundo medio, trabajan de manera colaborativa para incorporar en al menos en dos planificaciones el uso de material lúdico para el trabajo con los y las estudiantes",
+        "responsables": "Jefes de UTP y docentes de matemática",
+        "fechas": "",
+        "instrumentos": "Planificaciones."
+      },
+      {
+        "id": "action-1779976620700",
+        "tipoAccion": "Otra",
+        "descripcion": "Aplicación de encuesta de satisfacción a los estudiantes respecto a su percepción sobre el uso de material lúdico como metodolgía de enseñanza aprendizaje.",
+        "responsables": "",
+        "fechas": "Noviembre",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1779976629117",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-28T13:58:29.382Z"
+}
