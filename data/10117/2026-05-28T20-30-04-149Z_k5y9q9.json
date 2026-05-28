@@ -1,0 +1,53 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Las prácticas pedagógicas en 3 y 4 básico, presentan escasas estrategias para el desarrollo de la escritura, dificultando la construcción de aprendizajes y habilidades en las otras asignaturas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer y consolidar los procesos de retroalimentación efectiva y monitoreo pedagógico para mejorar los aprendizajes en las asignaturas de Lenguaje y Matemática en Primer y Segundo Ciclo de Enseñanza Básica.\n",
+    "estrategiaAnualPME": "Sistematización de las prácticas pedagógicas orientadas al mejoramiento de los aprendizajes en Lenguaje y Matemática, mediante la observación y retroalimentación de clases, el análisis de planificaciones y evaluaciones internas, y la generación de instancias de reflexión pedagógica y discusión técnica entre docentes.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "7. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "Las prácticas pedagógicas en 3 y 4 básico presentan diversificadas estrategias de escritura, promoviendo la aplicación y práctica de lo aprendido, tanto de manera guiada como autónoma, mediante ejercitación abundante, graduada, variada y distribuida en el tiempo.",
+    "actions": [
+      {
+        "id": "action-1779738168868",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Realizar jornadas de reflexión y análisis de datos (evaluaciones externas e internas) con el fin de levantar las necesidades y toma de decisiones, generar espacios de discusión para la mejora de resultados. Se planteará que las estrategias utilizadas son poco diversificadas y efectivas en el desarrollo de las clases, se evalúa las interacciones pedagógicas en la sala que promueven la escritura. Se toman acuerdos. ",
+        "responsables": "Directora- Coordinadora de Lenguaje: Pamela Retamal",
+        "fechas": "Julio",
+        "instrumentos": "Presentación de resultados- acta"
+      },
+      {
+        "id": "action-1779999872324",
+        "tipoAccion": "Taller",
+        "descripcion": "Se realiza un taller teórico-practico donde se modelan estrategias de escritura ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-28T20:30:04.149Z"
+}
