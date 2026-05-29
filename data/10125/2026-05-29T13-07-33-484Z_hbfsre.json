@@ -1,0 +1,53 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática en 2do, 4to y 6to básico, implementa el método COPISI, de forma irregular y asistemática, lo que limita el logro de los objetivos de aprendizaje. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el modelo pedagógico colaborativo a través de la articulación de prácticas docentes de aula para el desarrollo de habilidades de LEC y de pensamiento Matemático.",
+    "estrategiaAnualPME": "Implementar Estrategias LEC y de Modelamiento Matemático de forma transversal, a partir de la implementación Curricular. ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "Implementar el método COPISI  de forma regular y sistemática, en las practicas pedagógicas de matemática en 2do, 4to y 6to básico,  garantizando el logro de los objetivos de aprendizaje. ",
+    "actions": [
+      {
+        "id": "action-1780059912688",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Capacitación docente en el uso pedagógico del carro matemático para la implementación del método COPISI.",
+        "responsables": "Asesora",
+        "fechas": "Abril",
+        "instrumentos": "Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060022255",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Taller de modelamiento de prácticas exitosas",
+        "responsables": "",
+        "fechas": "Mayo- Junio",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-29T13:07:33.484Z"
+}
