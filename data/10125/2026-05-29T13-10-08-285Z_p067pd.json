@@ -1,0 +1,77 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática en 2do, 4to y 6to básico, implementa el método COPISI, de forma irregular y asistemática, lo que limita el logro de los objetivos de aprendizaje. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el modelo pedagógico colaborativo a través de la articulación de prácticas docentes de aula para el desarrollo de habilidades de LEC y de pensamiento Matemático.",
+    "estrategiaAnualPME": "Implementar Estrategias LEC y de Modelamiento Matemático de forma transversal, a partir de la implementación Curricular. ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "Implementar el método COPISI  de forma regular y sistemática, en las practicas pedagógicas de matemática en 2do, 4to y 6to básico,  garantizando el logro de los objetivos de aprendizaje. ",
+    "actions": [
+      {
+        "id": "action-1780059912688",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Capacitación docente en el uso pedagógico del carro matemático para la implementación del método COPISI.",
+        "responsables": "Asesora",
+        "fechas": "Abril",
+        "instrumentos": "Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060022255",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Taller de modelamiento de prácticas exitosas",
+        "responsables": "Docentes de Matemática de 1ero y 2do básico",
+        "fechas": "Mayo- Junio",
+        "instrumentos": "Planificación del taller,  Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060079255",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Estrategia CAPS con docentes de matemática. ",
+        "responsables": "Docentes de Matemática de 2do ciclo - UTP",
+        "fechas": "Junio- Octubre",
+        "instrumentos": "Planificación. Material utilizado. Nomina de asistencia . Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060132575",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento docente interno y externo al aula",
+        "responsables": "Equipo directivo, asesora",
+        "fechas": "Abril- Noviembre",
+        "instrumentos": "Calendarización de los acompañamientos docentes.  Pauta de acompañamiento  docente al aula con la retroalimentación.  Ficha de acompañamiento a la gestión curricular. "
+      },
+      {
+        "id": "action-1780060178559",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Taller de análisis y uso de datos con resultados de SEAT en matemático. ",
+        "responsables": "UT",
+        "fechas": "Mayo- Noviembre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-29T13:10:08.285Z"
+}
