@@ -1,0 +1,61 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo y de gestión implementan lineamientos incipientes y poco efectivos para el desarrollo de las habilidades de comprensión lectora  en 3, 4 y 6 básico, debilitando el desarrollo de habilidades de lectura y comprensión en los estudiantes  y afectando la articulación pedagógica con los demás niveles educativos.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante la generación de espacios de análisis y discusión para la mejora de los resultados académicos.\n",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones pedagógicas que promuevan la mejora de los resultados de aprendizaje. \n",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo directivo y de gestión implementan lineamientos sistemáticamente para el desarrollo de habilidades de comprensión lectora en 3,4 y 6 básico, promoviendo el desarrollo de habilidades en la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1779977326382",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "La jornada permitirá mostrar los datos (dominio lector, evaluación DIA diagnostica, primer ensayo SIMCE, entre otras  para generar espacios de discusión para la mejora de resultados. Se planteará que las estrategias utilizadas son poco diversificadas y efectivas en el desarrollo de las clases,  evaluar las interacciones pedagógicas en la sala que promueven la lectura comprensiva. ",
+        "responsables": "Director-UTP",
+        "fechas": "Julio",
+        "instrumentos": "Presentación-acta con acuerdos"
+      },
+      {
+        "id": "action-1780059607928",
+        "tipoAccion": "Taller",
+        "descripcion": "Se realiza un taller teórico práctico sobre estrategias didácticas para la comprensión lectora en el aula. ",
+        "responsables": "UTP-Coordinadora PIE",
+        "fechas": "Agosto",
+        "instrumentos": "Material para el taller "
+      },
+      {
+        "id": "action-1780059903474",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "Agosto a Octubre ",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-29T13:05:26.748Z"
+}
