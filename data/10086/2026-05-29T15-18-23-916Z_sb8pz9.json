@@ -1,0 +1,69 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de Lenguaje de 3° y 4° básico implementa prácticas evaluativas para el monitoreo de los aprendizajes, principalmente mediante actividades de reproducción de información y respuestas cerradas, lo que configura un nivel de exigencia cognitiva limitado y reduce las oportunidades para que los estudiantes desarrollen habilidades de pensamiento creativo, crítico y metacognitivo, evidenciándose en dificultades para interpretar, analizar, argumentar y responder con profundidad en evaluaciones externas y estandarizadas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar el desarrollo de estrategias efectivas de enseñanza, con la finalidad de movilizar los niveles de logro de los y las estudiantes en las asignaturas de Lenguaje y Matemática, según resultados anteriores.",
+    "estrategiaAnualPME": "Se consolidan prácticas\neducativas, con foco en el\nanálisis de datos y el desarrollode estrategias asociados a los\nniveles de logro de los y las\nestudiantes en las asignaturas\nde lenguaje y matemática.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de Lenguaje de 3° y 4° básico implementa prácticas evaluativas diversificadas y desafiantes que integran tareas de análisis, interpretación, argumentación y producción, promoviendo de manera intencionada el desarrollo del pensamiento creativo, crítico y metacognitivo. Estas prácticas incorporan instrumentos de evaluación coherentes con altos niveles de exigencia cognitiva y una retroalimentación formativa, descriptiva y oportuna centrada en los procesos de aprendizaje, favoreciendo que los estudiantes elaboren respuestas fundamentadas y demuestren comprensión profunda en distintos contextos evaluativos, incluyendo evaluaciones externas y estandarizadas.",
+    "actions": [
+      {
+        "id": "action-1779899196479",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Diagnóstico\nAnálisis sistemático de resultados de evaluaciones externas (SIMCE, DIA) e internas de Lenguaje en 3° y 4° básico, identificando el nivel de desarrollo de habilidades de pensamiento de orden superior (análisis, interpretación, argumentación) y los tipos de ítems predominantes en las evaluaciones aplicadas.",
+        "responsables": "Jefa de utp",
+        "fechas": "Marzo- Abril",
+        "instrumentos": "Informe de análisis de resultados, actas de reunión de ciclo, matrices de análisis de evaluaciones"
+      },
+      {
+        "id": "action-1779899258650",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Planificación\nDiseño colaborativo de planificaciones e instrumentos de evaluación que incorporen tareas de mayor exigencia cognitiva (preguntas abiertas, análisis, argumentación), asegurando coherencia entre objetivos, actividades y evaluación, e integrando criterios e indicadores en rúbricas.",
+        "responsables": "Docentes de Lenguaje 3° y 4° básico, con apoyo UTP",
+        "fechas": "Abril – Mayo",
+        "instrumentos": "Planificaciones ajustadas, instrumentos evaluativos (pruebas, rúbricas), registro de trabajo colaborativo"
+      },
+      {
+        "id": "action-1779899387361",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación\nAplicación en aula de estrategias evaluativas diversificadas que promuevan el pensamiento creativo, crítico y metacognitivo, incluyendo retroalimentación formativa centrada en procesos. Considera acompañamiento al aula, modelamiento pedagógico y apoyo en el diseño de materiales y evaluaciones.",
+        "responsables": "Equipo directivo",
+        "fechas": "Mayo – Octubre",
+        "instrumentos": "Registros de observación de aula, evidencias de trabajo de estudiantes, planificaciones implementadas, registros de retroalimentación"
+      },
+      {
+        "id": "action-1779899522960",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Evaluación (intermedia y final)\nMonitoreo del impacto de las estrategias implementadas mediante evaluación intermedia (análisis de avances en evaluaciones internas y DIA) y evaluación final (resultados SIMCE y evaluaciones institucionales), generando ajustes a las prácticas pedagógicas en función de los resultados.",
+        "responsables": "UTP, docentes de Lenguaje",
+        "fechas": "Evaluación intermedia: Julio – Agosto / Evaluación final: Noviembre – Diciembre",
+        "instrumentos": "Informes de seguimiento, comparación de resultados (inicio-intermedio-final), actas de reflexión pedagógica"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-05-29T15:18:23.916Z"
+}
