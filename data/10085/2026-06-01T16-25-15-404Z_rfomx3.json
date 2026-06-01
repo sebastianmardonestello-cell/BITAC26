@@ -1,0 +1,45 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática de 5to y 6to básico desarrolla experiencias educativas tradicionales y desconectadas de los intereses de los estudiantes lo que limita el logro de los objetivos de Aprendizaje.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Instalar estrategias pedagógicas y/o metodologías\ninstitucionales como uno de los medios para\nreactivar e impulsar el aprendizaje profundo de los y\nlas estudiantes a través de espacios de innovación pedagógica con foco en altas expectativas.",
+    "estrategiaAnualPME": "Consolidar la implementación de estrategias pedagógicas innovadoras mediante el monitoreo sistemático de prácticas de aula, análisis de evidencias pedagógicas y retroalimentación docente, para fortalecer el aprendizaje profundo y la mejora continua de los procesos de enseñanza.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de matemática de 5to y 6to básico desarrolla experiencias educativas  efectivas y centradas en los intereses y necesidades de los estudiantes lo que fomenta el\nlogro de los objetivos de Aprendizaje.",
+    "actions": [
+      {
+        "id": "action-1780331065126",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada de análisis de datos, basada en pruebas APTUS, DIA, SIMCE.",
+        "responsables": "Equipo Directivo",
+        "fechas": "JUNIO",
+        "instrumentos": "Asistencia- Presentación "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-01T16:25:15.404Z"
+}
