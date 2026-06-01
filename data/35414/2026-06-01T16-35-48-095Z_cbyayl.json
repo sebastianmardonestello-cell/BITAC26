@@ -1,0 +1,61 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico del nivel Medio Menor implementa interacciones de lenguaje verbal de manera poco sistemática, limitando las oportunidades de expresión oral  de los niños y niñas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Mejorar las planificaciones para consolidar las interacciones pedagógicas en los espacios educativos para responder a las necesidades y características de cada niño y niña través del plan de aula. \n\n",
+    "estrategiaAnualPME": "Implementar la integración de los   principios pedagógicos en el Plan de Aula, planificaciones e interacciones educativas\n\n\n\n\n\n\n",
+    "estandarIndicativo": "7.6 El equipo pedagógico promueve el desarrollo del lenguaje verbal en los párvulos, propiciando la comunicación y extendiendo sus capacidades y habilidades de comprensión y expresión.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Generación de experiencias de aprendizaje significativas, variadas y pertinentes considerando ritmos y necesidades de niños/as.",
+    "practicaDeseada": "  El equipo pedagógico del nivel Medio Menor implementa interacciones de lenguaje verbal de manera sistemática, generando oportunidades intencionadas y cotidianas de expresión oral para los niños y niñas.\n",
+    "actions": [
+      {
+        "id": "action-1778080350328",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "\nLa directora realiza acompañamientos al aula del nivel Medio Menor con el propósito de observar la calidad de las interacciones de lenguaje verbal que el equipo pedagógico establece con los niños y niñas durante distintos momentos de la jornada. Posteriormente se realiza una instancia de retroalimentación individual, dialogada y basada en evidencia, orientada a fortalecer la intencionalidad y sistematicidad de las estrategias de expresión oral implementadas.",
+        "responsables": "Directora / Educadora de párvulo medio menor ",
+        "fechas": "Mayo a octubre ",
+        "instrumentos": "Pauta de observación de aula ,  registro fotográfico. "
+      },
+      {
+        "id": "action-1778081166711",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "La educadora de párvulos utiliza las instancias de CAA (reuniones de aula, internas y por nivel) para realizar retroalimentación colectiva al equipo pedagógico del nivel Medio Menor, analizando en conjunto la implementación de las interacciones de lenguaje verbal durante la jornada. En estas instancias se revisan evidencias, se identifican logros y aspectos a mejorar, y se acuerdan estrategias concretas para fortalecer las oportunidades de expresión oral de los niños y niñas.",
+        "responsables": "Educadora de párvulos / Técnico en Educación Parvularia",
+        "fechas": "Mayo a octubre ",
+        "instrumentos": "Acta de CAA con acuerdos y compromisos/ "
+      },
+      {
+        "id": "action-1780331440136",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "El equipo pedagógico, liderado por la directora, realiza una jornada de reflexión final para evaluar los avances en la implementación sistemática e intencionada de interacciones de lenguaje verbal a lo largo del año. Se identifican logros, aprendizajes colectivos y proyecciones para consolidar una práctica cotidiana que siga ampliando las oportunidades de expresión oral de los niños y niñas.",
+        "responsables": "Directora / Educadora de párvulos / Técnico en Educación Parvularia",
+        "fechas": "Octubre ",
+        "instrumentos": "informe "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-01T16:35:48.095Z"
+}
