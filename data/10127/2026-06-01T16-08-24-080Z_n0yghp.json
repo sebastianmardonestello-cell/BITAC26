@@ -1,0 +1,61 @@
+{
+  "asesor": "David Acuña",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo propone desarrollar experiencias educativas colaborativas con otros establecimientos del territorio, para los estudiantes que participan en talleres laborales los cuales presentan mayores posibilidades para vincularse de forma adecuada al proceso de inserción laboral y  social. ",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Formación",
+    "objetivoEstrategicoPME": "",
+    "estrategiaAnualPME": "",
+    "estandarIndicativo": "7.3 El equipo directivo y los docentes transmiten altas expectativas a los estudiantes, y los orientan y apoyan en la toma de decisiones sobre su futuro.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Progreso de la gestión de la convivencia educativa a través del desarrollo de actividades territoriales, con el propósito de promover espacios educativos seguros, organizados y respetuosos del bienestar socioemocional de párvulos y estudiantes",
+    "practicaDeseada": "El equipo directivo propone desarrollar experiencias educativas colaborativas con otros establecimientos del territorio, para los estudiantes que participan en talleres laborales los cuales presentan mayores posibilidades para vincularse de forma adecuada al proceso de inserción laboral y  social. ",
+    "actions": [
+      {
+        "id": "action-1780329236716",
+        "tipoAccion": "Otra",
+        "descripcion": "Jornada de planificación para definir acciones en las pasantias como: cantidad de clases magistrales en las escuelas especiales, visitas técnicas al CEIA, cantidad de sesiones y  cantidad de participación de estudiantes en estas. ",
+        "responsables": "Equipos directivo. ",
+        "fechas": "Abril / Mayo 2026",
+        "instrumentos": "acta y asistencia de la jornada"
+      },
+      {
+        "id": "action-1780329807933",
+        "tipoAccion": "Otra",
+        "descripcion": "Proceso de sensibilización ",
+        "responsables": "",
+        "fechas": "mayo 2026",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1780330080952",
+        "tipoAccion": "Otra",
+        "descripcion": "Clase magistral de los ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-01T16:08:24.080Z"
+}
