@@ -1,0 +1,77 @@
+{
+  "asesor": "David Acuña",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo propone de forma incipiente experiencias educativas colaborativas con otros establecimientos del territorio, para resguardar las trayectorias educativas de los y las estudiantes que participan de los talleres laborales, brindando la posibilidad de vincularse de forma adecuada al proceso de inserción laboral y social. ",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Formación",
+    "objetivoEstrategicoPME": "Instalar un clima de buena convivencia y participación entre los diversos actores de la comunidad educativa, a través de la implementación del Plan de Gestión de la convivencia escolar.",
+    "estrategiaAnualPME": "Implementar las acciones del Plan de Gestión de la convivencia escolar con foco en los índices de desarrollo personal y social.",
+    "estandarIndicativo": "7.3 El equipo directivo y los docentes transmiten altas expectativas a los estudiantes, y los orientan y apoyan en la toma de decisiones sobre su futuro.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Progreso de la gestión de la convivencia educativa a través del desarrollo de actividades territoriales, con el propósito de promover espacios educativos seguros, organizados y respetuosos del bienestar socioemocional de párvulos y estudiantes",
+    "practicaDeseada": "El equipo directivo propone experiencias educativas colaborativas con otros establecimientos del territorio, resguardando las trayectorias educativas de los y las estudiantes que participan de los talleres laborales, brindando la posibilidad de vincularse al proceso de inserción laboral y social.",
+    "actions": [
+      {
+        "id": "action-1780329236716",
+        "tipoAccion": "Otra",
+        "descripcion": "Jornada de planificación para organizar diferentes acciones en torno a experiencias educativas que potencien las habilidades profesionales y sociales de los y las estudiante. \n\nDefiniendo: Cantidad de clases magistrales en las escuelas especiales, visitas técnicas en el CEIA, cantidad de estudiantes participantes, etc. \n",
+        "responsables": "Equipos directivo. ",
+        "fechas": "mayo 2026",
+        "instrumentos": "Acta y asistencia de la jornada"
+      },
+      {
+        "id": "action-1780329807933",
+        "tipoAccion": "Otra",
+        "descripcion": "Proceso de sensibilización, donde los estudiantes del CEIA visitan las escuelas especiales para conocer el contexto educativo. Brindando un recorrido por el lugar y presentando las diversas formas de trabajo. ",
+        "responsables": "Equipo Directivo ",
+        "fechas": "mayo - junio 2026",
+        "instrumentos": "Asistencia de estudiantes presentes, fotografía.  "
+      },
+      {
+        "id": "action-1780330080952",
+        "tipoAccion": "Otra",
+        "descripcion": "Clase magistral por parte de los estudiantes del CEIA hacia los estudiantes de talleres laborales en la escuela especial. En el ámbito de cocina y ",
+        "responsables": "UTP y TO",
+        "fechas": "Julio.",
+        "instrumentos": "Lista de asistencia, fotografías. "
+      },
+      {
+        "id": "action-1780330145686",
+        "tipoAccion": "Otra",
+        "descripcion": "Clase magistral por parte de los estudiantes del CEIA hacia los estudiantes de talleres laborales en el establecimiento del CEIA",
+        "responsables": "UTP y TO",
+        "fechas": "Agosto.",
+        "instrumentos": "Formulario C y fotografías. "
+      },
+      {
+        "id": "action-1780330238269",
+        "tipoAccion": "Otra",
+        "descripcion": "Dos estudiantes de la escuela especiales asisten a pasantias en establecimiento CEIA. ",
+        "responsables": "UTP y TO",
+        "fechas": "Octubre",
+        "instrumentos": "Formulario C y fotografías.  "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-01T20:36:23.250Z"
+}
