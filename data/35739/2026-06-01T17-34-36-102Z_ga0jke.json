@@ -1,0 +1,53 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico organiza y ambienta los espacios educativos de manera poco intencionada, restringiendo la creación de ambientes físicos flexibles y lúdicos que favorezcan el juego y el aprendizaje significativo de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Potenciar experiencias de aprendizaje con el fin de promover la imaginación y creatividad en los párvulos.\n\n\n",
+    "estrategiaAnualPME": "Ejecutar planificaciones pedagógicas que intervengan e incorporen experiencias en espacios exteriores. ",
+    "estandarIndicativo": "8.1 El equipo pedagógico, en conjunto con los párvulos, organizan y crean ambientes físicos flexibles, lúdicos y pedagógicamente intencionados para el aprendizaje significativo e inclusivo de la comunidad.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo pedagógico organiza y ambienta los espacios educativos de manera intencionada, potenciando la creación de ambientes físicos flexibles y lúdicos que favorezcan el juego y el aprendizaje significativo de los niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1780334371277",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En una jornada de reflexión pedagógica, el equipo educativo presentará y analizará el problema de práctica identificado, generando un espacio de diálogo profesional para compartir experiencias, percepciones y propuestas de mejora. A partir de la reflexión conjunta, se acordarán estrategias innovadoras orientadas a fortalecer las experiencias de aprendizaje, promoviendo el uso de ambientes físicos más estimulantes, lúdicos y significativos, especialmente en espacios exteriores, con el propósito de favorecer el aprendizaje integral de los niños y niñas.",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "Agosto a octubre ",
+        "instrumentos": "Bitácora , Registro fotográfico"
+      },
+      {
+        "id": "action-1780335039829",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller sobre la importancia del juego, mediante una cartografía participativa que permita al equipo educativo recorrer y analizar los espacios del jardín infantil. A través de una dinámica grupal, se identificarán oportunidades para potenciar el uso de espacios exteriores y diversificar las experiencias de aprendizaje, favoreciendo propuestas innovadoras y significativas para los niños y niñas.",
+        "responsables": "Educadoras de párvulos.",
+        "fechas": "Agosto ",
+        "instrumentos": "registros fotográficos, cartografía elaborada por el equipo y evaluación de proceso."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-01T17:34:36.103Z"
+}
