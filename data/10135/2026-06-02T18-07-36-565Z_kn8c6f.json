@@ -1,0 +1,83 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática de segundo ciclo implementas practicas pedagógicas tradicionales focalizadas en el trabajo con guias, limitando la posibilidad de  un aprendizaje  vivencial a través del uso material concreto en la experiencia educativa.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Institucionalizar los procedimientos y estrategias pedagógicas del establecimiento, con foco\nen la evaluación, la diversificación de la enseñanza y el acompañamiento docente sistemático, con el propósito de mejorar los aprendizajes de todos los estudiantes, en coherencia con el Proyecto Educativo Institucional y los lineamientos del Ministerio de Educación.",
+    "estrategiaAnualPME": "Consolidar un sistema de acompañamiento pedagógico al aula que considere observación de clases, retroalimentación docente y espacios de trabajo colaborativo orientados al análisis de prácticas pedagógicas y resultados de aprendizaje ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de matemática de segundo ciclo implementa prácticas pedagógicas diversificadas, incorporando el uso de material concreto y experiencias vivenciales que favorecen aprendizajes profundos en los y las estudiantes.",
+    "actions": [
+      {
+        "id": "action-1778597928080",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller liderado por la responsable de la línea de Matemática, orientado a docentes y jefe técnico, sobre el uso pedagógico del carro matemático como recurso para fortalecer experiencias de aprendizaje concretas y significativas en el aula.",
+        "responsables": "asesora ",
+        "fechas": "1 SEMESTRE",
+        "instrumentos": "lista de asistencia y acta del taller "
+      },
+      {
+        "id": "action-1778598144528",
+        "tipoAccion": "Taller",
+        "descripcion": "Modelamiento de clase para ejemplificar su implementación práctica con los y las estudiantes.",
+        "responsables": "jefe tecnico",
+        "fechas": "segundo semestre",
+        "instrumentos": "acta de la sesión "
+      },
+      {
+        "id": "action-1778598150583",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Realización de dos acompañamientos al aula en el área de Matemática, con el propósito de fortalecer las prácticas pedagógicas y la implementación de estrategias de aprendizaje concretas y significativas.",
+        "responsables": "asesora - jefe técnico ",
+        "fechas": "sergundo semetre",
+        "instrumentos": "pauta de observación - informe final de impacto  "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778597928080": {
+        "fecha": "2026-06-02",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Capacitacion a los docentes de primero y segundo ciclo en el carro matematico, se realizo la capacitacion al 100% de los docentes convocados",
+        "acuerdos": "Incorporar el material del carro matemático por lo menos  en una actividad mensual"
+      },
+      "action-1778598144528": {
+        "fecha": "2026-06-02",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778598150583": {
+        "fecha": "2026-06-02",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T18:07:36.565Z"
+}
