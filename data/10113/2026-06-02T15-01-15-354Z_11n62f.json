@@ -1,0 +1,107 @@
+{
+  "asesor": "Nicole Rivera",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula (docentes de Lenguaje y Comunicación y Educación Diferencial) de 3° a 6° Básico presenta escasa articulación en la implementación de lineamientos comunes para el desarrollo de habilidades de comprensión lectora, lo que dificulta la construcción y progresión de los aprendizajes de los/as estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Sistematizar los aprendizajes de los y las  estudiantes logrando la movilidad de los niveles de desempeño, a través de un plan de apoyo desde Educación Parvularia a 8° año básico, asegurando así el cumplimiento del eje \"fortalecimiento de aprendizajes\" del plan de Reactivación Educativa.",
+    "estrategiaAnualPME": "Fortalecimiento de un Plan de apoyo a los y las  estudiantes, el cual  se analiza, evalúa, perfecciona o modifica, con los docentes en talleres de reflexión, si es necesario.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula (docentes de Lenguaje y Comunicación y E. Diferencial) de 3° a 6° Básico fortalecen los lineamientos comunes (2025) para el desarrollo de habilidades de comprensión lectora, posibilitando la construcción de los aprendizajes de los/as estudiantes.",
+    "actions": [
+      {
+        "id": "action-1776874985219",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Equipos de aula implicados y Equipo Directivo se reúnen para analizar los datos de la escuela y los lineamientos entregados y trabajados en 2025.",
+        "responsables": [
+          "Jefa UTP"
+        ],
+        "fechas": "mayo - junio",
+        "instrumentos": "Acta con acuerdos, lista de asistencia."
+      },
+      {
+        "id": "action-1776875308934",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller para compartir prácticas pedagógicas exitosas entre equipos de aula de 3ero a 6to Básico, bajo los lineamientos 2025.",
+        "responsables": [
+          "Docentes"
+        ],
+        "fechas": "julio",
+        "instrumentos": "Acta con acuerdos, lista de asistencia, material de prácticas pedagógicas exitosas."
+      },
+      {
+        "id": "action-1776875558809",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañar a docentes que imparten la asignatura de Lenguaje y Comunicación, con el fin de monitorear la implementación de los lineamientos de la escuela.",
+        "responsables": [
+          "Jefa UTP",
+          "Directora"
+        ],
+        "fechas": "agosto - octubre",
+        "instrumentos": "Pauta de acompañamiento al aula y retroalimentación."
+      },
+      {
+        "id": "action-1776875760963",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Equipos de aula implicados y Equipo Directivo se reúnen con el fin de evaluar las acciones de mayor eficacia implementadas en clases para el desarrollo de habilidades de comprensión lectora desde 3ero a 6to Básico.",
+        "responsables": [
+          "Docentes y Equipo Directivo"
+        ],
+        "fechas": "octubre - noviembre",
+        "instrumentos": "Acta con acuerdos, lista de asistencia."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1776874985219": {
+        "fecha": "2026-05-28",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante la jornada se reunieron docentes de trercero a sexto básico y equipo directivo. Se revisaron datos de DIA (inicial)/ SIMCE y se identificaron las habilidades más descendidas. Se estableció una segunda instancia para establecer acciones de mejroa en relacion a los resultados (mostrar . Esto se realizará el 04 de junio. ",
+        "acuerdos": ""
+      },
+      "action-1776875308934": {
+        "fecha": "2026-05-28",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1776875558809": {
+        "fecha": "2026-05-28",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1776875760963": {
+        "fecha": "2026-05-28",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T15:01:15.354Z"
+}
