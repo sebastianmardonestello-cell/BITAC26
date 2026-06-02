@@ -1,0 +1,36 @@
+{
+  "asesor": "David Acuña",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo propone de forma incipiente experiencias educativas colaborativas con otros establecimientos del territorio, para resguardar las trayectorias educativas de los y las estudiantes que participan de los talleres laborales, brindando la posibilidad de vincularse de forma adecuada al proceso de inserción laboral y social. ",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Formación",
+    "objetivoEstrategicoPME": "Implementar estrategias que permitan el desarrollo integral, en nuestros estudiantes, mediante la promoción de la autonomía en el ámbito académico, personal, para facilitar una futura inserción laboral.",
+    "estrategiaAnualPME": "Fortalecer estrategias en donde los estudiantes desarrollen los indicadores de desarrollo personal y social.",
+    "estandarIndicativo": "7.3 El equipo directivo y los docentes transmiten altas expectativas a los estudiantes, y los orientan y apoyan en la toma de decisiones sobre su futuro.",
+    "capacidadBasal": "",
+    "estadoCapacidad": ""
+  },
+  "planificacion": {
+    "accionPMEVinculada": "",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T12:02:22.483Z"
+}
