@@ -1,0 +1,98 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa experiencias de aprendizaje focalizadas en la sala, limitando la posibilidad de otorgarle una intención educativa a otros espacios que fortalezca el sello del jardín y amplíe las oportunidades de aprendizaje de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Consolidar las interacciones pedagógicas para potenciar la imaginación y creatividad de los párvulos, mediante la planificación educativa.",
+    "estrategiaAnualPME": "Implementar un proceso sistemático de creación, uso y evaluación de material educativo en espacios comunes, alineado con el sello educativo, que promueva experiencias de aprendizaje significativas para los niños y niñas.",
+    "estandarIndicativo": "8.1 El equipo pedagógico, en conjunto con los párvulos, organizan y crean ambientes físicos flexibles, lúdicos y pedagógicamente intencionados para el aprendizaje significativo e inclusivo de la comunidad.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "11. Consolidación de las capacidades técnico-pedagógicas para el desarrollo de  experiencias de aprendizaje basadas en el principio del juego. ",
+    "practicaDeseada": "El equipo educativo utiliza otros ambientes de aprendizaje como el patio otorgándole una intención educativa, fortaleciendo el sello del jardín y los aprendizajes de los niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1779192687308",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "El equipo educativo construirá en una reunión CAUE una pauta de observación que permitirá visualizar aspectos de seguridad, acceso, pertinencia, usos, entre otros. El equipo educativo de cada nivel realizará una caminata y aplicará una pauta de observación, con el fin de realizar un mapeo de los distintos sectores del patio (sala cuna y niveles medios) e identificar espacios que requieren una intervención e intención pedagógica. ",
+        "responsables": "Equipo educativo y encargada PISE",
+        "fechas": "Mayo - Junio",
+        "instrumentos": "Bitácora y pautas aplicadas por nivel."
+      },
+      {
+        "id": "action-1779205566703",
+        "tipoAccion": "Otra",
+        "descripcion": "Se confecciona y aplica una encuesta online dirigida a las familias con el fin de levantar información para gestionar sus aportes y ayuda en la implementación de los espacios educativos en el patio (niveles de sala cuna y niveles medios)",
+        "responsables": "Equipo de gestión",
+        "fechas": "Mayo - Junio",
+        "instrumentos": "Resultados de la encuesta"
+      },
+      {
+        "id": "action-1779206141671",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Por medio de esta acción se realizará el diseño y planificación general donde se definen las personas encargadas de los sectores a intervenir, se coordinan los materiales y recursos a utilizar y se definen las comisiones y roles de trabajo por piso.",
+        "responsables": "Equipo educativo",
+        "fechas": "Julio",
+        "instrumentos": "Bitácora que contemple las etapas del plan de trabajo."
+      },
+      {
+        "id": "action-1779206429136",
+        "tipoAccion": "Otra",
+        "descripcion": "En esta acción se implementan y evalúan el desarrollo del plan de trabajo y cómo es la mediación de los adultos al ocupar estos sectores. También, se realiza una difusión a las familias sobre el trabajo realizado, su importancia e intencionalidad educativa. ",
+        "responsables": "Equipo educativo y familia",
+        "fechas": "Septiembre - Noviembre",
+        "instrumentos": "Bitácora y registro fotográfico del proceso."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779192687308": {
+        "fecha": "2026-06-01",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante mayo a la fecha, el equipo de educadoras define nombre a la propuesta \"Paredes activas\" y presenta al equipo técnico, teniendo una acogida positiva y entusiasta. Durante el desarrollo de una CAUE se seleccionan los puntos y temas relevantes para la construcción de la pauta de observación y se presentan insumos para inspirar el levantamiento de ideas y construcción de su ficha técnica.",
+        "acuerdos": "Próxima CAUE de junio se tendrá el diseño de la pauta de observación con la cual se realizará la caminata para ser aplicada por cada nivel educativo. Se acuerda que luego socializarán los puntos observados y se levantan al menos 3 propuestas. En la CAUE del 17 de junio ya se tendrá definido las propuestas, los materiales y respectivas comisiones."
+      },
+      "action-1779205566703": {
+        "fecha": "2026-06-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Esta definido quienes serán las responsables de crear la encuesta online y para ello se reunieran el equipo de educadoras entre la semana del Solo la distribución de como se creará y cuando se enviará. Esta definido la fecha en la cual que reunirán a crear la encuesta online. (03 y 04)",
+        "acuerdos": "Reunirse a crear encuestas con preguntas indagar los aportes y participación, conocer la disponibilidad de tiempos y posibilidades de poder integrarse en la implementación de esta intervención pedagógica."
+      },
+      "action-1779206141671": {
+        "fecha": "2026-06-01",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1779206429136": {
+        "fecha": "2026-06-01",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T19:52:53.397Z"
+}
