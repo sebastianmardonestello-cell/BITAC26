@@ -1,0 +1,36 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de primero y segundo básico implementan estrategias de enseñanza-aprendizaje tradicionales y con escasa diversificación metodológica en las asignatura de Matemática,  lo que restringe el desarrollo progresivo de habilidades de creatividad, pensamiento crítico y razonamiento lógico-matemático en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar la metodología de trabajo colaborativo entre los docentes de NT1 a 6° año básico para acortar las brechas de aprendizaje de los y las estudiantes.",
+    "estrategiaAnualPME": "Aseguramiento de los espacios de las reuniones de equipo de aula para acortar las brechas de aprendizaje de los estudiantes.",
+    "estandarIndicativo": "5.1 Los docentes centran sus clases en los Objetivos de Aprendizaje estipulados en las Bases Curriculares, con un manejo riguroso de las habilidades, contenidos y actitudes a desarrollar.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de primero y segundo básico implementan estrategias de enseñanza-aprendizaje diversificadas y centradas en el desarrollo de habilidades en las asignatura de Matemática, promoviendo la creatividad, el pensamiento crítico y el razonamiento lógico-matemático en los estudiantes.",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T13:46:52.291Z"
+}
