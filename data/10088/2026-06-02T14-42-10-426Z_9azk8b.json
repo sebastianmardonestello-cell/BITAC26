@@ -1,0 +1,45 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 4 y 5 básico planifican actividades de aprendizaje de manera aislada, delimitando la articulación entre niveles para una propuesta metodológica institucional. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para profundizar en áreas críticas, articular prácticas e interacciones pedagógicas a través de instancias de reflexión y trabajo colaborativo, en conjunto con las acciones del Plan Desarrollo Profesional Docente que permita generar una gestión pedagógica exitosa.\n",
+    "estrategiaAnualPME": "Implementación de espacios de análisis de datos, reflexión y trabajo colaborativo entre docentes, educadoras diferenciales, asistentes de la educación para compartir e intercambiar prácticas exitosas que generen aprendizajes profundos en los estudiantes.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "7. Plan Local de Formación orientada a la mejora y soporte de la(s) prácticas(s) docente y de los asistentes de la educación.",
+    "practicaDeseada": "Los docentes de 4 y 5 básico realizan actividades de aprendizaje de manera colaborativa y periódica, promoviendo un rol más activo de los estudiantes en la adquisición de nuevos conocimientos y habilidades favoreciendo la articulación entre niveles e instalando una propuesta metodológica institucional.",
+    "actions": [
+      {
+        "id": "action-1780409777010",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "La jornada  estara focalizada para analizar de forma cualitativa y cuantitativa los datos de evaluaciones internas y externas y características de los cursos 4 y 5  para tomar acuerdos pedagógicos, por ejemplo, como trabajar de forma colaborativa en la planificación, implementación y evaluación (ti",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-02T14:42:10.426Z"
+}
