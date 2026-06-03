@@ -1,0 +1,128 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo implementa prácticas para solicitar apoyo de las familias en el desarrollo de experiencias educativas, con escasas respuestas y baja participación de estas, provocando una falta de vinculación con el centro educativo.",
+    "dimensionPME": "Familia y Comunidad",
+    "subdimensionPME": "Vínculo con la Comunidad y sus Redes",
+    "objetivoEstrategicoPME": "Fortalecer los canales de comunicación entre el centro educativo y redes territoriales para establecer una relación efectiva y mutua colaboración.",
+    "estrategiaAnualPME": "Planificar acciones conjuntas visibles.",
+    "estandarIndicativo": "4.1 El equipo directivo y el pedagógico construyen un ambiente de confianza, de mutua colaboración y compromiso con las familias y apoderados en torno al desarrollo y aprendizaje de los párvulos.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "8. Fortalecimiento del vínculo con la familia integrando sus saberes y aportes de forma activa en el diseño de los  Planes de Aula de cada nivel.",
+    "practicaDeseada": "El equipo educativo implementa una estrategia para la vinculación y  participación de las familias en las experiencias educativas, fortaleciendo la valoración de estas con el centro educativo.",
+    "actions": [
+      {
+        "id": "action-1778600304147",
+        "tipoAccion": "Otra",
+        "descripcion": "Se creará y aplicará una encuesta de Google Forms dirigida a las familias para levantar información sobre aquellas acciones, actividades y/o experiencias en las cuales ellas pueden aportar e integrarse de manera efectiva al nivel de sala cuna heterogénea.",
+        "responsables": "Directora",
+        "fechas": "Primer semestre",
+        "instrumentos": "Encuesta y resultados de la encuesta aplicada"
+      },
+      {
+        "id": "action-1778600781346",
+        "tipoAccion": "Otra",
+        "descripcion": "El equipo educativo creará un calendario de participación familiar a partir de los resultados obtenidos en la encuesta, y se distribuirá la vinculación de cada familia en la implementación de experiencias educativas y/o actividades desarrolladas en el nivel. ",
+        "responsables": "Educadora de Párvulos ",
+        "fechas": "Primer semestre",
+        "instrumentos": "Carta Gantt, toma conocimiento y compromisos de las familias."
+      },
+      {
+        "id": "action-1778600981751",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementación y seguimiento del calendario de participación de cada familia con las actividades que desarrollarán en la sala cuna.",
+        "responsables": "Educadora de párvulos y familias del nivel",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Registro fotográfico y descriptivo de cada actividad desarrollada por las familias. "
+      },
+      {
+        "id": "action-1778601260985",
+        "tipoAccion": "Otra",
+        "descripcion": "Se enviará una encuesta de satisfacción a las familias para conocer su apreciación tras haber participado de la actividad y se solicitará comentar las dificultades se le presentó para cumplir con ésta. Posteriormente el equipo educativo usará este insumo para hacer el análisis de los datos y evaluación de la implementación del calendario de participación familiar.",
+        "responsables": "Directora",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Resultados de la encuesta de satisfacción y acta de evaluación de la acción implementada."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778600304147": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se comparte la encuesta al 93% de las familias con una recepción positiva por parte de todos, en la cual dan a conocer de que forma aportar e integrarse con el nivel. También, se conocen los horarios en los cuales ellas tienen disponibilidad para que el equipo educativo organice la segunda acción respondiendo a sus intereses y posibilidades de participación. ",
+        "acuerdos": "En base al análisis de las respuestas obtenidas por las familias, en próxima reunión de apoderados se sensibilizará sobre los diferentes tipos de participación que ellos realizan y pueden realizar en futuras actividades. Realizarán la organización y distribución de las actividades, según la información recopilada, en las que se integrarán las familias.\nAquella familia que no respondió la encuesta se realizará se hará una entrevista para conocer sus posibilidades de participación. En CAUE se compartirá los resultados de esta encuesta y calendarización de las actividades al equipo técnico."
+      },
+      "action-1778600781346": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se tomo conocimiento de los horarios de las familias y en qué actividad desea integrarse. Se proyectaron las actividades de participación de las familia, las cuales se distribuyen en distintos momentos y fechas del segundo semestre en un actividad de cuentacuentos, confección de materiales, juegos tradiciones oficios- prefsiones o efemérides.",
+        "acuerdos": "Se da a conocer a las familias en reunión de apoderados el calendario de participación con la distribución de sus intervenciones y aportes. Se realizará una toma de conocimiento de las familias sobre la actividades que participará y se solicita su colaboración. "
+      },
+      "action-1778600981751": {
+        "fecha": "2026-06-03",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778601260985": {
+        "fecha": "2026-06-03",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778600304147": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se comparte la encuesta al 93% de las familias con una recepción positiva por parte de todos, en la cual dan a conocer de que forma aportar e integrarse con el nivel. También, se conocen los horarios en los cuales ellas tienen disponibilidad para que el equipo educativo organice la segunda acción respondiendo a sus intereses y posibilidades de participación. ",
+        "acuerdos": "En base al análisis de las respuestas obtenidas por las familias, en próxima reunión de apoderados se sensibilizará sobre los diferentes tipos de participación que ellos realizan y pueden realizar en futuras actividades. Realizarán la organización y distribución de las actividades, según la información recopilada, en las que se integrarán las familias.\nAquella familia que no respondió la encuesta se realizará se hará una entrevista para conocer sus posibilidades de participación. En CAUE se compartirá los resultados de esta encuesta y calendarización de las actividades al equipo técnico."
+      },
+      "action-1778600781346": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se tomo conocimiento de los horarios de las familias y en qué actividad desea integrarse. Se proyectaron las actividades de participación de las familia, las cuales se distribuyen en distintos momentos y fechas del segundo semestre en un actividad de cuentacuentos, confección de materiales, juegos tradiciones oficios- prefsiones o efemérides.",
+        "acuerdos": "Se da a conocer a las familias en reunión de apoderados el calendario de participación con la distribución de sus intervenciones y aportes. Se realizará una toma de conocimiento de las familias sobre la actividades que participará y se solicita su colaboración. "
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778600304147": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se comparte la encuesta al 93% de las familias con una recepción positiva por parte de todos, en la cual dan a conocer de que forma aportar e integrarse con el nivel. También, se conocen los horarios en los cuales ellas tienen disponibilidad para que el equipo educativo organice la segunda acción respondiendo a sus intereses y posibilidades de participación. ",
+        "acuerdos": "En base al análisis de las respuestas obtenidas por las familias, en próxima reunión de apoderados se sensibilizará sobre los diferentes tipos de participación que ellos realizan y pueden realizar en futuras actividades. Realizarán la organización y distribución de las actividades, según la información recopilada, en las que se integrarán las familias.\nAquella familia que no respondió la encuesta se realizará se hará una entrevista para conocer sus posibilidades de participación. En CAUE se compartirá los resultados de esta encuesta y calendarización de las actividades al equipo técnico."
+      },
+      "action-1778600781346": {
+        "fecha": "2026-06-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se tomo conocimiento de los horarios de las familias y en qué actividad desea integrarse. Se proyectaron las actividades de participación de las familia, las cuales se distribuyen en distintos momentos y fechas del segundo semestre en un actividad de cuentacuentos, confección de materiales, juegos tradiciones oficios- prefsiones o efemérides.",
+        "acuerdos": "Se da a conocer a las familias en reunión de apoderados el calendario de participación con la distribución de sus intervenciones y aportes. Se realizará una toma de conocimiento de las familias sobre la actividades que participará y se solicita su colaboración. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-03T14:50:37.853Z"
+}
