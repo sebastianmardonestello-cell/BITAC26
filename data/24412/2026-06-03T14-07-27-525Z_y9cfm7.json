@@ -1,0 +1,45 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Las prácticas pedagógicas de 8 básico en matemáticas, se implementan sin contextualización  ni relevancia para los estudiantes, limitando el desarrollo de nuevas habilidades y actitudes frente a la asignatura. \n\n",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Mejorar el modelo de gestión curricular con el fin de avanzar progresivamente en los niveles de logro a través del análisis y reflexión de los procesos de enseñanza aprendizaje\n",
+    "estrategiaAnualPME": "Jornadas de análisis de datos y reflexión de los procesos de enseñanza y aprendizaje.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Las prácticas pedagógicas en matemáticas de 8 básico son contextualizadas para los estudiantes, promoviendo el desarrollo de nuevas habilidades y actitudes frente a la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1780494411166",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "El acompañamiento al aula se realizará para evidenciar si los docentes están trabajando estrategias didácticas utilizando la modelización del material concreto  con foco al desarrollo de habilidades,  levantar un diagnóstico de necesidades detectadas y tomar acuerdos con los docentes como parte del compromiso para el 2 semestre. ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-03T14:07:27.525Z"
+}
