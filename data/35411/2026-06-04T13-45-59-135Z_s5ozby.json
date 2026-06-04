@@ -1,0 +1,99 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo de todas las salas del jardín propone estrategias pedagógicas casuales, desordenadas y asistemáticas, dificultando las oportunidades de aprendizaje profundo en los niños y niñas.",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Fortalecer ambientes de trabajo colaborativo para relevar los principios de pedagógicos de la Educación Parvularia en el aula, mediante el plan local de desarrollo profesional.",
+    "estrategiaAnualPME": "Implementar espacios sistemáticos de planificación colaborativa, focalizando un principio pedagógico semanal para reflexionar, diseñar y ajustar experiencia de aprendizaje que fortalezcan las prácticas educativas y la participación activa de los niños y niñas.",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo educativo organiza, sistematiza y estructura las estrategias pedagógicas que contribuyen a generar oportunidades diversas para los aprendizajes de los niños y las niñas. ",
+    "actions": [
+      {
+        "id": "action-1777485213605",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Mediante esta acción se busca informar y organizar con los equipos educativos los comités a trabajar, con el fin de establecer acciones concretas que permita mejorar el funcionamiento, definir propuestas, roles de cada agente educativo y el foco de las actividades a diseñar por cada comité.",
+        "responsables": "Directora",
+        "fechas": "Primer semestre",
+        "instrumentos": "Acta de asistencia, formatos de los proyectos y fotografías."
+      },
+      {
+        "id": "action-1777485708814",
+        "tipoAccion": "Otra",
+        "descripcion": "Jornada de trabajo por comités para organizar los proyectos.",
+        "responsables": "Equipo educativo",
+        "fechas": "Primer semestre",
+        "instrumentos": "Plan de trabajo y muestra de proyecto de los comité."
+      },
+      {
+        "id": "action-1777485708928",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "En esta instancia se analiza las evidencias de las actividades y los resultados de la implementación. Además, se reflexiona sobre el impacto que tuvo en los aprendizajes de los niños y las niñas.",
+        "responsables": "Equipo educativo",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Formulario de Google sobre la apreciación del equipo educativo sobre el impacto de estos proyectos por comité."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1777485213605": {
+        "fecha": "2026-06-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los equipos están al tanto de los comités, cada funcionaria esta designada en una comisión de trabajo mostrando una buena recepción y disposición por parte de todas las funcionarias, están distribuidos los roles y se establece el carácter pedagógico de cada proyecto. Se escogen de manera colaborativa 6 comités.",
+        "acuerdos": "Se entregará el formato de la ejecución de los proyectos para plasmar las actividades. Se dispondrá de un panel con la distribución de los roles para visible todas las funcionarias. Se acuerda entre los equipos la flexibilidad de los periodos y cantidad de actividades a desarrollar en cada comité."
+      },
+      "action-1777485708814": {
+        "fecha": "2026-06-04",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han reunido los comités para definir los objetivos, duración de los proyectos a implmentar y las actividades a realizar teniendo como foco la participación de los niños y niñas, y familias",
+        "acuerdos": "Se confeccionará una pauta para ir registrando el desarrollo de las actividades e ir evaluando como fue su desarrollo, impacto y oportunidades de mejora.  Se dejará un espacio dentro de las jornadas y reuniones de comunidad un espacio para ir trabajando los comités"
+      },
+      "action-1777485708928": {
+        "fecha": "2026-06-04",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1777485213605": {
+        "fecha": "2026-06-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los equipos están al tanto de los comités, cada funcionaria esta designada en una comisión de trabajo mostrando una buena recepción y disposición por parte de todas las funcionarias, están distribuidos los roles y se establece el carácter pedagógico de cada proyecto. Se escogen de manera colaborativa 6 comités.",
+        "acuerdos": "Se entregará el formato de la ejecución de los proyectos para plasmar las actividades. Se dispondrá de un panel con la distribución de los roles para visible todas las funcionarias. Se acuerda entre los equipos la flexibilidad de los periodos y cantidad de actividades a desarrollar en cada comité."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1777485213605": {
+        "fecha": "2026-06-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los equipos están al tanto de los comités, cada funcionaria esta designada en una comisión de trabajo mostrando una buena recepción y disposición por parte de todas las funcionarias, están distribuidos los roles y se establece el carácter pedagógico de cada proyecto. Se escogen de manera colaborativa 6 comités.",
+        "acuerdos": "Se entregará el formato de la ejecución de los proyectos para plasmar las actividades. Se dispondrá de un panel con la distribución de los roles para visible todas las funcionarias. Se acuerda entre los equipos la flexibilidad de los periodos y cantidad de actividades a desarrollar en cada comité."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-04T13:45:59.135Z"
+}
