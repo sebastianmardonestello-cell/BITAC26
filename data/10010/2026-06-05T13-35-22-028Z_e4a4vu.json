@@ -1,0 +1,53 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 6° básico de Lenguaje y Matemática desarrollan una enseñanza escasamente diversificada, incumpliendo los lineamientos metodológicos institucionales. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el liderazgo distribuido para consolidar una cultura de compromiso institucional, mediante el monitoreo sistemático de los procesos de mejora.\n",
+    "estrategiaAnualPME": "Jornadas de análisis y discusión de datos con foco en la mejora de los aprendizajes.\n",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de 6° básico de Lenguaje y Matemática desarrollan una enseñanza diversificada, cumpliendo los lineamientos metodológicos institucionales. ",
+    "actions": [
+      {
+        "id": "action-1778095088320",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Esta jornada de análisis y evaluación estará orientada a evidenciar, a partir de datos provenientes de evaluaciones externas (DIA, SIMCE y APTUS), las brechas existentes en el desarrollo de habilidades durante las clases y en la diversificación de los instrumentos utilizados para la enseñanza y evaluación de los aprendizajes.\n\nA partir del levantamiento de necesidades y de la información recopilada durante la reunión, se espera construir acuerdos pedagógicos con los docentes que permitan fortalecer las prácticas de aula y contribuir a la mejora continua de los resultados de aprendizaje de los estudiantes.",
+        "responsables": "Director-UTP",
+        "fechas": "",
+        "instrumentos": "Presentación de la jornada , acta "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778095088320": {
+        "fecha": "",
+        "avance": 24,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-05T13:35:22.028Z"
+}
