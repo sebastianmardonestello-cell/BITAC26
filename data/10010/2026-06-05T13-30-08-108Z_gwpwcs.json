@@ -1,0 +1,53 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 6° básico de Lenguaje y Matemática desarrollan una enseñanza escasamente diversificada, incumpliendo los lineamientos metodológicos institucionales. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el liderazgo distribuido para consolidar una cultura de compromiso institucional, mediante el monitoreo sistemático de los procesos de mejora.\n",
+    "estrategiaAnualPME": "Jornadas de análisis y discusión de datos con foco en la mejora de los aprendizajes.\n",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Confianza relacional",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de 6° básico de Lenguaje y Matemática desarrollan una enseñanza diversificada, cumpliendo los lineamientos metodológicos institucionales. ",
+    "actions": [
+      {
+        "id": "action-1778095088320",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Esta jornada de analisis y evaluaciòn estarà enfocada en evidenciar con datos los resultados de las evaluaciones externas (DIA-SIMCE-APTUS) la falta de desarrollo de habilidades  en las clases y diversificaciòn de instrumentos para entrega de conocimientos ",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778095088320": {
+        "fecha": "",
+        "avance": 24,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-05T13:30:08.108Z"
+}
