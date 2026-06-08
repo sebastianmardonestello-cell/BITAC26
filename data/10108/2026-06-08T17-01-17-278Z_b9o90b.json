@@ -1,0 +1,69 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de 1er ciclo implementa experiencias educativas tradicionales limitando el trabajo autónomo de los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el desarrollo de habilidades cognitivas, artísticas y deportivas de los estudiantes, para favorecer su formación integral y mejorar sus aprendizajes, mediante la implementación de prácticas pedagógicas diversificadas e integrales en el aula",
+    "estrategiaAnualPME": "Implementar estrategias pedagógicas diversificadas que integren habilidades cognitivas, artísticas y deportivas en las distintas asignaturas.",
+    "estandarIndicativo": "5.5 Los docentes se aseguran de que todos sus estudiantes trabajen en clases y promueven el estudio independiente y la responsabilidad.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de 1er ciclo implementa experiencias educativas diversificadas fomentando el trabajo autónomo de los estudiantes. ",
+    "actions": [
+      {
+        "id": "action-1780680668895",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Capacitación del equipo pedagógico de 1er ciclo en metodologías activas de enseñanza y aprendizaje, orientadas a fortalecer la autonomía, la colaboración y el pensamiento crítico de los estudiantes.",
+        "responsables": "Director",
+        "fechas": "Julio",
+        "instrumentos": "Asistencia- Planificación- Material utilizado"
+      },
+      {
+        "id": "action-1780937750453",
+        "tipoAccion": "Otra",
+        "descripcion": "Desarrollo de instancias de planificación para el diseño de experiencias de aprendizaje que promuevan la autonomía, la participación activa y el protagonismo de los estudiantes.",
+        "responsables": "UTP- Profesores de 1er ciclo",
+        "fechas": "Julio",
+        "instrumentos": "Asistencia- Plan de trabajo de las experiencias diseñadas"
+      },
+      {
+        "id": "action-1780937861125",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementación de estaciones de aprendizaje como estrategia metodológica para promover la autonomía, la participación activa y el trabajo colaborativo de los estudiantes durante el desarrollo de las clases.",
+        "responsables": "Profesores de 1er ciclo",
+        "fechas": "",
+        "instrumentos": "Registro en el leccionario -Fotografías - Planificación"
+      },
+      {
+        "id": "action-1780937975941",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Realización de acompañamientos sistemáticos al aula con foco en la implementación de estrategias que favorezcan la autonomía estudiantil, entregando retroalimentación oportuna para la mejora continua de la práctica docente.",
+        "responsables": "Equipo de gestión- Asesora pedagogica ",
+        "fechas": "Julio- Octubre",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-08T17:01:17.278Z"
+}
