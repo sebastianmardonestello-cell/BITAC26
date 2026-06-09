@@ -1,0 +1,53 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de la asignatura de matemáticas de 6 y 7 año básico  implementan prácticas de enseñanza centradas en métodos tradicionales y poco diversificados, limitando el uso de estrategias efectivas que promueven el desarrollo de habilidades de pensamiento matemático y la motivación de los estudiantes por la disciplina. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer las prácticas pedagógicas docentes, para movilizar los niveles de logro de los estudiantes según los estándares, mediante el acompañamiento, análisis de datos y reflexión conjunta. \n",
+    "estrategiaAnualPME": "Jornadas de análisis y reflexión con foco en la implementación de las estrategias de aprendizaje en lenguaje y  matemática\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de la asignatura de matemáticas de 6 y 7 año básico  implementan prácticas de enseñanza diversificadas y contextualizadas  que potencien el pensamiento matemático y aumente el interés por la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1781035307172",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Esta acción se enfoca en observar a lo docentes en el aula, se  realiza la retroalimentación y se levanta el diagnóstico y oportunidades  de mejora de las clases. A partir de esto se toman acuerdos. ",
+        "responsables": "UTP",
+        "fechas": "Abril- Mayo",
+        "instrumentos": "Pauta de observación y retroalimentación del establecimiento y pauta uso material concreto de carro matemático"
+      },
+      {
+        "id": "action-1781038285395",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Esta acción busca desarrollar  acompañamiento sistemático de reuniones de co-diseño de unidades didácticas diversificadas y contextualizadas para la enseñanza de la matemática, con foco en el desarrollo de habilidades de pensamiento matemático y problemas de la vida cotidiana de los estudiantes. ",
+        "responsables": "UTP - CoordinaciÓn PIE",
+        "fechas": "Julio a Octubre ",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-09T20:58:17.607Z"
+}
