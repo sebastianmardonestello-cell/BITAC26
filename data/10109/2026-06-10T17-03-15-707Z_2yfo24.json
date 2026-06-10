@@ -1,0 +1,45 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El Equipo pedagógico del primer ciclo básico implementa actividades de enseñanza que priorizan la repetición mecánica y la memorización, lo que no asegura la comprensión de los procedimientos y el pensamiento lógico  matemático",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Profundizar competencias didácticas de los docentes para lograr efectivamente el desarrollo de habilidades intelectuales superiores en los estudiantes, en el marco del modelo pedagógico institucional indagativo-constructivo, a través de la generación de actividades que favorezcan a autonomía y el protaganismo de los y las estudiantes en a construcción de sus aprendizajes.",
+    "estrategiaAnualPME": "Consolidar el uso de estrategias pedagógicas orientadas al desarrollo de habilidades superiores, de análisis y reflexión, ajustadas a las necesidades educativas de la diversidad de estudiantes.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico del primer ciclo asegura la comprensión y el aprendizaje profundo de los procedimientos y el razonamiento matemático en sus estudiantes. Para ello, prioriza la construcción de sentido y la lógica de los procedimientos, garantizando que el pensamiento matemático se sustente en procesos reflexivos.",
+    "actions": [
+      {
+        "id": "action-1781110981635",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "Mrzo",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-10T17:03:15.707Z"
+}
