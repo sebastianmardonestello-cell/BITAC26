@@ -1,0 +1,83 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de gestión implementa el instrumento HTMC para sistematizar y retroalimentar las prácticas educativas con dificultades en su pertinencia y aplicación, lo que dificulta la reflexión y poder concretar mejoras en el quehacer educativo de las funcionarias.",
+    "dimensionPME": "Gestión de Recursos",
+    "subdimensionPME": "Gestión de las Personas",
+    "objetivoEstrategicoPME": "Perfeccionar la retroalimentación al personal para potenciar la labor educativa mediante el acompañamiento al aula.",
+    "estrategiaAnualPME": "Articular el Plan de Formación Profesional conjuntamente con los acompañamientos y retroalimentación al aula.  ",
+    "estandarIndicativo": "12.3 El equipo directivo gestiona la evaluación y retroalimentación del personal sistemáticamente, y promueve el desarrollo profesional para la mejora continua del desempeño.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Acompañamiento técnico pedagógico",
+    "practicaDeseada": "El equipo de gestión implementa un instrumento pertinente y adecuado a su contexto para fortalecer la reflexión y formalización de mejoras en el quehacer educativo de las funcionarias.",
+    "actions": [
+      {
+        "id": "action-1778704674444",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En reunión de equipo de sala se realizará una socialización del \"instrumento territorial para observar los ambientes de aprendizaje\" para que el equipo educativo conozca instrumento y la modalidad de aplicación.",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "Mayo",
+        "instrumentos": "Acta de reunión"
+      },
+      {
+        "id": "action-1778704675519",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación del acompañamiento aplicando el instrumento territorial",
+        "responsables": "Equipo de gestión",
+        "fechas": "Julio a octubre",
+        "instrumentos": "Instrumento de monitoreo y retroalimentación "
+      },
+      {
+        "id": "action-1778704676123",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "En reunión de comunidad de aprendizaje se realizará la evaluación del instrumento para evaluar su aplicación, levantar oportunidades de mejora y evaluar su aplicación para el próximo año. ",
+        "responsables": "Equipo de gestión",
+        "fechas": "Noviembre",
+        "instrumentos": "Registro de la síntesis general del monitoreo."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778704674444": {
+        "fecha": "2026-06-11",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": "Educadora del nivel Medio Menor realizará socialización a personal técnico que por licencia no estuvo presente en la CAA. El resto de los niveles educativos definirán con sus equipos de sala las 2 dimensiones a implementar del instrumento territorial p0ara observar los ambientes de aprendizaje y observar en los acompañamientos"
+      },
+      "action-1778704675519": {
+        "fecha": "2026-06-11",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778704676123": {
+        "fecha": "2026-06-11",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-11T15:19:42.165Z"
+}
