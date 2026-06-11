@@ -1,0 +1,36 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de educación parvularia implementa actividades de aprendizaje en el aula con escasa articulación pedagógica y desorganización en el nivel combinado, limitando el uso de estrategias diversificadas que aseguren el logro de los Objetivos de Aprendizaje estipulados en las Bases Curriculares. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer las prácticas pedagógicas a través del acompañamiento docente para mejorar los resultados de aprendizaje mediante el monitoreo y retroalimentación constante.\n",
+    "estrategiaAnualPME": "Instancias de trabajo colaborativo, monitoreo y retroalimentación de resultados académicos, con foco en la mejora de las prácticas pedagógicas\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "",
+    "actions": []
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-11T14:58:54.608Z"
+}
