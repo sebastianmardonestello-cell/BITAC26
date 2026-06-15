@@ -1,0 +1,99 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "La equipo técnico y las familias desconocen el contenido técnico referido al instrumento de evaluación institucional de trayectorias de los párvulos, lo que afecta la valoración y conocimiento del proceso formativo de los niños y niñas del centro educativo.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Mejorar el proceso de evaluación para responder a las necesidades y características de cada nivel y/o grupo, mediante  talleres reflexivos.",
+    "estrategiaAnualPME": "Diseño y definición de instrumentos institucionales para los procesos de evaluación de los niños y niñas.",
+    "estandarIndicativo": "6.2 El equipo directivo and el pedagógico implementan un proceso de evaluación de acuerdo con las características de cada nivel and grupo.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "10. Implementar estrategias y/o intrumentos de evaluación de acuerdo a las caracteristicas de los niños y las niñas.",
+    "practicaDeseada": "La equipo técnico y las familias conocen el contenido técnico del instrumento de evaluación institucional de trayectorias de los párvulos, favoreciendo la valoración y comprensión del proceso formativo de los niños y niñas del centro educativo. ",
+    "actions": [
+      {
+        "id": "action-1778169517438",
+        "tipoAccion": "Taller",
+        "descripcion": "En instancia de comunidad de aprendizaje, se presenta un resumen de cómo surge el instrumento, cuál es el fin y definir la participación de la comunidad educativa. Se da a conocer los elementos del instrumento. Al finalizar se aplica encuesta para conocer su apreciación y aportes al instrumento. ",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "20 de mayo",
+        "instrumentos": "Acta de CAUE, presentación y compilado de respuesta del formulario"
+      },
+      {
+        "id": "action-1778170010262",
+        "tipoAccion": "Otra",
+        "descripcion": "En esta acción, se espera dar a conocer el instrumento institucional a las familias para que completen información, revisen el instrumento y levanten sus dudas y comentarios. ",
+        "responsables": "Equipo educativo de cada nivel",
+        "fechas": "Primer semestre",
+        "instrumentos": "Muestra de participación de las familias, registro de control o check list de la recepción del instrumento. "
+      },
+      {
+        "id": "action-1778170606818",
+        "tipoAccion": "Otra",
+        "descripcion": "Encuesta sobre la aplicación del instrumento y tomar la apreciación de la comunidad educativa sobre su implementación. El equipo educativo analiza e identifica oportunidades de mejora para realizar adecuaciones al instrumento.",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Análisis y resultados de la encuesta. Acta con las mejoras del instrumento."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778169517438": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El personal educativo esta al tanto de lo que se esta trabajando, todas manifestaron estar de acuerdo y el instrumento es reconocido por todos. Hay compromiso y trabajo colaborativo para completar y aplicar el instrumento. Se aplica encuesta las funcionarias para conocer su apreciación y aportes al instrumento.0o",
+        "acuerdos": "Seguir con el curso de las acciones planificadas. "
+      },
+      "action-1778170010262": {
+        "fecha": "2026-06-10",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se crea el instrumento,  se trabaja con las familias en dos instancias, en asamblea general y por nivel educativo en reuniones de apoderados, con la finalidad de dar a conocer el instrumento y se envía encuesta a todos los niveles educativos. Familias en sus respuestas valoran el registro de la trayectoria de su hijo o hija y destacan los registros fotografías del instrumento.",
+        "acuerdos": "Reforzar la participación de las familias para tener mayor porcentaje de respuestas y realizar u análisis del instrumento e ir identificando oportunidades de mejora. Se define como fecha plazo jueves 18 de junio para recibir la encuestas y se establece también tener un 80% de participación familiar. Como estrategia para lograr el porcentaje de respuestas, el equipo de educadoras aplicará encuesta durante el ingreso de los párvulos, realizará llamados telefónicos a aquellas familias que no asistan y se apoyará al nivel en la que la educadora esta con licencia médica. Posterior a eso, el equipo educativo se reunirá para realizar un análisis de sus respuestas. Se define que la pauta se enviará a las familias que tengan una asistencia regular, es decir, por sobre el 50% de asistencia desde abril a junio."
+      },
+      "action-1778170606818": {
+        "fecha": "2026-06-10",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778169517438": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El personal educativo esta al tanto de lo que se esta trabajando, todas manifestaron estar de acuerdo y el instrumento es reconocido por todos. Hay compromiso y trabajo colaborativo para completar y aplicar el instrumento. Se aplica encuesta las funcionarias para conocer su apreciación y aportes al instrumento.0o",
+        "acuerdos": "Seguir con el curso de las acciones planificadas. "
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778169517438": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El personal educativo esta al tanto de lo que se esta trabajando, todas manifestaron estar de acuerdo y el instrumento es reconocido por todos. Hay compromiso y trabajo colaborativo para completar y aplicar el instrumento. Se aplica encuesta las funcionarias para conocer su apreciación y aportes al instrumento.0o",
+        "acuerdos": "Seguir con el curso de las acciones planificadas. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-15T12:13:30.188Z"
+}
