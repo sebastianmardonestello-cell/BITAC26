@@ -1,0 +1,53 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de Lenguaje y Matemática, en conjunto con el equipo diferencial, desarrollan instancias de reflexión pedagógica de manera ocasional y poco sistemática a partir del análisis de resultados de aprendizaje, lo que restringe la toma de decisiones pedagógicas diversificadas e integradas para promover aprendizajes profundos y situados en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar las prácticas pedagógicas mediante un acompañamiento docente que promueva el desarrollo de habilidades del siglo XXI, con el fin de mejorar las interacciones pedagógicas en Lenguaje y Matemáticas.",
+    "estrategiaAnualPME": "Instancias de trabajo a través del acompañamiento docente y retroalimentación pedagógica mediante el monitoreo y seguimiento para la mejora de los aprendizajes en lenguaje y matemáticas.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "Los docentes de Lenguaje y Matemática, en conjunto con el equipo diferencial, desarrollan instancias sistemáticas de reflexión pedagógica y análisis de resultados de aprendizaje para la toma de decisiones pedagógicas diversificadas e integradas, promoviendo aprendizajes profundos y situados en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1781630388472",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Desarrollar jornadas de trabajo colaborativo para analizar resultados de aprendizaje, evidencias de aula y niveles de logro en Lenguaje y Matemática, identificando brechas y definiendo acciones  articuladas entre docentes y  profesionales del PIE para identificar barreras para el aprendizaje y definir estrategias de apoyo.",
+        "responsables": "",
+        "fechas": "primer y segundo semestre",
+        "instrumentos": ""
+      },
+      {
+        "id": "action-1781630871649",
+        "tipoAccion": "Taller",
+        "descripcion": "",
+        "responsables": "",
+        "fechas": "",
+        "instrumentos": ""
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-16T17:28:43.311Z"
+}
