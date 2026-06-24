@@ -1,0 +1,45 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico utiliza las horas no lectivas con limitada intencionalidad pedagógica y escasa articulación colaborativa, predominando acciones administrativas y prácticas poco sistemáticas, lo que restringe la apropiación curricular y la implementación de metodologías activas orientadas al aprendizaje profundo y al desarrollo progresivo de habilidades en los estudiantes de EPJA.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Consolidar las oportunidades de aprendizaje significativo y profundo a través del trabajo interdisciplinarios y colaborativo entre los distintos departamentos para asegurar las trayectorias educativas",
+    "estrategiaAnualPME": "Instancias de trabajo docente interdisciplinario mediante comunidades de aprendizaje que fortalezcan las prácticas pedagógicas centradas en resguardar las trayectorias educativas.",
+    "estandarIndicativo": "5.1 Los docentes centran sus clases en los Objetivos de Aprendizaje estipulados en las Bases Curriculares, con un manejo riguroso de las habilidades, contenidos y actitudes a desarrollar.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo pedagógico utiliza las horas no lectivas de manera articulada y con intencionalidad pedagógica, promoviendo espacios sistemáticos de reflexión profesional, apropiación de las Bases Curriculares de EPJA e implementación de metodologías activas orientadas al aprendizaje profundo y al desarrollo progresivo de habilidades en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1782336056871",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar talleres de trabajo pedagógico dirigidos al equipo docente de EPJA, orientados a fortalecer la apropiación curricular, el análisis de los Objetivos de Aprendizaje y el diseño de experiencias educativas contextualizadas. Estas instancias promoverán el uso intencionado de las horas no lectivas para la planificación colaborativa y la incorporación de metodologías activas.",
+        "responsables": "Directora - jefa técnica",
+        "fechas": "",
+        "instrumentos": "Cronograma- informe de avance- Informe de Impacto"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {}
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-06-24T21:24:29.586Z"
+}
