@@ -1,0 +1,83 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de primer ciclo básico implementan estrategias de enseñanza-aprendizaje de manera poco sistemática y con limitada diversificación metodológica en las asignaturas de Lenguaje y Matemática, predominando prácticas centradas en actividades de baja complejidad cognitiva y escasa articulación pedagógica, lo que restringe el desarrollo progresivo de habilidades disciplinares y cognitivas para la promoción de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar estrategias innovadoras y colaborativas de enseñanza-aprendizaje, integrando metodologías activas que favorezcan el desarrollo de habilidades en Lenguaje y Matemática para los estudiantes del primer y segundo ciclo.",
+    "estrategiaAnualPME": "Desarrollar Jornadas de trabajo colaborativo y acompañamiento docente que permitan la reflexión de la práctica pedagógica y el análisis de resultados, fortaleciendo los procesos de enseñanza y aprendizaje y el logro de las metas propuestas.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "Los docentes de primer ciclo básico implementan estrategias de enseñanza-aprendizaje diversificadas y articuladas en Lenguaje y Matemática, promoviendo el desarrollo progresivo de habilidades disciplinares y cognitivas para favorecer aprendizajes profundos en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1781555656139",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Realización de jornadas de análisis colaborativo de resultados de aprendizaje y evidencias pedagógicas en las asignaturas de Lenguaje y Matemática, con el propósito de identificar brechas en el desarrollo de habilidades disciplinares y cognitivas, reflexionar sobre las prácticas de enseñanza implementadas y definir estrategias de mejora orientadas a la promoción de aprendizajes profundos.",
+        "responsables": "Director, Jefa Técnica, coordinadora PIE",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe de impacto"
+      },
+      {
+        "id": "action-1781556445963",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollo de talleres de trabajo colaborativo dirigidos a los docentes de primer ciclo básico para el diseño, intercambio e implementación de estrategias de enseñanza diversificadas y de mayor complejidad cognitiva en Lenguaje y Matemática, favoreciendo la articulación pedagógica para el desarrollo progresivo de habilidades en los estudiantes.",
+        "responsables": "Jefa técnica - director- Coordinadora PIE",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Cronograma - Informe de avance- Informe impacto"
+      },
+      {
+        "id": "action-1781557871710",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación de ciclos de acompañamiento docente que contemplen observación de aula, análisis de evidencias y retroalimentación formativa, con foco en el fortalecimiento de prácticas pedagógicas diversificadas, la incorporación de estrategias activas de enseñanza y la mejora continua de los procesos de aprendizaje en Lenguaje y Matemática.",
+        "responsables": "director- Jefa Técnica - Asesora",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1781555656139": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "A la fecha, se han implementado jornadas de trabajo colaborativo con docentes y las educadoras diferenciales, para analizar resultados de aprendizaje y evidencias pedagógicas. El proceso ha favorecido la identificación de brechas, la reflexión sobre las prácticas de enseñanza y la definición de acuerdos pedagógicos orientados a fortalecer el trabajo colaborativo.",
+        "acuerdos": "El equipo acuerda realizar ajustes que permitan resguardar las reuniones de trabajo entre los equipos con foco en el desarrollo de habilidades disciplinares y cognitivas de los estudiantes, promoviendo la mejora continua de los procesos de enseñanza y aprendizaje."
+      },
+      "action-1781556445963": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El equipo esta planificando ",
+        "acuerdos": ""
+      },
+      "action-1781557871710": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-07-28T19:18:23.320Z"
+}
