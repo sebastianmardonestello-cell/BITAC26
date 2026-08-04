@@ -1,0 +1,84 @@
+{
+  "asesor": "Muriel Garrido",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico organiza y ambienta los espacios educativos de manera poco intencionada, restringiendo la creación de ambientes físicos flexibles y lúdicos que favorezcan el juego y el aprendizaje significativo de los niños y niñas. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Interacciones Pedagógicas",
+    "objetivoEstrategicoPME": "Potenciar experiencias de aprendizaje con el fin de promover la imaginación y creatividad en los párvulos.\n\n\n",
+    "estrategiaAnualPME": "Ejecutar planificaciones pedagógicas que intervengan e incorporen experiencias en espacios exteriores. ",
+    "estandarIndicativo": "8.1 El equipo pedagógico, en conjunto con los párvulos, organizan y crean ambientes físicos flexibles, lúdicos y pedagógicamente intencionados para el aprendizaje significativo e inclusivo de la comunidad.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo pedagógico organiza y ambienta los espacios educativos de manera intencionada, potenciando la creación de ambientes físicos flexibles y lúdicos que favorezcan el juego y el aprendizaje significativo de los niños y niñas.",
+    "actions": [
+      {
+        "id": "action-1780334371277",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En una jornada de reflexión pedagógica, el equipo educativo presentará y analizará el problema de práctica identificado, generando un espacio de diálogo profesional para compartir experiencias, percepciones y propuestas de mejora. A partir de la reflexión conjunta, se acordarán estrategias innovadoras orientadas a fortalecer las experiencias de aprendizaje, promoviendo el uso de ambientes físicos más estimulantes, lúdicos y significativos, especialmente en espacios exteriores, con el propósito de favorecer el aprendizaje integral de los niños y niñas.",
+        "responsables": "Educadoras de párvulos",
+        "fechas": "junio a octubre ",
+        "instrumentos": "Bitácora , Registro fotográfico"
+      },
+      {
+        "id": "action-1780335039829",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller sobre la importancia del juego, mediante una cartografía participativa que permita al equipo educativo recorrer y analizar los espacios del jardín infantil. A través de una dinámica grupal, se identificarán oportunidades para potenciar el uso de espacios exteriores y diversificar las experiencias de aprendizaje, favoreciendo propuestas innovadoras y significativas para los niños y niñas.",
+        "responsables": "Educadoras de párvulos.",
+        "fechas": "Agosto ",
+        "instrumentos": "Registros fotográficos, cartografía elaborada por el equipo y evaluación de proceso."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1780334371277": {
+        "fecha": "2026-07-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrolló la jornada de reflexión pedagógica con la participación del equipo educativo, permitiendo analizar el problema de práctica identificado y generar un espacio de diálogo profesional para compartir experiencias, identificar fortalezas y definir estrategias innovadoras orientadas a fortalecer las experiencias de aprendizaje, especialmente mediante el uso de ambientes educativos más estimulantes y significativos.",
+        "acuerdos": "El equipo acordó implementar las estrategias definidas durante la jornada, priorizando el fortalecimiento de las experiencias de aprendizaje en espacios interiores y exteriores. Asimismo, se estableció realizar seguimiento a la implementación de las acciones en las próximas instancias de reflexión pedagógica, con el propósito de evaluar sus avances y realizar los ajustes que sean necesarios."
+      },
+      "action-1780335039829": {
+        "fecha": "2026-07-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se avanzó en la planificación del taller y en la organización de la cartografía participativa que será desarrollada con el equipo educativo. Se definieron los objetivos, la metodología de trabajo y los recursos necesarios para su implementación, manteniendo el cronograma establecido.",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1780334371277": {
+        "fecha": "2026-07-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrolló la jornada de reflexión pedagógica con la participación del equipo educativo, permitiendo analizar el problema de práctica identificado y generar un espacio de diálogo profesional para compartir experiencias, identificar fortalezas y definir estrategias innovadoras orientadas a fortalecer las experiencias de aprendizaje, especialmente mediante el uso de ambientes educativos más estimulantes y significativos.",
+        "acuerdos": "El equipo acordó implementar las estrategias definidas durante la jornada, priorizando el fortalecimiento de las experiencias de aprendizaje en espacios interiores y exteriores. Asimismo, se estableció realizar seguimiento a la implementación de las acciones en las próximas instancias de reflexión pedagógica, con el propósito de evaluar sus avances y realizar los ajustes que sean necesarios."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1780334371277": {
+        "fecha": "2026-07-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrolló la jornada de reflexión pedagógica con la participación del equipo educativo, permitiendo analizar el problema de práctica identificado y generar un espacio de diálogo profesional para compartir experiencias, identificar fortalezas y definir estrategias innovadoras orientadas a fortalecer las experiencias de aprendizaje, especialmente mediante el uso de ambientes educativos más estimulantes y significativos.",
+        "acuerdos": "El equipo acordó implementar las estrategias definidas durante la jornada, priorizando el fortalecimiento de las experiencias de aprendizaje en espacios interiores y exteriores. Asimismo, se estableció realizar seguimiento a la implementación de las acciones en las próximas instancias de reflexión pedagógica, con el propósito de evaluar sus avances y realizar los ajustes que sean necesarios."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-08-04T01:34:21.784Z"
+}
