@@ -1,0 +1,120 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo presenta conocimientos básicos del currículum referido al núcleo de pensamiento matemático en sala cuna, limitando la implementación de estrategias pedagógicas intencionadas para favorecer el desarrollo del pensamiento matemático en niños y niñas de 0 a 2 años. ",
+    "dimensionPME": "Gestión de Recursos",
+    "subdimensionPME": "Gestión de las Personas",
+    "objetivoEstrategicoPME": "Fortalecer la retroalimentación al personal para potenciar su labor educativa.",
+    "estrategiaAnualPME": "Implementar un plan de estrategia anual con acompañamiento al aula y retroalimentación, incorporando trabajo colaborativo para el intercambio de practicas pedagógicas, junto con instancias de participación de la comunidad educativa que fortalezcan la asistencia y permanencia.",
+    "estandarIndicativo": "12.3 El equipo directivo gestiona la evaluación y retroalimentación del personal sistemáticamente, y promueve el desarrollo profesional para la mejora continua del desempeño.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "21. Fortalecer las capacidades profesionales y técnicas de los equipos educativos mediante el diseño colaborativo del Plan Local de Formación",
+    "practicaDeseada": "El equipo educativo conoce cabalmente el currículum asociado al núcleo de pensamiento matemático, desarrollando sus capacidades técnico profesionales para implementar estrategias y experiencias que promueven el aprendizaje de los niños y niñas de 0 a 2 años. ",
+    "actions": [
+      {
+        "id": "action-1778077789596",
+        "tipoAccion": "Taller",
+        "descripcion": "En esta instancia se profundiza sobre los objetivos de aprendizaje del núcleo de pensamiento matemático al equipo educativo con la finalidad de ampliar sus conocimientos sobre el desarrollo y  progresión del núcleo en los niños y niñas, y se realiza una actividad practica de creación de estrategias.",
+        "responsables": "Equipo asesor Slep",
+        "fechas": "Primer semestre ",
+        "instrumentos": "Acta, registro de asistencia, muestra del taller práctico"
+      },
+      {
+        "id": "action-1778080145971",
+        "tipoAccion": "Otra",
+        "descripcion": "El equipo técnico crea cápsulas dirigidas a la comunidad y pares entregando conocimientos sobre el núcleo de pensamiento matemático y comparten actividades que pueden realizar en el hogar.",
+        "responsables": "Equipo técnico",
+        "fechas": "segundo semestre",
+        "instrumentos": "Carta gantt, muestra de cápsula"
+      },
+      {
+        "id": "action-1778080226966",
+        "tipoAccion": "Otra",
+        "descripcion": "Incorporar en la organización del tiempo, un momento para el desarrollo del pensamiento matemático",
+        "responsables": "Educadora de párvulos",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Planificación de la organización del tiempo"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778077789596": {
+        "fecha": "2026-06-17",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "La totalidad del equipo educativo participa del taller y diseñan experiencias educativas pertinentes para desarrollar habilidades del pensamiento matemático en los niños y niñas de su nivel.",
+        "acuerdos": "Equipo educativo se reunirá en julio para organizar y definir cómo implementarán el resto de las acciones con el fin de seguir fortaleciendo el núcleo del pensamiento matemático. En el segundo semestre asesora asistirá al jardín para conocer esta organización y cómo han ido implementando lo trabajado en el taller y definir un acompañamiento al aula."
+      },
+      "action-1778080145971": {
+        "fecha": "2026-06-17",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778080226966": {
+        "fecha": "2026-06-17",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778077789596": {
+        "fecha": "2026-06-17",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "La totalidad del equipo educativo participa del taller y diseñan experiencias educativas pertinentes para desarrollar habilidades del pensamiento matemático en los niños y niñas de su nivel.",
+        "acuerdos": "Equipo educativo se reunirá en julio para organizar y definir cómo implementarán el resto de las acciones con el fin de seguir fortaleciendo el núcleo del pensamiento matemático. En el segundo semestre asesora asistirá al jardín para conocer esta organización y cómo han ido implementando lo trabajado en el taller y definir un acompañamiento al aula."
+      },
+      "action-1778080145971": {
+        "fecha": "2026-08-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El equipo al buscar la información se apropio del conocimiento, hubo una empoderaron en la creación de los resucros y delegrar las funciones. Cumplieron con la meta de crear una capsula informativa y una capsula de actividad para la fa milias cond fisuipon por redes sociales. Confección de un acarta gantt que roganizo el trabjo de equipo y les permitio dar cumplimiento a esta acción",
+        "acuerdos": "Aplicar lo aprendido en la creacion de la siguiente acción. Se levantará información de las necesidades de fortalecer algunos aprendizajes a trabajar en la organización del tiempo para identificar que habilidades y conocimientos tiene el equipo educat9vo para fortalecer la mediacion en la implementación de la acción 3."
+      },
+      "action-1778080226966": {
+        "fecha": "2026-08-13",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Creación y participación  selección de los objetivos. Se cuenta con una delegada encargada de gestionar la organización de los materiales y preparar la experiencia. En conjunto se Diseño de experiencias y organización del material. También, asegurará que las actividades se implementen  y levantar intereses de los niños y niñas y adecuación de recursos.",
+        "acuerdos": "El equipo  se compromete a ejecutar las actividades, profundizar la fundamentación desde la necesidad del nivel y la practica problematizadora identificada, integrar mediaciones u entrega de orientaciones al equipo educativo que permita alcanzar el logro del objetivo de aprendizaje a través de las accione y mediación en el desarrollo de cada experiencia educativa.. Se acuerda que en octubre se hará una retroalimentación entre todo el equipo."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778077789596": {
+        "fecha": "2026-06-17",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "La totalidad del equipo educativo participa del taller y diseñan experiencias educativas pertinentes para desarrollar habilidades del pensamiento matemático en los niños y niñas de su nivel.",
+        "acuerdos": "Equipo educativo se reunirá en julio para organizar y definir cómo implementarán el resto de las acciones con el fin de seguir fortaleciendo el núcleo del pensamiento matemático. En el segundo semestre asesora asistirá al jardín para conocer esta organización y cómo han ido implementando lo trabajado en el taller y definir un acompañamiento al aula."
+      },
+      "action-1778080145971": {
+        "fecha": "2026-08-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El equipo al buscar la información se apropio del conocimiento, hubo una empoderaron en la creación de los resucros y delegrar las funciones. Cumplieron con la meta de crear una capsula informativa y una capsula de actividad para la fa milias cond fisuipon por redes sociales. Confección de un acarta gantt que roganizo el trabjo de equipo y les permitio dar cumplimiento a esta acción",
+        "acuerdos": "Aplicar lo aprendido en la creacion de la siguiente acción. Se levantará información de las necesidades de fortalecer algunos aprendizajes a trabajar en la organización del tiempo para identificar que habilidades y conocimientos tiene el equipo educat9vo para fortalecer la mediacion en la implementación de la acción 3."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-08-13T16:59:03.198Z"
+}
