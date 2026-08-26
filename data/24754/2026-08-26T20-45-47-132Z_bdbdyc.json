@@ -1,0 +1,83 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo implementa acciones de apoyo de manera poco sistemática y con limitada articulación para abordar barreras idiomáticas y procesos de revinculación educativa en estudiantes con trayectorias formativas discontinuas, lo que restringe la generación de condiciones inclusivas para la permanencia y el aprendizaje de los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Incorporar prácticas pedagógicas en los docentes , que los hagan facilitadores del proceso de enseñanza aprendizaje, desarrollando habilidades y competencias en nuestros estudiantes a través de estrategias innovadoras en distintas asignaturas.",
+    "estrategiaAnualPME": "Implementar jornadas de trabajo colaborativo y planificación de estrategias innovadoras de enseñanza aprendizaje que desarrollen habilidades y competencias en nuestros estudiantes.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo directivo implementa acciones de apoyo articuladas y sistemáticas para abordar barreras idiomáticas y fortalecer los procesos de revinculación educativa de estudiantes con trayectorias formativas discontinuas, promoviendo condiciones inclusivas para la permanencia y el aprendizaje de los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1782334306730",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Desarrollar reuniones periódicas de coordinación entre equipo directivo, docentes, convivencia escolar y profesionales de apoyo, destinadas al análisis de de resultados,  casos, seguimiento de estudiantes con necesidades de revinculación y monitoreo de las acciones implementadas. Estas instancias favorecerán la articulación institucional, la toma de decisiones basada en evidencias y la generación de respuestas oportunas para promover condiciones inclusivas que fortalezcan la permanencia y el aprendizaje de los estudiantes.",
+        "responsables": "Directora- Jefa Técnica- Coordinadora PIE",
+        "fechas": "primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe final"
+      },
+      {
+        "id": "action-1782335158579",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar talleres de formación y trabajo colaborativo con el equipo directivo, docentes y profesionales de apoyo, orientadas a fortalecer estrategias de inclusión y acompañamiento para estudiantes que presentan barreras idiomáticas y acceso. Estas instancias promoverán la implementación de prácticas pedagógicas y de gestión que faciliten la comunicación, participación y acceso al aprendizaje en igualdad de oportunidades.",
+        "responsables": "Directora - jefe técnico",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma -  Informe final"
+      },
+      {
+        "id": "action-1782335310626",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Se desarrolla un proceso sistemático de acompañamiento pedagógico dirigido a los docentes, orientado al fortalecimiento de estrategias de enseñanza inclusivas que consideren las barreras idiomáticas y de acceso  presentes en el aula y favorezcan la participación activa de todos los estudiantes. Asimismo, esta acción busca fortalecer las estrategias de apoyo y revinculación educativa para estudiantes con trayectorias formativas discontinuas, promoviendo condiciones que favorezcan su permanencia, aprendizaje y progresión educativa.",
+        "responsables": "Director- jefe técnico-coordinadora PIE",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma - Informe final"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1782334306730": {
+        "fecha": "2026-07-15",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado reuniones de coordinación entre los distintos equipos, permitiendo analizar resultados, revisar casos y realizar seguimiento a estudiantes que requieren acciones de revinculación, fortaleciendo la articulación institucional y la toma de decisiones basada en evidencias.",
+        "acuerdos": ""
+      },
+      "action-1782335158579": {
+        "fecha": "2026-07-15",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1782335310626": {
+        "fecha": "2026-07-15",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-08-26T20:45:47.134Z"
+}
