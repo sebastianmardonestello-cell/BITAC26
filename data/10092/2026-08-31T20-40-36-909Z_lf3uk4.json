@@ -1,0 +1,83 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de gestión realiza un seguimiento poco sistemático a las estrategias de enseñanza-aprendizaje implementadas en Lenguaje y Matemática en los niveles de segundo y cuarto año básico, lo que dificulta la retroalimentación oportuna y la consolidación de prácticas pedagógicas diversificadas orientadas al desarrollo de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para la implementación de estrategias efectivas de enseñanza-aprendizaje en Lenguaje y Matemática, optimizando los procesos de enseñanza en primer y segundo ciclo.",
+    "estrategiaAnualPME": "Instancias de acompañamiento docente, fortaleciendo espacios de análisis y discusión pedagógica con enfoque en la mejora de los resultados de aprendizaje en Lenguaje y Matemática.",
+    "estandarIndicativo": "4.4 El equipo directivo y el técnico-pedagógico acompañan a los docentes mediante la observación y retroalimentación de clases.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Fortalecer el seguimiento pedagógico del equipo de gestión a las estrategias de enseñanza-aprendizaje en las asignaturas de Lenguaje y Matemática en los niveles de segundo y cuarto año básico, mediante procesos sistemáticos de monitoreo y retroalimentación, promoviendo prácticas pedagógicas diversificadas orientadas a aprendizajes profundos en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1781812747076",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Desarrollar jornadas periódicas de trabajo entre el equipo de gestión y los docentes de Lenguaje y Matemática para analizar resultados de aprendizaje, monitorear el avance de las metas pedagógicas y evaluar la efectividad de las estrategias implementadas. Estas instancias favorecerá la toma de decisiones basada en evidencias y la definición de acciones de mejora orientadas al fortalecimiento de aprendizajes profundos en los estudiantes.",
+        "responsables": "Directora - Jefa Técnica- Coordinadora PIE",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe de avance- Informe de impacto"
+      },
+      {
+        "id": "action-1782244589912",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Desarrollar un  seguimiento pedagógico que contemple observaciones de aula, revisión de planificaciones y análisis de evidencias de aprendizaje en las asignaturas de Lenguaje y Matemática de segundo y cuarto año básico. Esta acción permitirá monitorear de manera sistemática la implementación de estrategias de enseñanza, identificar fortalezas y necesidades de apoyo, y generar retroalimentación oportuna para la mejora de las prácticas pedagógicas.",
+        "responsables": "Directora -Jefa Técnica- Asesora",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma - Informe de avance- Informe de impacto"
+      },
+      {
+        "id": "action-1782244907277",
+        "tipoAccion": "Taller",
+        "descripcion": "Instancias promoverán el uso de criterios compartidos para la observación de aula, el seguimiento sistemático de los procesos de enseñanza-aprendizaje y la toma de decisiones basada en evidencias, favoreciendo la consolidación de prácticas diversificadas que promuevan aprendizajes profundos en los estudiantes.",
+        "responsables": "Directora - Jefa Técnica- Coordinadora PIE",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe de avance- Informe de impacto"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1781812747076": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado instancias de trabajo entre el equipo de gestión y docentes de Lenguaje y Matemática, orientadas al análisis de resultados de aprendizaje y al seguimiento de las metas pedagógicas, favoreciendo la revisión de las estrategias implementadas y la identificación de oportunidades de mejora.",
+        "acuerdos": "Dar continuidad a estas instancias, fortaleciendo el análisis sistemático de evidencias y el monitoreo de las estrategias implementadas, con el propósito de orientar oportunamente la toma de decisiones y favorecer el desarrollo de aprendizajes profundos en los estudiantes."
+      },
+      "action-1782244589912": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1782244907277": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-08-31T20:40:36.909Z"
+}
