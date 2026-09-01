@@ -1,0 +1,113 @@
+{
+  "asesor": "Tamara Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo educativo presenta dificultades para sistematizar las experiencias de aprendizaje permanente con música y evaluar el trabajo desarrollado en aula, lo que dificulta identificar los ajustes que se deben realizar para responder de manera pertinente y oportuna a las necesidades y características de los párvulos. ",
+    "dimensionPME": "Liderazgo",
+    "subdimensionPME": "Conducción",
+    "objetivoEstrategicoPME": "Fortalecer la innovación pedagógica en ambientes de trabajo colaborativo para el desarrollo y el aprendizaje de los niños y niñas, mediante las comunidades educativas de aprendizaje",
+    "estrategiaAnualPME": "Instalar encuentros sistemáticos de intercambio, análisis y retroalimentación de prácticas pedagógicas innovadoras para replicarlas a los distintos niveles educativos.",
+    "estandarIndicativo": "2.3 El director o la directora fomenta las prácticas efectivas, la innovación pedagógica y el desarrollo de una comunidad de aprendizaje en la que los párvulos son actores protagónicos.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Implementar o Fomentar estrategias de innovación pedagógias focalizadas en el protagonismo de los niños y niñas.",
+    "practicaDeseada": "El equipo educativo sistematiza las experiencias de aprendizaje permanente con música y evalúa el trabajo desarrollado en aula, identificando los ajustes que se deben realizar para responder de manera pertinente y oportuna a las necesidades y características de los párvulos.  ",
+    "actions": [
+      {
+        "id": "action-1778684461533",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Se realizará un análisis de las experiencias musicales que se realizan en aula y cómo va su implementación en reunión CAUE. Posteriormente a partir de estas reflexiones, se creará un instrumento para que puedan evaluar cómo son las interacciones y experiencias musicales con su grupo de niños y niñas. ",
+        "responsables": "Equipo educativo",
+        "fechas": "17 de junio",
+        "instrumentos": "Acta de la CAUE y pauta de evaluación"
+      },
+      {
+        "id": "action-1778684463228",
+        "tipoAccion": "Otra",
+        "descripcion": "Implementar la pauta creada una vez al mes con el fin de visualizar oportunidades de mejora y adecuar las experiencias musicales al grupo de niños y niñas. Estas adecuaciones se conversan en la CAA.",
+        "responsables": "Equipo educativo",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Pauta aplicada y proyecciones para el siguiente mes. Planificación adecuada y/ cambio del mapeo sonoro."
+      },
+      {
+        "id": "action-1778684463949",
+        "tipoAccion": "Otra",
+        "descripcion": "Se levanta información sobre los intereses de los niños y niñas, a través de consultas en los niveles medios para ver por opciones de canciones que se pueden integrar al panel sonoro y en los niveles de sala cuna, se aplicará un formulario web para que las familias den a conocer los intereses musicales de su hijo o hija. Con esta información cada equipo adecuará panel sonoro para dar pertinencia y protagonismo a los niños y niñas.",
+        "responsables": "Equipo Educativo",
+        "fechas": "15 de julio",
+        "instrumentos": "Resultados de las encuestas, planificación de la experiencia para conocer los intereses y muestra de la adecuación del panel sonoro."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778684461533": {
+        "fecha": "2026-06-09",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se comparte en una reunión de comunidad el problema de práctica y cuáles son sus acciones para que todo el equipo educativo este al tanto y colabore en su implementación. Se logra organizar entre los equipos educativos la muestra de las experiencias educativas musicales, y se define como fecha la semana del 15 al 18 de junio en la cual cada día una muestra por día. También, se acuerda que la planificación que presenten los niveles, sea posible de adaptarse a todos los niveles y permita que se replique. ",
+        "acuerdos": "Directora conversará con cada equipo educativo para conocer estado de avance de las experiencias musicales innovadoras (planificación) para visualizar apoyos y conocer los obstáculos que puedan estar presentando para brindar apoyo. En CAUE del 17 de junio se dejará un momento para analizar las experiencias realizadas y levantar algunos indicadores para confeccionar la pauta con el equipo educativo."
+      },
+      "action-1778684463228": {
+        "fecha": "2026-06-09",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778684463949": {
+        "fecha": "2026-06-09",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778684461533": {
+        "fecha": "2026-09-01",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se crea el instrumento de evaluación “Interacciones y experiencias musicales en primera infancia”, el cual es presentado a las funcionarias en una instancia de reunión CAUE. Posteriormente, el instrumento se ajusta considerando los comentarios, aportes e ideas planteados por los equipos educativos.\nEl instrumento contempla un apartado cuantitativo compuesto por 9 indicadores, evaluados mediante una escala de valoración de 0 a 3 puntos, que permite registrar las acciones observadas en relación con el trabajo pedagógico desarrollado en aula. Asimismo, incorpora un apartado cualitativo destinado a describir las interacciones significativas observadas, los intereses musicales identificados y las recomendaciones derivadas de la evaluación. En esta instancia de CAUE, la pauta es completada de manera conjunta por los equipos educativos, con el propósito de realizar un modelamiento de su aplicación. A partir de este ejercicio, se identifican aspectos de mejora en los distintos niveles educativos.",
+        "acuerdos": "A partir del modelamiento, se define un día a la semana para que cada nivel educativo trabaje con los instrumentos musicales del jardín infantil. A partir de los intereses de los equipos educativos, se desea organizar una segunda muestra de experiencias musicales en noviembre. Equipo educativo continuará con el calendario de aplicación del instrumento. "
+      },
+      "action-1778684463228": {
+        "fecha": "2026-09-01",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El instrumento esta aprobado por todo el equipo educativo. Tras aplicarse en una reunión CAUE, se levantan como mejoras destinar un día especifico para cada nivel para usar los instrumentos del jardín van rotando y flexibilizando los instrumentos. y tambine el uso cada sala visualiza como trabajarlo, y el desafio de potenciar mas en las experiencias variables el sello musical. ",
+        "acuerdos": "Se define como fecha de inicio de implementación para quincena de septiembre para que después en CAUE siguiente se analicen y se visualice mejoras por sala. Esta de aplica hasta fines de octubre "
+      },
+      "action-1778684463949": {
+        "fecha": "2026-09-01",
+        "avance": 0,
+        "justificacion": "Ciertas condiciones relacionadas con el tiempo, los recursos humanos y/o materiales o la infraestructura no permitieron la adecuada implementación de la acción.",
+        "logros": "Sin actividades desarrolladas para el desarrollo de esta acción",
+        "acuerdos": "Se confecciona en conjunto el fomrulario web para los nivreles de sala cuna y el equipo de educadoras de  niveles medio define como levantarán los inetreses de los niños y niñas. Se implementaran estas actividades las primeras semanas de octubre para posteriormente sistematizar los resultados. que ´pueda visualiza la pertinenecia y protagonismo de los nipo sy niñas del jardin infantil"
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778684461533": {
+        "fecha": "2026-09-01",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se crea el instrumento de evaluación “Interacciones y experiencias musicales en primera infancia”, el cual es presentado a las funcionarias en una instancia de reunión CAUE. Posteriormente, el instrumento se ajusta considerando los comentarios, aportes e ideas planteados por los equipos educativos.\nEl instrumento contempla un apartado cuantitativo compuesto por 9 indicadores, evaluados mediante una escala de valoración de 0 a 3 puntos, que permite registrar las acciones observadas en relación con el trabajo pedagógico desarrollado en aula. Asimismo, incorpora un apartado cualitativo destinado a describir las interacciones significativas observadas, los intereses musicales identificados y las recomendaciones derivadas de la evaluación. En esta instancia de CAUE, la pauta es completada de manera conjunta por los equipos educativos, con el propósito de realizar un modelamiento de su aplicación. A partir de este ejercicio, se identifican aspectos de mejora en los distintos niveles educativos.",
+        "acuerdos": "A partir del modelamiento, se define un día a la semana para que cada nivel educativo trabaje con los instrumentos musicales del jardín infantil. A partir de los intereses de los equipos educativos, se desea organizar una segunda muestra de experiencias musicales en noviembre. Equipo educativo continuará con el calendario de aplicación del instrumento. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-01T15:33:09.659Z"
+}
