@@ -1,0 +1,127 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de Lenguaje y Matemática, en conjunto con el equipo diferencial, desarrollan instancias de reflexión pedagógica de manera ocasional y poco sistemática a partir del análisis de resultados de aprendizaje, lo que restringe la toma de decisiones pedagógicas diversificadas e integradas para promover aprendizajes profundos y situados en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar las prácticas pedagógicas mediante un acompañamiento docente que promueva el desarrollo de habilidades del siglo XXI, con el fin de mejorar las interacciones pedagógicas en Lenguaje y Matemáticas.",
+    "estrategiaAnualPME": "Instancias de trabajo a través del acompañamiento docente y retroalimentación pedagógica mediante el monitoreo y seguimiento para la mejora de los aprendizajes en lenguaje y matemáticas.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "Los docentes de Lenguaje y Matemática, en conjunto con el equipo diferencial, desarrollan instancias sistemáticas de reflexión pedagógica y análisis de resultados de aprendizaje para la toma de decisiones pedagógicas diversificadas e integradas, promoviendo aprendizajes profundos y situados en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1781630388472",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Desarrollar jornadas de trabajo colaborativo para analizar resultados de aprendizaje, evidencias de aula y niveles de logro en Lenguaje y Matemática, identificando brechas y definiendo acciones  articuladas entre docentes y  profesionales del PIE para identificar barreras para el aprendizaje y definir estrategias de apoyo.",
+        "responsables": "Jefa Técnica - director- coordinadora PIE",
+        "fechas": "primer y segundo semestre",
+        "instrumentos": "Cronogramas - informes de avance - informes de impacto de la acción "
+      },
+      {
+        "id": "action-1781630871649",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollo de talleres de análisis pedagógico dirigidos a docentes de Lenguaje y Matemática, en articulación con el equipo diferencial, orientados al análisis e interpretación de evidencias de aprendizaje, el fortalecimiento del uso de la evaluación formativa y el diseño de estrategias de enseñanza diversificadas e inclusivas. Estas instancias promoverán la reflexión pedagógica basada en evidencias, la construcción de acuerdos didácticos y la coordinación de apoyos especializados, favoreciendo respuestas educativas pertinentes que atiendan la diversidad de necesidades de los estudiantes y potencien el logro de aprendizajes profundos y significativos.",
+        "responsables": "Jefa técnica - coordinadora PIE",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Cronogramas - informes de avance - informes de impacto de la acción "
+      },
+      {
+        "id": "action-1781630946130",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementación de procesos de acompañamiento docente, modelamiento de clases y co-observación entre docentes y profesionales PIE, orientados al monitoreo de estrategias diversificadas, la retroalimentación de las prácticas pedagógicas y la realización de ajustes oportunos que favorezcan el desarrollo de habilidades disciplinares y cognitivas en los estudiantes.",
+        "responsables": "Jefa técnica- Asesora- Coordinadora PIE",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronogramas - informes de avance - informes de impacto de la acción "
+      },
+      {
+        "id": "action-1781632162139",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Desarrollar jornadas periódicas de análisis y evaluación pedagógica con la participación de docentes de Lenguaje, Matemática y equipo diferencial, orientadas al análisis de evidencias de aprendizaje, la revisión de resultados de evaluación y el monitoreo del avance de las metas pedagógicas comprometidas. Estas instancias favorecerán la reflexión profesional colaborativa, la identificación de fortalezas, brechas y oportunidades de mejora, así como la construcción de acuerdos pedagógicos y la definición de acciones de seguimiento que permitan fortalecer las prácticas de enseñanza y promover aprendizajes profundos y significativos en los estudiantes.",
+        "responsables": "Director- Jefa técnica- Coordinadora PIE",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronogramas - informes de avance - informes de impacto de la acción "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1781630388472": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realizan jornadas de trabajo colaborativo entre docentes y profesionales del PIE, orientadas al análisis de resultados de aprendizaje y evidencias de aula en Lenguaje y Matemática, a través de los instrumentos de evaluaciones como DIA, instrumentos del establecimiento, favoreciendo la identificación inicial de brechas y posibles barreras para el aprendizaje",
+        "acuerdos": "Se acuerda dar continuidad a estas instancias de trabajo colaborativo, profundizando el análisis de las evidencias y definiendo estrategias de apoyo articuladas que respondan a las necesidades identificadas en los estudiantes."
+      },
+      "action-1781630871649": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado instancias de análisis pedagógico con docentes de Lenguaje y Matemática y el equipo diferencial, orientadas a revisar evidencias de aprendizaje y fortalecer el trabajo articulados, la reflexión sobre las prácticas evaluativas y de enseñanza, identificando oportunidades para diversificar las estrategias y responder a las necesidades de los estudiantes.",
+        "acuerdos": "Dar continuidad a estas instancias de trabajo colaborativo, profundizando en el uso de la evaluación formativa y en el diseño de estrategias diversificadas e inclusivas, mediante la definición de acuerdos didácticos y apoyos especializados que permitan acompañar y monitorear sistemáticamente los avances de los y las estudiantes, favoreciendo el logro de aprendizajes significativos."
+      },
+      "action-1781630946130": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realizan instancias sistemáticas de acompañamiento pedagógico y modelamiento de clases desde la Jefatura Técnica, orientadas a fortalecer la diversificación de las estrategias de enseñanza y aprendizaje, junto con el monitoreo de los acuerdos establecidos y de la implementación de estrategias diversificadas en el aula.  ",
+        "acuerdos": "Se acuerda dar continuidad al acompañamiento pedagógico desde todo el equipo directivo y asesora técnica pedagógica, fortaleciendo el seguimiento de los acuerdos establecidos y de la implementación de estrategias diversificadas en el aula, con foco en favorecer mejores oportunidades de aprendizaje para los y las estudiantes."
+      },
+      "action-1781632162139": {
+        "fecha": "2026-07-23",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se inicia el desarrollo de instancias de reflexión en los consejos de profesores, con participación de docentes de Lenguaje, Matemática y equipo diferencial, orientadas al análisis de evidencias y resultados de aprendizaje, favoreciendo la identificación de fortalezas, brechas y oportunidades de mejora.",
+        "acuerdos": "Se acuerda dar continuidad a estas instancias de análisis y reflexión pedagógica, fortaleciendo el seguimiento de las metas comprometidas y la definición de acuerdos y acciones de mejora, junto con la sistematización y seguimiento de estrategias de enseñanza que contribuyan al fortalecimiento de las prácticas pedagógicas y al aprendizaje de los estudiantes."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1781630388472": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1781630871649": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1781630946130": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1781632162139": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-03T18:12:01.000Z"
+}
