@@ -1,0 +1,127 @@
+{
+  "asesor": "Nicole Rivera",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de 2do ciclo implementan estrategias de enseñanza-aprendizaje de lecto-escritura y matemática poco efectivas para el logro de los objetivos de aprendizaje.   ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Implementar acciones de seguimiento y monitoreo del acompañamiento docente para el mejoramiento de los aprendizajes a través del trabajo colaborativo.\n\n",
+    "estrategiaAnualPME": "Implementación sistemática de procesos de acompañamiento docente mediante observación de aula, retroalimentación pedagógica y análisis de prácticas en espacios de trabajo colaborativo, con foco en el monitoreo de estrategias de enseñanza y su impacto en los aprendizajes de los estudiantes.\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de 2do ciclo implementan estrategias de enseñanza-aprendizaje de lecto-escritura y matemática efectivas y sostenidas para el logro de los objetivos de aprendizaje   ",
+    "actions": [
+      {
+        "id": "action-1776688640610",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornada de Reflexión para sociabilización del plan de transición con docentes ",
+        "responsables": "UTP",
+        "fechas": "29 de mayo ",
+        "instrumentos": "ACTA/ficha técnica "
+      },
+      {
+        "id": "action-1778779244176",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornadas destinadas análisis de resultados, identificación de brechas, acción de lectoescritura y matemáticas  ",
+        "responsables": "UTP",
+        "fechas": "junio-octubre",
+        "instrumentos": "Acta de reunión, material utilizado "
+      },
+      {
+        "id": "action-1778779514640",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento al aula con pauta co-construida con docentes para el monitoreo de prácticas establecidas en el establecimiento.",
+        "responsables": "UTP-docentes",
+        "fechas": "junio-noviembre",
+        "instrumentos": "Pauta de acompañamiento, Actas de acuerdo "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1776688640610": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1778779244176": {
+        "fecha": "2026-06-19",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. Este análisis permitió focalizar las necesidades de fortalecimiento y orientar la definición de acciones pedagógicas para abordar las habilidades que requieren mayor desarrollo.",
+        "acuerdos": "Durante la jornada se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. A partir de este análisis, el equipo acordó priorizar las habilidades que requieren mayor fortalecimiento, implementar acciones pedagógicas focalizadas, realizar un seguimiento sistemático a los avances de los estudiantes y revisar periódicamente los resultados para ajustar las estrategias de enseñanza según las necesidades detectadas."
+      },
+      "action-1778779514640": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se implementa el acompañamiento al aula utilizando una pauta de observación co-construida con los docentes, lo que permitió monitorear de manera consensuada las prácticas pedagógicas priorizadas por el establecimiento. ",
+        "acuerdos": "A partir de las observaciones, el equipo acordó fortalecer las prácticas que evidencian mayores oportunidades de mejora, retroalimentar oportunamente a los docentes y dar continuidad al proceso de acompañamiento mediante un seguimiento sistemático de los compromisos establecidos."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778779244176": {
+        "fecha": "2026-06-19",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. Este análisis permitió focalizar las necesidades de fortalecimiento y orientar la definición de acciones pedagógicas para abordar las habilidades que requieren mayor desarrollo.",
+        "acuerdos": "Durante la jornada se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. A partir de este análisis, el equipo acordó priorizar las habilidades que requieren mayor fortalecimiento, implementar acciones pedagógicas focalizadas, realizar un seguimiento sistemático a los avances de los estudiantes y revisar periódicamente los resultados para ajustar las estrategias de enseñanza según las necesidades detectadas."
+      },
+      "action-1778779514640": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se implementa el acompañamiento al aula utilizando una pauta de observación co-construida con los docentes, lo que permitió monitorear de manera consensuada las prácticas pedagógicas priorizadas por el establecimiento. ",
+        "acuerdos": "A partir de las observaciones, el equipo acordó fortalecer las prácticas que evidencian mayores oportunidades de mejora, retroalimentar oportunamente a los docentes y dar continuidad al proceso de acompañamiento mediante un seguimiento sistemático de los compromisos establecidos."
+      },
+      "action-1776688640610": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778779244176": {
+        "fecha": "2026-06-19",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. Este análisis permitió focalizar las necesidades de fortalecimiento y orientar la definición de acciones pedagógicas para abordar las habilidades que requieren mayor desarrollo.",
+        "acuerdos": "Durante la jornada se analizaron los resultados de aprendizaje, identificando patrones de desempeño y brechas prioritarias en lectoescritura y matemáticas. A partir de este análisis, el equipo acordó priorizar las habilidades que requieren mayor fortalecimiento, implementar acciones pedagógicas focalizadas, realizar un seguimiento sistemático a los avances de los estudiantes y revisar periódicamente los resultados para ajustar las estrategias de enseñanza según las necesidades detectadas."
+      },
+      "action-1778779514640": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se implementa el acompañamiento al aula utilizando una pauta de observación co-construida con los docentes, lo que permitió monitorear de manera consensuada las prácticas pedagógicas priorizadas por el establecimiento. ",
+        "acuerdos": "A partir de las observaciones, el equipo acordó fortalecer las prácticas que evidencian mayores oportunidades de mejora, retroalimentar oportunamente a los docentes y dar continuidad al proceso de acompañamiento mediante un seguimiento sistemático de los compromisos establecidos."
+      },
+      "action-1776688640610": {
+        "fecha": "2026-08-04",
+        "avance": 100,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-03T14:51:31.921Z"
+}
