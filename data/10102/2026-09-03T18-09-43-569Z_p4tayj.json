@@ -1,0 +1,127 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de primer ciclo básico implementa metodologías de enseñanza en la asignatura de Lenguaje con escasa diversificación y predominio de estrategias homogéneas y poco contextualizadas, lo que restringe el desarrollo progresivo de habilidades de lectura y escritura para el logro de aprendizajes profundos en los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar estrategias efectivas de enseñanza-aprendizaje para desarrollar capacidades y competencias que optimicen los resultados de aprendizaje en Lenguaje y Matemática en los\nestudiantes de primer y segundo ciclo.",
+    "estrategiaAnualPME": "Consolidación de capacidades técnicas pedagógicas que promuevan el desarrollo de habilidades para la mejora de resultados de aprendizaje de Lenguaje y Matemática en nuestros estudiantes",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico de primer ciclo básico implementa metodologías de enseñanza diversificadas, contextualizadas y centradas en el desarrollo de habilidades de lectura y escritura en la asignatura de Lenguaje, promoviendo experiencias de aprendizaje significativas que favorezcan aprendizajes profundos en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1779314521048",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": " Jornadas de trabajo colaborativo con docentes y equipos de aula, para  el análisis de resultados, monitoreo de las estrategias implementadas, con foco en fortalecer la reflexión de la práctica pedagógica  y la mejora de las interacciones pedagógicas para el desarrollo de habilidades. ",
+        "responsables": "Jefe técnica- director",
+        "fechas": "Primer semestre - segundo semestre",
+        "instrumentos": " Cronograma - Actas - Informe de impacto"
+      },
+      {
+        "id": "action-1781553650932",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollo de talleres de reflexión y trabajo colaborativo entre equipos de aula para diseñar, implementar y monitorear estrategias de enseñanza diversificadas orientadas al fortalecimiento de las habilidades de lenguaje y escritura, favoreciendo la articulación pedagógica entre niveles y la progresión de los aprendizajes de los estudiantes.",
+        "responsables": "Director- Coordinadora PIE - Jefe Técnica",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma-  informe de avance - Informe de impacto."
+      },
+      {
+        "id": "action-1781553758485",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Desarrollo de ciclos de acompañamiento docente que contemplen observación de aula, análisis de evidencias y retroalimentación formativa, orientados al fortalecimiento de prácticas pedagógicas diversificadas y al uso de estrategias activas que promuevan el desarrollo progresivo de habilidades en lectura y escritura.",
+        "responsables": "Director-Jefa Técnica- Asesora",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Cronograma- Informe de avance- Informe de impacto."
+      },
+      {
+        "id": "action-1781554334888",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Desarrollo de procesos periódicos de monitoreo y seguimiento para evaluar el grado de avance de las acciones implementadas, analizar evidencias de proceso y resultados, e identificar oportunidades de mejora que permitan ajustar oportunamente las estrategias y fortalecer la toma de decisiones basada en datos.",
+        "responsables": "Coordinadora PIE - Jefa Técnica",
+        "fechas": "Primer y segundo semestre",
+        "instrumentos": "Actas - Informe de impacto."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779314521048": {
+        "fecha": "2026-07-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado jornadas de trabajo colaborativo con docentes y equipos de aula, orientadas al análisis de resultados , seguimiento de las estrategias implementadas con foco en el desarrollo de habilidades que promuevan el aprendizaje profundo. Estas instancias han favorecido la reflexión sobre las prácticas pedagógicas y la identificación de oportunidades de mejora en las interacciones pedagógicas y la toma de decisiones de manera oportuna.",
+        "acuerdos": "Dar continuidad durante el segundo semestre a las jornadas de trabajo colaborativo, fortaleciendo el análisis de evidencias y el seguimiento de las estrategias implementadas, con foco en ajustar las prácticas pedagógicas y favorecer el desarrollo progresivo de habilidades en los estudiantes."
+      },
+      "action-1781553650932": {
+        "fecha": "2026-07-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado instancias de reflexión y trabajo colaborativo entre docentes y educadoras diferenciales, favoreciendo el diseño de estrategias diversificadas para fortalecer las habilidades de lenguaje y escritura y promover la articulación pedagógica entre niveles.",
+        "acuerdos": "Dar continuidad durante el segundo semestre al trabajo colaborativo, fortaleciendo el monitoreo de las estrategias implementadas y la progresión de los aprendizajes en lenguaje y escritura."
+      },
+      "action-1781553758485": {
+        "fecha": "2026-07-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado instancias de acompañamiento docente que han permitido observar prácticas de aula, analizar evidencias y entregar retroalimentación formativa, promoviendo la diversificación de estrategias y el fortalecimiento de habilidades de lectura y escritura.",
+        "acuerdos": "Dar continuidad a los ciclos de acompañamiento durante el segundo semestre, fortaleciendo el seguimiento de los acuerdos y la implementación de estrategias activas y diversificadas para favorecer la progresión de los aprendizajes."
+      },
+      "action-1781554334888": {
+        "fecha": "2026-07-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado instancias de monitoreo y seguimiento de las acciones implementadas, permitiendo revisar evidencias de proceso, identificar avances y reconocer oportunidades de mejora para orientar oportunamente las decisiones.",
+        "acuerdos": "Dar continuidad durante el segundo semestre al monitoreo sistemático de las acciones, fortaleciendo el análisis de evidencias y realizando los ajustes necesarios para favorecer el cumplimiento de los objetivos y la mejora de los procesos."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1779314521048": {
+        "fecha": "2026-09-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realiza una segunda instancia de análisis de resultados, mediante la aplicación de un instrumento piloto de pre y postest, orientado a monitorear progresivamente el desarrollo de habilidades en Lenguaje y Matemática en los distintos niveles. Esta aplicación permite identificar avances, brechas y oportunidades de mejora, aportando evidencia para orientar las decisiones pedagógicas y ajustar las estrategias de enseñanza. ",
+        "acuerdos": "Se acuerda continuar con los acompañamiento pedagógico a partir de la reflexión de docentes y educadoras diferenciales, orientado a diversificar las estrategias de enseñanza y fortalecer intencionadamente el desarrollo de habilidades que requieren mayor profundización, como la creatividad.  "
+      },
+      "action-1781553650932": {
+        "fecha": "2026-09-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrollan reuniones de trabajo colaborativo entre los equipos, favoreciendo el intercambio y análisis de estrategias de enseñanza y aprendizaje orientadas al fortalecimiento de las prácticas pedagógicas y los aprendizajes de los estudiantes.",
+        "acuerdos": "Se continuará fortaleciendo y relevando el juego como estrategia de enseñanza y aprendizaje, junto con la incorporación de los principios del DUA y el uso del Carro Matemático en los distintos niveles, promoviendo experiencias de aprendizaje diversificadas, significativas y orientadas al desarrollo progresivo de habilidades en los estudiantes.  "
+      },
+      "action-1781553758485": {
+        "fecha": "2026-09-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "El equipo se encuentra desarrollando el segundo ciclo de acompañamiento a los y las docentes, evidenciándose avances en la valoración e intencionalidad del desarrollo de habilidades durante las experiencias de aprendizaje, así como en una mejor gestión y optimización de los tiempos destinados a los distintos momentos de la clase.",
+        "acuerdos": "Se observa la necesidad de continuar fortaleciendo la intencionalidad de la evaluación formativa, poniendo el foco en que los y las estudiantes reconozcan sus propios logros, avances y desafíos como parte de su proceso de aprendizaje y desarrollo de habilidades. En este contexto, se realizó una jornada de trabajo con los docentes a partir de la observación de una clase tipo, utilizando una pauta que permitió analizar las estrategias de enseñanza implementadas y su relación con los indicadores definidos. Esta experiencia favoreció la apropiación progresiva de la pauta como herramienta de reflexión pedagógica y permitió identificar estrategias de enseñanza que pueden ser fortalecidas para promover de manera más intencionada el desarrollo de habilidades en los estudiantes."
+      },
+      "action-1781554334888": {
+        "fecha": "2026-09-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se da continuidad al proceso de monitoreo y seguimiento de las acciones implementadas, revisando evidencias de proceso y resultados que permiten reconocer avances y oportunidades de mejora. Este análisis ha favorecido una toma de decisiones más oportuna y basada en evidencias.",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-03T18:09:43.569Z"
+}
