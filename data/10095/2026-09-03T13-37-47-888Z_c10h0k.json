@@ -1,0 +1,135 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "Los docentes de segundo ciclo básico implementan actividades de aprendizaje que priorizan la extracción e interpretación de información explícita, mientras que las estrategias orientadas a la reflexión crítica, la inferencia y la argumentación se abordan de manera menos sistemática, lo que limita el desarrollo de habilidades de comprensión profunda en los estudiantes en las distintas asignaturas.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar la articulación de  las asignaturas, para movilizar los niveles de desempeño de las y los estudiantes en lenguaje y matemática mediante el monitoreo y retroalimentación constante de las practicas docentes",
+    "estrategiaAnualPME": "Implementar un ciclo de monitoreo de aula y retroalimentación clínica entre UTP y docentes, centrado en la articulación de habilidades en Lenguaje y Matemática. La estrategia prioriza el diseño de enseñanza diversificada y evaluaciones remediales inmediatas, analizando evidencias de aprendizaje para movilizar anualmente al 5% de los estudiantes desde niveles Insuficiente y Elemental hacia logros satisfactorios",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de segundo ciclo implementa prácticas pedagógicas diversificadas que responden a la diversidad y a las necesidades educativas de los estudiantes, lo que se traduce en una participación activa y equitativa en las actividades de aprendizaje y en el desarrollo progresivo de habilidades cognitivas y socioemocionales, evidenciado en desempeños más homogéneos y en el logro de los aprendizajes esperados.",
+    "actions": [
+      {
+        "id": "action-1782158225941",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Evaluar el grado de alineación entre el liderazgo técnico del equipo directivo y las prácticas de aula efectivas, analizando la existencia y uso real de los lineamientos en Lenguaje y Matemática.",
+        "responsables": "utp",
+        "fechas": "Marzo- Abril",
+        "instrumentos": "ppt e informe"
+      },
+      {
+        "id": "action-1782158243706",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "A partir del diagnóstico, los docentes diseñan planificaciones que incorporan de manera intencionada objetivos y actividades orientadas al desarrollo de habilidades de comprensión profunda en todas las asignaturas. Se integran estrategias como preguntas abiertas, análisis de textos y situaciones, y tareas que demanden inferencia y argumentación, junto con instrumentos de evaluación coherentes (rúbricas, pautas) que permitan monitorear estos aprendizajes",
+        "responsables": "utp",
+        "fechas": "MAYO",
+        "instrumentos": "Documento con orientaciones y lineamientos"
+      },
+      {
+        "id": "action-1782158655298",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Los docentes implementan en el aula estrategias de enseñanza que promueven la comprensión profunda, generando oportunidades sistemáticas para que los estudiantes infieran, analicen, reflexionen críticamente y argumenten en torno a diversos contenidos. Este proceso se apoya mediante acompañamiento al aula, trabajo colaborativo docente y apoyo en la elaboración y uso de materiales y evaluaciones, fortaleciendo la calidad de las prácticas pedagógicas.",
+        "responsables": "Coordinación pedagógica (utp+ pie)",
+        "fechas": "Junio- Octubre",
+        "instrumentos": "Pauta de acompañamiento y retroalimentación"
+      },
+      {
+        "id": "action-1782158843354",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "El equipo docente monitorea y evalúa de manera continua el desarrollo de habilidades de comprensión profunda en los estudiantes, utilizando diversas evidencias de aprendizaje para ajustar oportunamente la enseñanza. Asimismo, se generan instancias de reflexión pedagógica que permiten analizar la efectividad de las estrategias implementadas y fortalecer progresivamente las prácticas de enseñanza y evaluación en el ciclo.",
+        "responsables": "Director (S)",
+        "fechas": "Noviembre",
+        "instrumentos": "Documento FODA"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1782158225941": {
+        "fecha": "2026-04-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Institucionalizar una estrategia institucional\nEstablecer análisis de datos para la toma de desciones pedagógicas.",
+        "acuerdos": "En siguiente monitoreo se revisara carpeta drive de diagnostico y planificacion "
+      },
+      "action-1782158243706": {
+        "fecha": "2026-04-30",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han abierto conversaciones que permiten ir definiendo poco a poco los cimientos de la estregaia.\nLos pofesores se han indo invlucrando y permwnencia.",
+        "acuerdos": "Lineamientos comunes y carta gantt con fecha Julio"
+      },
+      "action-1782158655298": {
+        "fecha": "2026-04-30",
+        "avance": 24,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": "Se va a realizar una pauta especifica para el acompañamiento del problema de practica. \nUtp enviará calendarización de Agosto  de al 31 de Julio para coordinar visita al aula."
+      },
+      "action-1782158843354": {
+        "fecha": "2026-04-30",
+        "avance": 0,
+        "justificacion": "El establecimiento consideró que la acción no estaba contribuyendo al objetivo e interrumpió su implementación.",
+        "logros": "Queda establecido realizar análisis de DIA INTERMEDIO.",
+        "acuerdos": "En la siguiente visita se va a establecer un hito de cierre para evaluar el impacto en los profesores. Ejemlo: conversatorio y/o debate."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1782158225941": {
+        "fecha": "2026-09-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Institucionalizar una estrategia institucional\nEstablecer análisis de datos para la toma de desiciones pedagógicas.",
+        "acuerdos": "Subir resultados pedagi"
+      },
+      "action-1782158243706": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1782158655298": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1782158843354": {
+        "fecha": "2026-09-03",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1782158225941": {
+        "fecha": "2026-09-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Institucionalizar una estrategia institucional\nEstablecer análisis de datos para la toma de desiciones pedagógicas.",
+        "acuerdos": "Subir resultados pedagi"
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-03T13:37:47.888Z"
+}
