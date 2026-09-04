@@ -1,0 +1,129 @@
+{
+  "asesor": "Sandra Barrientos",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de matemática en 2do, 4to y 6to básico, implementa el método COPISI, de forma irregular y asistemática, lo que limita el logro de los objetivos de aprendizaje. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer el modelo pedagógico colaborativo a través de la articulación de prácticas docentes de aula para el desarrollo de habilidades de LEC y de pensamiento Matemático.",
+    "estrategiaAnualPME": "Implementar Estrategias LEC y de Modelamiento Matemático de forma transversal, a partir de la implementación Curricular. ",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Implementar el método COPISI  de forma regular y sistemática, en las practicas pedagógicas de matemática en 2do, 4to y 6to básico,  garantizando el logro de los objetivos de aprendizaje. ",
+    "actions": [
+      {
+        "id": "action-1780059912688",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Capacitación docente en el uso pedagógico del carro matemático para la implementación del método COPISI.",
+        "responsables": "Asesora",
+        "fechas": "Abril",
+        "instrumentos": "Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060022255",
+        "tipoAccion": "Capacitación",
+        "descripcion": "Taller de modelamiento de prácticas exitosas",
+        "responsables": "Docentes de Matemática de 1ero y 2do básico",
+        "fechas": "Mayo- Junio",
+        "instrumentos": "Planificación del taller,  Material utilizado, Nomina de asistencia,   Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060079255",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Estrategia CAPS con docentes de matemática. ",
+        "responsables": "Docentes de Matemática de 2do ciclo - UTP",
+        "fechas": "Junio- Octubre",
+        "instrumentos": "Planificación. Material utilizado. Nomina de asistencia . Evaluación mediante encuesta"
+      },
+      {
+        "id": "action-1780060132575",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento docente interno y externo al aula",
+        "responsables": "Equipo directivo, asesora",
+        "fechas": "Abril- Noviembre",
+        "instrumentos": "Calendarización de los acompañamientos docentes.  Pauta de acompañamiento  docente al aula con la retroalimentación.  Ficha de acompañamiento a la gestión curricular. "
+      },
+      {
+        "id": "action-1780060178559",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Taller de análisis y uso de datos con resultados de SEAT en matemático. ",
+        "responsables": "UTP- Director",
+        "fechas": "Mayo- Noviembre",
+        "instrumentos": "Planificación. Material utilizado. Nomina de asistencia . Acta de acuerdos de mejora.  Formulario de aplicación de los acuerdos de mejora."
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1780059912688": {
+        "fecha": "2026-08-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se identificó que la docente de Matemática de 6.º básico incorpora sistemáticamente el método COPISI en sus prácticas pedagógicas, constituyéndose en un referente interno para el equipo. Asimismo, se reconoció la necesidad de fortalecer la frecuencia y sistematicidad de su implementación en 2.º y 4.º básico.",
+        "acuerdos": "La jefa de UTP dialogará con los docentes de Matemática de 2.º y 4.º básico para acordar la incorporación sistemática del método COPISI en sus rutinas pedagógicas. Además, se promoverá el uso planificado de los recursos del Carro Matemático y el intercambio de experiencias con la docente de 6.º básico."
+      },
+      "action-1780060022255": {
+        "fecha": "2026-08-10",
+        "avance": 0,
+        "justificacion": "Ciertas condiciones relacionadas con el tiempo, los recursos humanos y/o materiales o la infraestructura no permitieron la adecuada implementación de la acción.",
+        "logros": "Se definió la realización de un espacio de modelamiento orientado a compartir estrategias exitosas para la implementación del método COPISI. La actividad fue reagendada para el 11 de agosto de 2026. Al momento del reporte, el taller se encontraba pendiente de ejecución.",
+        "acuerdos": "Desarrollar el taller en la fecha acordada, utilizando experiencias concretas de aula para modelar la progresión de lo concreto a lo pictórico y simbólico. "
+      },
+      "action-1780060079255": {
+        "fecha": "2026-08-10",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se fortaleció la comunidad de aprendizaje profesional mediante las reuniones de ciclo, generando espacios de reflexión sobre el uso del método COPISI. Además, se diseñó colaborativamente una estrategia de ABP en Matemática, que culminó con la participación de todos los cursos en una feria matemática. También se identificaron focos de mejora para orientar el trabajo pedagógico.",
+        "acuerdos": "Mantener las reuniones de ciclo como espacios sistemáticos de colaboración y reflexión pedagógica. Analizar conjuntamente los resultados del formulario aplicado por la jefa de UTP, definir prioridades de mejora y acordar acciones concretas para fortalecer la implementación del método COPISI en los distintos niveles."
+      },
+      "action-1780060132575": {
+        "fecha": "2026-08-10",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "La jefa de UTP ha realizado acompañamientos personalizados a cada docente. Asimismo, se iniciaron observaciones de aula mediante la plataforma Enfoque Docente, con énfasis en la dimensión de evaluación formativa. Se programó un acompañamiento externo para 4.º básico en la asignatura de Matemática.",
+        "acuerdos": "Dar continuidad a los acompañamientos internos y realizar el acompañamiento externo programado. Después de cada observación, desarrollar una instancia de retroalimentación con el docente, acordando una acción de mejora vinculada al uso del método COPISI y a la evaluación formativa. Registrar los compromisos y revisar su avance en el siguiente acompañamiento."
+      },
+      "action-1780060178559": {
+        "fecha": "2026-08-10",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realizó un primer taller de análisis de resultados al finalizar el primer semestre, lo que permitió iniciar la identificación de aprendizajes descendidos y necesidades de apoyo en Matemática. Se planificó una segunda jornada de profundización para el 14 de agosto de 2026.",
+        "acuerdos": "Desarrollar el segundo taller para profundizar el análisis de los resultados por curso y objetivo de aprendizaje. A partir de la evidencia, definir estrategias de reenseñanza, apoyos diferenciados y actividades basadas en COPISI. También se acordará realizar seguimiento a las acciones implementadas y revisar posteriormente su impacto en los aprendizajes."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1780059912688": {
+        "fecha": "2026-08-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se identificó que la docente de Matemática de 6.º básico incorpora sistemáticamente el método COPISI en sus prácticas pedagógicas, constituyéndose en un referente interno para el equipo. Asimismo, se reconoció la necesidad de fortalecer la frecuencia y sistematicidad de su implementación en 2.º y 4.º básico.",
+        "acuerdos": "La jefa de UTP dialogará con los docentes de Matemática de 2.º y 4.º básico para acordar la incorporación sistemática del método COPISI en sus rutinas pedagógicas. Además, se promoverá el uso planificado de los recursos del Carro Matemático y el intercambio de experiencias con la docente de 6.º básico."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1780059912688": {
+        "fecha": "2026-08-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se identificó que la docente de Matemática de 6.º básico incorpora sistemáticamente el método COPISI en sus prácticas pedagógicas, constituyéndose en un referente interno para el equipo. Asimismo, se reconoció la necesidad de fortalecer la frecuencia y sistematicidad de su implementación en 2.º y 4.º básico.",
+        "acuerdos": "La jefa de UTP dialogará con los docentes de Matemática de 2.º y 4.º básico para acordar la incorporación sistemática del método COPISI en sus rutinas pedagógicas. Además, se promoverá el uso planificado de los recursos del Carro Matemático y el intercambio de experiencias con la docente de 6.º básico."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-04T11:58:56.619Z"
+}
