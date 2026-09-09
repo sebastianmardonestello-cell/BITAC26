@@ -1,0 +1,99 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico de Lenguaje y matemáticas de 2°medio implementa prácticas de co-docencia poco coordinadas para abordar la diversidad de estudiantes del nivel lo que dificulta el transito de estudiantes hacia los niveles esperados ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar un proceso de acompañamiento pedagógico que permita contribuir al desarrollo profesional de los docentes del establecimiento. Institucionalizar iniciativas de innovación pedagógica que favorezcan el desarrollo de habilidades de orden superior y/o que promuevan una formación educativa integral.",
+    "estrategiaAnualPME": "Acompañamiento pedagógicos a los docentes, incorporando observación entre pares Formación de un Equipo de Innovación.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo pedagógico de Lenguaje y matemáticas de 2°medio implementa prácticas de co-docencia coordinadas para abordar la diversidad de estudiantes del nivel lo que promueve el transito de estudiantes hacia los niveles esperados ",
+    "actions": [
+      {
+        "id": "action-1778777003746",
+        "tipoAccion": "Taller",
+        "descripcion": "Taller para la co-construcción de indicadores para la coordinación prácticas de co-docencia",
+        "responsables": "Equipo directivo -asesor",
+        "fechas": "mayo",
+        "instrumentos": "Indicadores para el monitoreo de la co-docencia"
+      },
+      {
+        "id": "action-1778777149345",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento al aula para monitoreo de la implementación de las practicas de co-docencia en el aula ",
+        "responsables": "director-utp/asesor",
+        "fechas": "mayo-octubre",
+        "instrumentos": "Pauta de acompañamiento/acta de acuerdo "
+      },
+      {
+        "id": "action-1778777275321",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada de análisis de datos, DIA intermedio para toma de decisiones pedagógicas del proceso",
+        "responsables": "UTP-Director",
+        "fechas": "septiembre-agosto",
+        "instrumentos": "Material utilizado/acta de jornada"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778777003746": {
+        "fecha": "2026-05-16",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Tras la co-construcción de los indicadores para las practicas de co-docencia, se distribuyó a los estudiantes por niveles y claridad de roles por cada docente. Se realizaron evaluaciones del co-docente educador diferencial. ",
+        "acuerdos": "Realizar evaluaciones lo que queda del semestre. "
+      },
+      "action-1778777149345": {
+        "fecha": "2026-05-16",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han realizado 3 acompañamientos al aula y se ha logrado acordar lineamientos de las prácticas docentes. Asimismo, se ha tenido la oportunidad de acompañar y visibilizar a los estudiantes destacados. Por otra parte, el DIA intermedio en lectura y matemática tienen resultados más altos que el segundo medio del año 2025. Lo anterior, es importante considerando que en términos académicos el curso del 2025 era mejor que el de este año 2026. Además, se evidencia una mejor cobertura curricular en la asignatura de matemáticas.",
+        "acuerdos": "Continuar con los acompañamientos lo que queda del año escolar y visualizar los resultados en DIA final."
+      },
+      "action-1778777275321": {
+        "fecha": "2026-09-08",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realiza la jornada de análisis de DIA intermedio con docentes de matemática.",
+        "acuerdos": "Realizar una próxima jornada de análisis de DIA con docentes de lenguaje el 10 de septiembre del 2026."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778777003746": {
+        "fecha": "2026-05-16",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Tras la co-construcción de los indicadores para las practicas de co-docencia, se distribuyó a los estudiantes por niveles y claridad de roles por cada docente. Se realizaron evaluaciones del co-docente educador diferencial. ",
+        "acuerdos": "Realizar evaluaciones lo que queda del semestre. "
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778777003746": {
+        "fecha": "2026-05-16",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Tras la co-construcción de los indicadores para las practicas de co-docencia, se distribuyó a los estudiantes por niveles y claridad de roles por cada docente. Se realizaron evaluaciones del co-docente educador diferencial. ",
+        "acuerdos": "Realizar evaluaciones lo que queda del semestre. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-09T10:22:13.920Z"
+}
