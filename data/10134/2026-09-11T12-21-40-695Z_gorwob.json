@@ -1,0 +1,99 @@
+{
+  "asesor": "Sebastián Mardones",
+  "diagnostico": {
+    "practicaProblematica": "Docentes implementan rutinas de lenguaje y matemáticas de manera poco sistemática, lo que genera poca adherencia a estas rutinas por partes de los estudiantes para el logro de los OAs ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar las prácticas pedagógicas mediante la implementación de estrategias efectivas de enseñanza-aprendizaje, para mejorar el desarrollo de habilidades de lectoescritura y las competencias matemáticas.",
+    "estrategiaAnualPME": "Instancias de trabajo colaborativas que permitan el uso de metodologías de enseñanza aprendizaje, que consoliden el desarrollo de habilidades de lectoescritura y matemáticas en los estudiantes.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Docentes implementan rutinas de lenguaje y matemáticas de manera sistemática, lo que genera adherencia a estas rutinas por partes de los estudiantes para el logro de los OAs ",
+    "actions": [
+      {
+        "id": "action-1778773370642",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Jornada de reflexión destinadas al acuerdo de rutinas y sustento pedagógico de estas para su implementación",
+        "responsables": "Utp",
+        "fechas": "Mayo",
+        "instrumentos": "Acta, material utilizado"
+      },
+      {
+        "id": "action-1778773617042",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Acompañamiento docente por parte del equipo para monitoreo de la implementación de rutinas durante el año. ",
+        "responsables": "Equipo de gestión y Docentes",
+        "fechas": "mayo-octubre",
+        "instrumentos": "Actas de retroalimentación de enfoque docente"
+      },
+      {
+        "id": "action-1778773715474",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Jornada para evaluación de las rutinas aplicadas por parte de los docentes para poder mejorar las practicas y su implementación",
+        "responsables": "Utp",
+        "fechas": "mayo-actubre",
+        "instrumentos": "Material de las jornadas y acta de acuerd"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778773370642": {
+        "fecha": "2026-04-01",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes están alineados con una necesidad de escuela e interés de la mejora. Acción obedece al análisis de resultados. Los resultados han permitido evidenciar las acciones y mejoras en estrategias y rutinas dentro del aula (calculo mental y comprensión lectora).",
+        "acuerdos": "Continuar con jornadas durante lo que queda del semestre. "
+      },
+      "action-1778773715474": {
+        "fecha": "2026-04-01",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Las estrategias  levantadas, acordadas e implementadas por los docentes han permitido el proceso de mejora. Se han evidenciado los recursos utilizados dentro del aula por el equipo y apoderados. Los estudiantes se han vistos desafiados en sus aprendizajes. ",
+        "acuerdos": "Continuar con jornadas durante lo que queda del semestre. "
+      },
+      "action-1778773617042": {
+        "fecha": "2026-04-01",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ha utilizado la plataforma de enfoque docente, logrando incorporar la practica dentro del equipo (aprox 11 acom",
+        "acuerdos": "Continuar con la utilización de enfoque docente."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778773370642": {
+        "fecha": "2026-04-01",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes están alineados con una necesidad de escuela e interés de la mejora. Acción obedece al análisis de resultados. Los resultados han permitido evidenciar las acciones y mejoras en estrategias y rutinas dentro del aula (calculo mental y comprensión lectora).",
+        "acuerdos": "Continuar con jornadas durante lo que queda del semestre. "
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778773370642": {
+        "fecha": "2026-04-01",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los docentes están alineados con una necesidad de escuela e interés de la mejora. Acción obedece al análisis de resultados. Los resultados han permitido evidenciar las acciones y mejoras en estrategias y rutinas dentro del aula (calculo mental y comprensión lectora).",
+        "acuerdos": "Continuar con jornadas durante lo que queda del semestre. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-11T12:21:40.695Z"
+}
