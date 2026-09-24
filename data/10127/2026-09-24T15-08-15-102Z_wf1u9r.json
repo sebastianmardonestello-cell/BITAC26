@@ -1,0 +1,113 @@
+{
+  "asesor": "David Acuña",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo propone, de forma incipiente, experiencias educativas colaborativas con otros establecimientos del territorio, para resguardar las trayectorias educativas de los y las estudiantes que participan de los talleres laborales, brindando la posibilidad de vincularse, de forma adecuada, al proceso de inserción laboral y social. ",
+    "dimensionPME": "Convivencia Escolar",
+    "subdimensionPME": "Formación",
+    "objetivoEstrategicoPME": "Instalar un clima de buena convivencia y participación entre los diversos actores de la comunidad educativa, a través de la implementación del Plan de Gestión de la convivencia escolar.",
+    "estrategiaAnualPME": "Implementar las acciones del Plan de Gestión de la convivencia escolar con foco en los índices de desarrollo personal y social.",
+    "estandarIndicativo": "7.3 El equipo directivo y los docentes transmiten altas expectativas a los estudiantes, y los orientan y apoyan en la toma de decisiones sobre su futuro.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "12. Progreso de la gestión de la convivencia educativa a través del desarrollo de actividades territoriales, con el propósito de promover espacios educativos seguros, organizados y respetuosos del bienestar socioemocional de párvulos y estudiantes",
+    "practicaDeseada": "El equipo directivo propone experiencias educativas colaborativas con otros establecimientos del territorio, resguardando las trayectorias educativas de los y las estudiantes que participan de los talleres laborales, brindando la posibilidad de vincularse al proceso de inserción laboral y social.",
+    "actions": [
+      {
+        "id": "action-1780329236716",
+        "tipoAccion": "Otra",
+        "descripcion": "Jornada de planificación para organizar diferentes acciones en torno a experiencias educativas que potencien las habilidades profesionales y sociales de los y las estudiante. \n\nDefiniendo: Cantidad de clases magistrales en las escuelas especiales, visitas técnicas en el CEIA, cantidad de estudiantes participantes, etc. \n",
+        "responsables": "Equipo directivo. ",
+        "fechas": "mayo 2026",
+        "instrumentos": "Acta y asistencia de la jornada"
+      },
+      {
+        "id": "action-1780329807933",
+        "tipoAccion": "Otra",
+        "descripcion": "Proceso de sensibilización, donde los estudiantes del CEIA visitan las escuelas especiales para conocer el contexto educativo. Brindando un recorrido por el lugar y presentando las diversas formas de trabajo. ",
+        "responsables": "Equipo Directivo ",
+        "fechas": "mayo - junio 2026",
+        "instrumentos": "Asistencia de estudiantes presentes, fotografía.  "
+      },
+      {
+        "id": "action-1780330080952",
+        "tipoAccion": "Otra",
+        "descripcion": "Clase magistral por parte de los estudiantes del CEIA hacia los estudiantes de talleres laborales de las escuelas especiales en el establecimiento. El ámbito a trabajar las clases son en experiencias alimentarias. ",
+        "responsables": "Unidad Técnica Pedagógica y Terapeuta Ocupacional. ",
+        "fechas": "Julio.",
+        "instrumentos": "Lista de asistencia, fotografías. "
+      },
+      {
+        "id": "action-1780330145686",
+        "tipoAccion": "Otra",
+        "descripcion": "Clase magistral por parte de los estudiantes del CEIA hacia los estudiantes de talleres laborales en el establecimiento del CEIA. El ámbito a trabajar las clases son en experiencias alimentarias. ",
+        "responsables": "Unidad Técnica Pedagógica  y Terapeuta Ocupacional",
+        "fechas": "Agosto.",
+        "instrumentos": "Formulario C y fotografías. "
+      },
+      {
+        "id": "action-1780330238269",
+        "tipoAccion": "Otra",
+        "descripcion": "Dos estudiantes de la escuela especiales asisten a pasantias en establecimientos CEIA. ",
+        "responsables": "Unidad Técnica Pedagógica  y Terapeuta Ocupacional",
+        "fechas": "Octubre",
+        "instrumentos": "Formulario C y fotografías.  "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1780329807933": {
+        "fecha": "2026-06-02",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los estudiantes del CEIA conozcan la realidad de las escuelas especiales, con el fin de lograr preparar su clase magistral. Seguido de eso, los y las estudiantes del CEIA y escuelas especiales, compartan e interactúan para consolidar vínculos.",
+        "acuerdos": "Establecer fechas tentativas para que los estudiantes pertenecientes al CEIA, puedan realizar su clase magistral. "
+      },
+      "action-1780330080952": {
+        "fecha": "2026-07-15",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se concreta clase magistral por parte de los estudiantes del CEIA hacia los y las estudiantes de las escuelas especiales en su establecimiento. Sumado a esto, se realiza una segunda clase magistral el 19 de agosto. Durante este proceso los y las estudiantes entre CEIA y escuelas especiales, preparan platos de comida que luego comparten entre ellos y ellas. ",
+        "acuerdos": "Establecer fechas tentativas para que los estudiantes pertenecientes al CEIA, puedan realizar su segunda clase magistral en las dependencias de su establecimiento. "
+      },
+      "action-1780330145686": {
+        "fecha": "2026-08-21",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los estudiantes de la escuela especial, asisten a clase magistral por parte de los estudiantes CEIA en su establecimiento. Durante este proceso los y las estudiantes entre CEIA y escuelas especiales, preparan platos de comida que luego comparten entre ellos y ellas. ",
+        "acuerdos": "Elección de los dos estudiantes que tomarán la pasantía. Considerando el desempeño demostrado durante las clases magistrales."
+      },
+      "action-1780329236716": {
+        "fecha": "2026-05-26",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Concretar calendarización de actividades en torno a pasantías, definiendo fechas y cantidad de estudiantes a participar. ",
+        "acuerdos": "Reunión en el próximo mes de junio. Organizar proceso de sensibilización para estudiantes del CEIA."
+      },
+      "action-1780330238269": {
+        "fecha": "2026-05-26",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {}
+  },
+  "implementacion3": {
+    "actions": {}
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-24T15:08:15.102Z"
+}
