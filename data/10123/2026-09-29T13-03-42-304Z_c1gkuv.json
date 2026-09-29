@@ -1,0 +1,128 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de la asignatura de matemáticas de 6 y 7 año básico  implementan prácticas de enseñanza centradas en métodos tradicionales y poco diversificados, limitando el uso de estrategias efectivas que promueven el desarrollo de habilidades de pensamiento matemático y la motivación de los estudiantes por la disciplina. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Fortalecer las prácticas pedagógicas docentes, para movilizar los niveles de logro de los estudiantes según los estándares, mediante el acompañamiento, análisis de datos y reflexión conjunta. \n",
+    "estrategiaAnualPME": "Jornadas de análisis y reflexión con foco en la implementación de las estrategias de aprendizaje en lenguaje y  matemática\n",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación satisfactoria"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de la asignatura de matemáticas de 6 y 7 año básico  implementan prácticas de enseñanza diversificadas y contextualizadas  que potencien el pensamiento matemático y aumente el interés por la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1781035307172",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Esta acción se enfoca en observar a lo docentes en el aula, se  realiza la retroalimentación y se levanta el diagnóstico y oportunidades  de mejora de las clases. A partir de esto se toman acuerdos. ",
+        "responsables": "UTP",
+        "fechas": "Abril- Mayo",
+        "instrumentos": "Pauta de observación y retroalimentación del establecimiento y pauta uso material concreto de carro matemático"
+      },
+      {
+        "id": "action-1781038285395",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Esta acción busca desarrollar  acompañamiento sistemático de reuniones de co-diseño de unidades didácticas diversificadas y contextualizadas para la enseñanza de la matemática, con foco en el desarrollo de habilidades de pensamiento matemático y problemas de la vida cotidiana de los estudiantes. ",
+        "responsables": "UTP - Coordinación PIE",
+        "fechas": "Julio a Octubre ",
+        "instrumentos": "Unidades didácticas de la asignatura- registro planificación conjunta. "
+      },
+      {
+        "id": "action-1781038770205",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "En esta jornada se modela la aplicación de distintas estrategias de diversificación en el aula de 6 y 7 en la asignatura de matemáticas,  a partir de los 3 principios fundamentales del DUA, mostrando el proceso de acompañamiento desde la planificación, implementación y evaluación,  socializándolas para todas las asignaturas.  Se retroalimentan de parte de los docentes y se toman acuerdos en común como lineamientos institucionales.  ",
+        "responsables": "Equipo de aula 6 y 7 básico matemáticas ",
+        "fechas": "Octubre ",
+        "instrumentos": "Presentación y material de la jornada "
+      },
+      {
+        "id": "action-1781039621022",
+        "tipoAccion": "Otra",
+        "descripcion": "Se realiza una encuesta de percepción de los estudiantes hacia la asignatura de matemáticas respecto a retroalimentación docente, material utilizado, relación docente estudiante, clima de aula, grupos de trabajo, aprendizajes adquiridos y avances del proceso, etc. ",
+        "responsables": "Equipo directivo y asesora ",
+        "fechas": "",
+        "instrumentos": "Encuesta y sus resultados "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1781035307172": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Para dar cumplimiento a esta acción, se acompañan a dos docentes de matemáticas, la profesora de 6°A y profesor de 7°A, se realiza un acompañamiento sistemático en la planificación, donde el equipo de aula (Docente-PIE-UTP) se reúne para planificar en conjunto, las decisiones del equipo se observa en la implementación en el aula evidenciándose el cumplimiento de la planificación, eficaz codocencia junto a la educadora diferencial y oportunidad de trabajar el error en el aula, uso de material concreto y monitoreo de los grupo de trabajo en el aula. La docente de 6 básico trabaja con material audiovisual, gamificación y vincula el aprendizaje con la vida cotidiana y los estudiantes son los protagonistas de la clase, intenciona la participación equitativa de sus estudiantes. ",
+        "acuerdos": "Como oportunidades de mejora para el docente de 7 básico, debe mejorar el desarrollo de los conceptos matemáticos en clases, seguir utilizando el material concreto e invitar a la reflexión de su práctica. "
+      },
+      "action-1781038285395": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Ambos docentes realizan un trabajo en conjunto con su equipo de aula(Docente-PIE-UTP), llevando un seguimiento de los acuerdos de cada reunión con el fin de verificar el cumplimiento de estos durante las clases, este acompañamiento se realiza semanalmente, así se observa que la educadora diferencial aporta con sus conocimientos y planificando acciones que involucren a todos los estudiantes. La sistematización de la planificación a permitido que se logre cumplir con los lineamientos institucionales solicitados, evidenciar que tiene un propósito claro y esto se refleja en los resultados con los estudiantes. ",
+        "acuerdos": ""
+      },
+      "action-1781038770205": {
+        "fecha": "2026-09-22",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      },
+      "action-1781039621022": {
+        "fecha": "2026-09-22",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1781035307172": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Para dar cumplimiento a esta acción, se acompañan a dos docentes de matemáticas, la profesora de 6°A y profesor de 7°A, se realiza un acompañamiento sistemático en la planificación, donde el equipo de aula (Docente-PIE-UTP) se reúne para planificar en conjunto, las decisiones del equipo se observa en la implementación en el aula evidenciándose el cumplimiento de la planificación, eficaz codocencia junto a la educadora diferencial y oportunidad de trabajar el error en el aula, uso de material concreto y monitoreo de los grupo de trabajo en el aula. La docente de 6 básico trabaja con material audiovisual, gamificación y vincula el aprendizaje con la vida cotidiana y los estudiantes son los protagonistas de la clase, intenciona la participación equitativa de sus estudiantes. ",
+        "acuerdos": "Como oportunidades de mejora para el docente de 7 básico, debe mejorar el desarrollo de los conceptos matemáticos en clases, seguir utilizando el material concreto e invitar a la reflexión de su práctica. "
+      },
+      "action-1781038285395": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Ambos docentes realizan un trabajo en conjunto con su equipo de aula(Docente-PIE-UTP), llevando un seguimiento de los acuerdos de cada reunión con el fin de verificar el cumplimiento de estos durante las clases, este acompañamiento se realiza semanalmente, así se observa que la educadora diferencial aporta con sus conocimientos y planificando acciones que involucren a todos los estudiantes. La sistematización de la planificación a permitido que se logre cumplir con los lineamientos institucionales solicitados, evidenciar que tiene un propósito claro y esto se refleja en los resultados con los estudiantes. ",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1781035307172": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Para dar cumplimiento a esta acción, se acompañan a dos docentes de matemáticas, la profesora de 6°A y profesor de 7°A, se realiza un acompañamiento sistemático en la planificación, donde el equipo de aula (Docente-PIE-UTP) se reúne para planificar en conjunto, las decisiones del equipo se observa en la implementación en el aula evidenciándose el cumplimiento de la planificación, eficaz codocencia junto a la educadora diferencial y oportunidad de trabajar el error en el aula, uso de material concreto y monitoreo de los grupo de trabajo en el aula. La docente de 6 básico trabaja con material audiovisual, gamificación y vincula el aprendizaje con la vida cotidiana y los estudiantes son los protagonistas de la clase, intenciona la participación equitativa de sus estudiantes. ",
+        "acuerdos": "Como oportunidades de mejora para el docente de 7 básico, debe mejorar el desarrollo de los conceptos matemáticos en clases, seguir utilizando el material concreto e invitar a la reflexión de su práctica. "
+      },
+      "action-1781038285395": {
+        "fecha": "2026-09-22",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Ambos docentes realizan un trabajo en conjunto con su equipo de aula(Docente-PIE-UTP), llevando un seguimiento de los acuerdos de cada reunión con el fin de verificar el cumplimiento de estos durante las clases, este acompañamiento se realiza semanalmente, así se observa que la educadora diferencial aporta con sus conocimientos y planificando acciones que involucren a todos los estudiantes. La sistematización de la planificación a permitido que se logre cumplir con los lineamientos institucionales solicitados, evidenciar que tiene un propósito claro y esto se refleja en los resultados con los estudiantes. ",
+        "acuerdos": ""
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-09-29T13:03:42.304Z"
+}
