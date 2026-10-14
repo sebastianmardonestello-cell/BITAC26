@@ -1,0 +1,113 @@
+{
+  "asesor": "Angie Silva",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo no entrega lineamientos, orientaciones, ni estrategias especificas para que el/los docentes desarrollen la calidad de la escritura de los estudiantes de 5 básico , lo que dificulta el aprendizaje y la autoestima académica de los niños y niñas en este nivel. ",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Consolidar el acompañamiento a los docentes con el fin de desarrollar capacidades y competencias en los profesores, mediante monitoreo y retroalimentación constante para potenciar y asegurar las trayectorias educativas de los estudiantes.",
+    "estrategiaAnualPME": "Consolidar el plan de acompañamiento docente, ampliando su implementación desde un enfoque focalizado a uno institucional, mediante la sistematización del monitoreo de las prácticas pedagógicas y la retroalimentación efectiva, promoviendo el desarrollo de capacidades profesionales, la reflexión pedagógica y el trabajo colaborativo en las asignaturas de lenguaje y matemáticas.",
+    "estandarIndicativo": "4.3 El equipo directivo gestiona la elaboración de planificaciones que contribuyen a la conducción efectiva de los procesos de enseñanza aprendizaje.",
+    "capacidadBasal": "Reflexión",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "1. Estrategia de transición educativa y articulación para el fortalecimiento de las trayectorias de párvulos y estudiantes",
+    "practicaDeseada": "El equipo directivo entrega a los docentes lineamientos, orientaciones y/o estrategias orientadas al desarrollo de la calidad de escritura en los estudiantes de 5° básico, con la finalidad de potenciar sus aprendizajes y fortalecer su autoestima académica.",
+    "actions": [
+      {
+        "id": "action-1778852478879",
+        "tipoAccion": "Otra",
+        "descripcion": "Reunión con docente de Lenguaje de segundo ciclo para socializar y analizar los resultados de la evaluación diagnóstica de escritura DIA , con el propósito de favorecer su involucramiento en el diseño e implementación de acciones pedagógicas orientadas a fortalecer la calidad de la escritura de los y las estudiantes. Durante la jornada, se entregarán estrategias y orientaciones metodológicas para apoyar la mejora continua de las habilidades de escritura.",
+        "responsables": "jefe técnico - directora",
+        "fechas": "1 semestre",
+        "instrumentos": "evaluacion dia - acta de Reunión "
+      },
+      {
+        "id": "action-1778852942401",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "El jefe técnico realiza acompañamiento al docente en el aula para observar y monitorear la implementación de las estrategias pedagógicas utilizadas, brindando retroalimentación y orientaciones que favorezcan el fortalecimiento de las prácticas de enseñanza y la mejora de los aprendizajes de los y las estudiantes.",
+        "responsables": "jefe técnico - docente de lenguaje ",
+        "fechas": "segundo semestre",
+        "instrumentos": "acta del acompañamiento "
+      },
+      {
+        "id": "action-1778853107621",
+        "tipoAccion": "Otra",
+        "descripcion": "Reflexión pedagógica sobre los acompañamientos realizados, orientada a evaluar el impacto de las estrategias implementadas en el aprendizaje y desempeño de los niños y niñas, identificando avances, desafíos y oportunidades de mejora para fortalecer las prácticas pedagógicas.",
+        "responsables": "jefe tecnico- docente de lenguaje ",
+        "fechas": "segundo semestre ",
+        "instrumentos": "Evaluación de impacto "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1778852478879": {
+        "fecha": "2026-08-20",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Reuniones periódicas con docente de lenguaje  ",
+        "acuerdos": "continuar con los acompañamientos  "
+      },
+      "action-1778852942401": {
+        "fecha": "2026-08-20",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Jefe trencnco entrega herramietas para tenicas de subrayadpo ",
+        "acuerdos": ""
+      },
+      "action-1778853107621": {
+        "fecha": "2026-08-20",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1778852478879": {
+        "fecha": "2026-10-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se reúne una vez al mes, que el docente se sienta acompañado , poder elaborar productos de manera colaborativa para poder trabajar con los niños y niñas , cambio de la estructura de la sala.",
+        "acuerdos": "Hacer la lectura de manera distinta, en voz alta y distribuida. "
+      },
+      "action-1778852942401": {
+        "fecha": "2026-10-13",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Mejoras en el registro de información de las actividades ",
+        "acuerdos": "Trabajar mas alineados con la docente de PIE "
+      },
+      "action-1778853107621": {
+        "fecha": "2026-10-13",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Que lo ideal seria que esta estrategia sea sostenida en el tiempo. ",
+        "acuerdos": "Realizar la evaluación con los datos "
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1778852478879": {
+        "fecha": "2026-10-13",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se reúne una vez al mes, que el docente se sienta acompañado , poder elaborar productos de manera colaborativa para poder trabajar con los niños y niñas , cambio de la estructura de la sala.",
+        "acuerdos": "Hacer la lectura de manera distinta, en voz alta y distribuida. "
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-10-14T13:06:48.415Z"
+}
