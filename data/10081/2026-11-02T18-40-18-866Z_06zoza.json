@@ -1,0 +1,156 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 2° a 4° básico implementa estrategias de retroalimentación y evaluación formativa centradas principalmente en el monitoreo mecánico de la lectoescritura, con énfasis en respuestas correctas e incorrectas. Esta práctica limita el desarrollo de habilidades de comprensión profunda, pensamiento crítico y autonomía en la producción escrita de los estudiantes",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Consolidar los aprendizajes de los estudiantes mediante la implementación sistemática de estrategias metodológicas y tecnológicas diversificadas en las asignaturas troncales, fortaleciendo el desarrollo de habilidades en Lenguaje, Matemática, Ciencias Naturales e Historia.",
+    "estrategiaAnualPME": "Al finalizar el cuarto año del ciclo PME, al menos el 75% de los estudiantes mejora sus niveles de aprendizaje en las asignaturas troncales, evidenciado en resultados de evaluaciones internas y del Diagnóstico Integral de Aprendizajes (DIA), como resultado de la implementación sistemática de estrategias metodológicas diversificadas por parte de los docentes.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de 2° a 4° básico implementa estrategias metodológicas diversificadas que promueven el desarrollo de habilidades de comprensión y de orden superior, integrando retroalimentación descriptiva y oportuna centrada en los procesos de aprendizaje. Esta práctica favorece el logro de niveles profundos de comprensión lectora y el desarrollo de la autonomía en la escritura de los estudiantes, utilizando el error como una oportunidad de aprendizaje y reflexión.",
+    "actions": [
+      {
+        "id": "action-1779713466505",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Triangulación de las evaluaciones internas, las pruebas del Diagnóstico Integral de Aprendizaje (DIA) y los ensayos SIMCE en el nivel de 2° a 4° básico; el propósito es contrastar si los criterios de corrección aplicados por el equipo de aula se limitan al monitoreo mecánico y literal, o si miden efectivamente las habilidades de inferencia, reflexión y producción textual autónoma exigidas por las mediciones nacionales.",
+        "responsables": "Jefa de utp",
+        "fechas": "ABRIL",
+        "instrumentos": "Presentación de resultados"
+      },
+      {
+        "id": "action-1779714235637",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Rediseñar las estrategias de aula para el primer ciclo, integrando de manera sistemática actividades de análisis de textos.\n",
+        "responsables": "Coordinación pedagógica (utp+pie)",
+        "fechas": " Mayo – Noviembre (mensuales)",
+        "instrumentos": "Planificaciones (muestra)"
+      },
+      {
+        "id": "action-1779714412293",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Ejecutar un programa de acompañamiento docente centrado en la retroalimentación de la mediación pedagógica en Durante la fase de implementación, los docentes llevarán a cabo en el aula las estrategias diseñadas, con el objetivo de promover el desarrollo de habilidades de comprensión y la autonomía en la escritura de los estudiantes. Este proceso será acompañado sistemáticamente por el equipo técnico mediante observaciones de aula, instancias de co-planificación y retroalimentación pedagógica. Además, se apoyará el uso de recursos como guías con preguntas abiertas, textos para el análisis y pautas de escritura, junto con la aplicación de estrategias de evaluación formativa, tales como rúbricas simples, autoevaluación y retroalimentación descriptiva. Este acompañamiento busca fortalecer la práctica docente y asegurar la implementación efectiva de las estrategias.",
+        "responsables": "Coordinación pedagógica (utp+pie)",
+        "fechas": "Mayo-Noviembre",
+        "instrumentos": "PAUTAS DE ACOMPAÑAMIENTO Y RETROALIMENTACION "
+      },
+      {
+        "id": "action-1779714925065",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Finalmente, se desarrollará un proceso de evaluación orientado a valorar el impacto de las estrategias implementadas en las prácticas pedagógicas y en los aprendizajes de los estudiantes. Para ello, se realizará una nueva observación de aula que permita comparar los avances respecto del diagnóstico inicial, junto con el análisis de producciones escritas de los estudiantes y la revisión de evaluaciones aplicadas. Asimismo, se generarán espacios de reflexión pedagógica donde los docentes analizarán los resultados obtenidos, identificarán avances y dificultades, y definirán ajustes necesarios para fortalecer la enseñanza. Este proceso permitirá consolidar mejoras en la práctica docente y avanzar hacia el desarrollo de habilidades de comprensión y autonomía en la escritura.",
+        "responsables": "Jefa de Utp",
+        "fechas": "Noviembre",
+        "instrumentos": "Actas de reuniones "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779713466505": {
+        "fecha": "2026-04-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Instrumento institucional de análisis por docentes de resultados DIA",
+        "acuerdos": "PRÓXIMA VISITA DOCENTES PENDIENTES DEBEN COMPLETAR INFORMACIÓN"
+      },
+      "action-1779714235637": {
+        "fecha": "2026-04-30",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se acuerda realizar un taller orientado al desarrollo de habilidades de escritura durante la segunda mitad de septiembre, complementándolo con el acompañamiento de la asesora al aula para observar las estrategias de retroalimentación implementadas. Asimismo, se establece cargar los medios de verificación en Drive y desarrollar el modelamiento de prácticas pedagógicas exitosas durante la jornada de reflexión docente programada para el 23 de septiembre.",
+        "acuerdos": "Se cargaran medios de verificación al drive, de aqui a fin de mes. Con adecuaciones o estrategias que den cuenta de retroalimentación de la escritura"
+      },
+      "action-1779714412293": {
+        "fecha": "2026-04-30",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se avanza en la elaboración de un instrumento institucional para el análisis de los resultados del DIA, que permite a los docentes revisar información sobre los aprendizajes y reflexionar respecto de las habilidades que requieren mayor fortalecimiento. Asimismo, se inicia el rediseño de estrategias de aula para el primer ciclo, incorporando actividades de análisis de textos y acciones orientadas a mejorar la retroalimentación de la escritura. En el ámbito del acompañamiento docente, se identifica la necesidad de contar con una pauta que permita focalizar la observación y retroalimentación de las prácticas pedagógicas.",
+        "acuerdos": "Se establece que los docentes que mantienen información pendiente deberán completar el instrumento institucional de análisis de resultados. Asimismo, se acuerda cargar en Drive los medios de verificación correspondientes a las estrategias diseñadas, incorporando adecuaciones y acciones que evidencien la retroalimentación de la escritura. Se proyecta, además, elaborar una pauta de acompañamiento al aula que permita orientar el seguimiento de la mediación pedagógica."
+      },
+      "action-1779714925065": {
+        "fecha": "2026-04-30",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": "Hito y analisis de dia intermedio en el instrumento de analisis"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1779713466505": {
+        "fecha": "2026-04-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Instrumento institucional de análisis por docentes de resultados DIA",
+        "acuerdos": "PRÓXIMA VISITA DOCENTES PENDIENTES DEBEN COMPLETAR INFORMACIÓN"
+      },
+      "action-1779714235637": {
+        "fecha": "2026-09-02",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en el diseño y desarrollo de estrategias diversificadas para fortalecer la comprensión lectora, particularmente mediante la incorporación de actividades de análisis de textos en las planificaciones docentes. Se destaca la realización de un taller con profesores y la retroalimentación de evaluaciones durante las clases. Asimismo, se han desarrollado instancias de acompañamiento en planificación, revisión de instrumentos evaluativos y observación de aula, favoreciendo la reflexión sobre las prácticas pedagógicas. En relación con el seguimiento de los aprendizajes, se reconoce la revisión periódica de resultados de distintas evaluaciones y la elaboración de una planilla Excel que permite a los docentes analizar su información y establecer compromisos de mejora.",
+        "acuerdos": "Modelamiento de prácticas exitosas en jornada de reflexión del miércoles 23. \nSe acuerda realizar un taller orientado al desarrollo de habilidades de escritura durante la segunda mitad de septiembre, complementándolo con el acompañamiento de la asesora al aula para observar las estrategias de retroalimentación implementadas. Asimismo, se establece cargar los medios de verificación en Drive y desarrollar el modelamiento de prácticas pedagógicas exitosas durante la jornada de reflexión docente programada para el 23 de septiembre."
+      },
+      "action-1779714412293": {
+        "fecha": "2026-09-02",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrollan las instancias de acompañamiento técnico-pedagógico planificadas, abordando la planificación de la enseñanza, la elaboración de instrumentos de evaluación y el acompañamiento al aula. Estas acciones han permitido fortalecer el trabajo docente y avanzar en la articulación entre las estrategias de enseñanza, la evaluación de los aprendizajes y la retroalimentación pedagógica.",
+        "acuerdos": "Realizar el taller de desarrollo de habilidades de escritura, pendiente de ejecución, durante la segunda quincena de septiembre.\n\n\nCoordinar una nueva instancia de acompañamiento al aula por parte de la asesora ATP, con foco en observar y retroalimentar las estrategias de mediación pedagógica utilizadas por los docentes para entregar retroalimentación a los estudiantes, especialmente en los procesos de producción escrita."
+      },
+      "action-1779714925065": {
+        "fecha": "2026-09-02",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ha ido revisando periódicamente resultados de distintos tipos de evaluaciones para reflexionar \nSe creo planilla excel para que cada profesor realizara su propio analisis y establezca compromisos ",
+        "acuerdos": "Subir medios de verificacion al DRIVE."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1779713466505": {
+        "fecha": "2026-04-30",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Instrumento institucional de análisis por docentes de resultados DIA",
+        "acuerdos": "PRÓXIMA VISITA DOCENTES PENDIENTES DEBEN COMPLETAR INFORMACIÓN"
+      },
+      "action-1779714412293": {
+        "fecha": "2026-09-02",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se desarrollan las instancias de acompañamiento técnico-pedagógico planificadas, abordando la planificación de la enseñanza, la elaboración de instrumentos de evaluación y el acompañamiento al aula. Estas acciones han permitido fortalecer el trabajo docente y avanzar en la articulación entre las estrategias de enseñanza, la evaluación de los aprendizajes y la retroalimentación pedagógica.",
+        "acuerdos": "Realizar el taller de desarrollo de habilidades de escritura, pendiente de ejecución, durante la segunda quincena de septiembre.\n\n\nCoordinar una nueva instancia de acompañamiento al aula por parte de la asesora ATP, con foco en observar y retroalimentar las estrategias de mediación pedagógica utilizadas por los docentes para entregar retroalimentación a los estudiantes, especialmente en los procesos de producción escrita."
+      },
+      "action-1779714235637": {
+        "fecha": "2026-09-02",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en el diseño y desarrollo de estrategias diversificadas para fortalecer la comprensión lectora, particularmente mediante la incorporación de actividades de análisis de textos en las planificaciones docentes. Se destaca la realización de un taller con profesores y la retroalimentación de evaluaciones durante las clases. Asimismo, se han desarrollado instancias de acompañamiento en planificación, revisión de instrumentos evaluativos y observación de aula, favoreciendo la reflexión sobre las prácticas pedagógicas. En relación con el seguimiento de los aprendizajes, se reconoce la revisión periódica de resultados de distintas evaluaciones y la elaboración de una planilla Excel que permite a los docentes analizar su información y establecer compromisos de mejora.",
+        "acuerdos": "Modelamiento de prácticas exitosas en jornada de reflexión del miércoles 23. \nSe acuerda realizar un taller orientado al desarrollo de habilidades de escritura durante la segunda mitad de septiembre, complementándolo con el acompañamiento de la asesora al aula para observar las estrategias de retroalimentación implementadas. Asimismo, se establece cargar los medios de verificación en Drive y desarrollar el modelamiento de prácticas pedagógicas exitosas durante la jornada de reflexión docente programada para el 23 de septiembre."
+      },
+      "action-1779714925065": {
+        "fecha": "",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ha ido revisando periódicamente resultados de distintos tipos de evaluaciones para reflexionar \nSe creo planilla excel para que cada profesor realizara su propio analisis y establezca compromisos ",
+        "acuerdos": "Subir medios de verificacion al DRIVE."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-02T18:40:18.866Z"
+}
