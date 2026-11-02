@@ -1,0 +1,156 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El equipo de aula de 3° y 4° básico implementa estrategias pedagógicas propias y asiladas entre estos niveles, lo que dificulta la continuidad de los procesos y debilita la efectividad de la enseñanza para asegurar el logro de los Objetivos de Aprendizaje en las asignaturas de Lenguaje y Matemática.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Afianzar el desarrollo de habilidades cognitivas de nivel superior en los estudiantes, mediante la articulación pedagógica institucional y la implementación de estrategias didácticas coherentes con el currículum, que promuevan aprendizajes profundos y significativos.",
+    "estrategiaAnualPME": "Consolidar la implementación de estrategias didácticas orientadas al desarrollo de habilidades superiores mediante el acompañamiento pedagógico, el trabajo colaborativo docente y el análisis sistemático de evidencias de aprendizaje",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo de aula de 3° y 4° básico ejecuta un diseño pedagógico articulado y secuencial, aplicando estrategias efectivas que garantizan una trayectoria de aprendizaje coherente y sprofundo de los Objetivos de Aprendizaje en Lenguaje y Matemática",
+    "actions": [
+      {
+        "id": "action-1779717755096",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Analizar la coherencia técnica entre las planificaciones y las prácticas de aula de 3° y 4° básico, mediante el cruce de resultados DIA y evaluaciones internas.",
+        "responsables": "Equipo directivo",
+        "fechas": "Abril",
+        "instrumentos": "Presentación de resultados "
+      },
+      {
+        "id": "action-1779717903516",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Diseñar una ruta de trabajo articulada (orientaciones/plan) que defina criterios metodológicos comunes y secuencias didácticas compartidas, con el fin de asegurar que la enseñanza en ambos niveles responda a una trayectoria lógica y continua hacia el logro de los Objetivos de Aprendizaje.",
+        "responsables": "Coordinación pedagógica (utp+pie)",
+        "fechas": "Mayo",
+        "instrumentos": "Planificaciones (muestra)"
+      },
+      {
+        "id": "action-1779718018366",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Ejecutar experiencias de aprendizaje basadas en el diseño articulado, utilizando el acompañamiento entre pares y el modelamiento en aula para asegurar que las estrategias acordadas se apliquen de manera efectiva y consistente frente a los estudiantes",
+        "responsables": "Jefa de UTP",
+        "fechas": "Mayo-Octubre",
+        "instrumentos": "Pautas de acompañamiento y retroalimentación"
+      },
+      {
+        "id": "action-1779718325989",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Evaluar la efectividad del plan de mejora mediante un análisis comparativo que contraste los resultados de aprendizaje finales con la línea base establecida en el diagnóstico, evaluando la coherencia entre lo planificado y lo efectivamente implementado en aula. Esta etapa busca verificar si la articulación del equipo y la unificación de estrategias lograron revertir la fragmentación detectada, utilizando como evidencia el logro de los Objetivos de Aprendizaje, los registros de acompañamiento docente y la continuidad observada en la trayectoria educativa de los estudiantes de 3° y 4° básico.",
+        "responsables": "Equipo Directivo",
+        "fechas": "Noviembre",
+        "instrumentos": "Presentación de monitoreo y resultados"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779717755096": {
+        "fecha": "",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante este proceso se reconoce que el análisis no debe limitarse a la revisión de resultados de aprendizaje, sino que debe permitir establecer relaciones entre lo que se declara en las planificaciones y las estrategias que efectivamente se desarrollan en el aula. Esta distinción permite orientar el diagnóstico hacia la identificación de brechas en la articulación pedagógica entre ambos niveles.",
+        "acuerdos": "Se va a rabajar solo con resultados dia y no matriz"
+      },
+      "action-1779717903516": {
+        "fecha": "",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Antes no habia coherencia entre lo declarado y lo implementado ahora si. Tampoco habia coherencia entre niveles. Se inenciona a nivel de establecimiento para que trabaje tercero y cuarto básico juntos.\nNo habia uso de estrategias diversificadas, ahora se esta trabajando .\nNo habia segunimiento y/ o monitoreo. tampoco acompañamiento a la labor docente.",
+        "acuerdos": "Diseño de secuencias didócticas y criterios de evaluación y calendarizar hitos de monitoreo.\nMiÉrcoles 11:30 reuniÓ\nn de EQUIPO DE AULA.\n"
+      },
+      "action-1779718018366": {
+        "fecha": "2026-10-30",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "ANTICIPAR QUE EXISTE NECESIDAD D ECOCALIZAR PAUTA DE ACOMPAÑAMIENTO\nDEFINCION DE ACOMPAÑAMIENTOS",
+        "acuerdos": "EN UN MES MAS SE RELIZARÁ VISITA DE ACOMPAÑAMIENTO (ENTRE PARES, ASESORA, COORDINADORA PIE) "
+      },
+      "action-1779718325989": {
+        "fecha": "",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se focaliza en tener mas medios ",
+        "acuerdos": "Definir hito de evaluación intermedio (DIA intermedio) para tener insumos de análisis"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1779717755096": {
+        "fecha": "",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante este proceso se reconoce que el análisis no debe limitarse a la revisión de resultados de aprendizaje, sino que debe permitir establecer relaciones entre lo que se declara en las planificaciones y las estrategias que efectivamente se desarrollan en el aula. Esta distinción permite orientar el diagnóstico hacia la identificación de brechas en la articulación pedagógica entre ambos niveles.",
+        "acuerdos": "Se va a rabajar solo con resultados dia y no matriz"
+      },
+      "action-1779717903516": {
+        "fecha": "2026-09-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 100% de ejecución en el diseño de la ruta de trabajo articulada, incorporando los ajustes y orientaciones definidos durante el proceso de reflexión del equipo. Se destaca la elaboración de una propuesta que establece criterios metodológicos compartidos y orientaciones para el desarrollo de experiencias de aprendizaje en 3° y 4° básico. Este avance permite superar la etapa inicial de identificación de brechas y avanzar hacia una organización pedagógica más coherente, favoreciendo la continuidad curricular y el trabajo colaborativo entre los equipos de aula. La ruta constituye un referente común para orientar la enseñanza y fortalecer la articulación entre ambos niveles.\n\n",
+        "acuerdos": "Se establece mantener la ruta de trabajo como instrumento orientador de la planificación y ejecución de las experiencias de aprendizaje. Asimismo, se acuerda que cualquier modificación o ajuste que surja durante su implementación deberá quedar registrado como observación en la carpeta compartida de Drive, resguardando la trazabilidad de las decisiones y los acuerdos adoptados."
+      },
+      "action-1779718018366": {
+        "fecha": "2026-09-03",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante este periodo se observa que el establecimiento ha avanzado en la organización de las instancias de acompañamiento y retroalimentación docente, definiendo un enfoque centrado en la participación y colaboración entre profesionales. Si bien aún no se concreta el acompañamiento entre pares ni el modelamiento en aula, se reconoce como avance la definición de una modalidad de trabajo que busca favorecer la observación de las prácticas, el intercambio de estrategias y la retroalimentación como mecanismos para fortalecer la implementación de la ruta articulada.",
+        "acuerdos": "Se acuerda avanzar en la concreción de las instancias de acompañamiento entre pares y modelamiento en aula, utilizando el enfoque de acompañamiento y retroalimentación definido por el establecimiento. Asimismo, se establece revisar los resultados de las evaluaciones internas de la escuela para complementar la información del DIA y utilizar estos antecedentes en el ajuste de las experiencias de aprendizaje.\n"
+      },
+      "action-1779718325989": {
+        "fecha": "2026-09-03",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se cuenta con diversos insumos para el análisis",
+        "acuerdos": "Se revisaran datos internos (evaluaciones internas de la escuela)."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1779717755096": {
+        "fecha": "",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante este proceso se reconoce que el análisis no debe limitarse a la revisión de resultados de aprendizaje, sino que debe permitir establecer relaciones entre lo que se declara en las planificaciones y las estrategias que efectivamente se desarrollan en el aula. Esta distinción permite orientar el diagnóstico hacia la identificación de brechas en la articulación pedagógica entre ambos niveles.",
+        "acuerdos": "Se va a rabajar solo con resultados dia y no matriz"
+      },
+      "action-1779717903516": {
+        "fecha": "2026-09-03",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 100% de ejecución en el diseño de la ruta de trabajo articulada, incorporando los ajustes y orientaciones definidos durante el proceso de reflexión del equipo. Se destaca la elaboración de una propuesta que establece criterios metodológicos compartidos y orientaciones para el desarrollo de experiencias de aprendizaje en 3° y 4° básico. Este avance permite superar la etapa inicial de identificación de brechas y avanzar hacia una organización pedagógica más coherente, favoreciendo la continuidad curricular y el trabajo colaborativo entre los equipos de aula. La ruta constituye un referente común para orientar la enseñanza y fortalecer la articulación entre ambos niveles.\n\n",
+        "acuerdos": "Se establece mantener la ruta de trabajo como instrumento orientador de la planificación y ejecución de las experiencias de aprendizaje. Asimismo, se acuerda que cualquier modificación o ajuste que surja durante su implementación deberá quedar registrado como observación en la carpeta compartida de Drive, resguardando la trazabilidad de las decisiones y los acuerdos adoptados."
+      },
+      "action-1779718018366": {
+        "fecha": "2026-10-26",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 99% de avance en la implementación de las experiencias de aprendizaje articuladas. Se observa la incorporación de estrategias pedagógicas en ambos cursos y un avance significativo en la colaboración entre los docentes, quienes han desarrollado un trabajo de carácter complementario, intercambiando estrategias y mostrando una disposición favorable a recibir sugerencias y retroalimentación. Este proceso evidencia un cambio respecto de la problemática inicial, caracterizada por prácticas aisladas entre ambos niveles, avanzando hacia una mayor articulación y corresponsabilidad en el desarrollo de las experiencias de aprendizaje. Se destaca especialmente la apertura del equipo docente para compartir sus prácticas y construir respuestas pedagógicas de manera conjunta.",
+        "acuerdos": "Se establece fortalecer la retroalimentación docente, procurando que esta se realice oportunamente y en relación directa con las experiencias desarrolladas en el aula. Asimismo, se acuerda ampliar progresivamente la estrategia a más de un Objetivo de Aprendizaje, proyectar su incorporación a otras asignaturas y extender la experiencia a otros niveles educativos. Finalmente, se plantea como desafío institucional que la articulación pedagógica deje de constituir una acción puntual del proceso de implementación y se consolide como una práctica permanente de trabajo colaborativo para el siguiente año."
+      },
+      "action-1779718325989": {
+        "fecha": "2026-10-26",
+        "avance": 49,
+        "justificacion": "",
+        "logros": "Durante el desarrollo de la etapa de implementación se ha realizado un monitoreo sistemático de las acciones comprometidas, mediante instancias de seguimiento, revisión de evidencias y análisis conjunto con el equipo directivo y técnico-pedagógico. Este proceso ha permitido identificar oportunamente avances, dificultades y aspectos que requerían ajustes, adoptando decisiones pertinentes para favorecer el cumplimiento de los objetivos propuestos. Entre los principales ajustes se reconoce la adecuación de la ruta de trabajo articulada, la revisión de los mecanismos de acompañamiento y retroalimentación docente y la reorganización de algunas acciones para responder a las condiciones y necesidades del establecimiento. De esta manera, el monitoreo ha cumplido una función formativa, permitiendo orientar la implementación, fortalecer la corresponsabilidad de los equipos y resguardar la coherencia entre el diagnóstico, la planificación y las prácticas pedagógicas desarrolladas en el aula.",
+        "acuerdos": "Se acuerda mantener el monitoreo sistemático de las acciones comprometidas, mediante la revisión periódica de los avances, el análisis de los medios de verificación y la retroalimentación con los equipos responsables. Asimismo, se establece que los ajustes identificados durante el proceso deberán ser incorporados oportunamente en la planificación y ejecución de las estrategias, dejando registro de las modificaciones y los acuerdos adoptados. Finalmente, se compromete evaluar la pertinencia de las acciones implementadas a partir de las evidencias de aprendizaje y las observaciones de aula, con el propósito de fortalecer la continuidad del trabajo articulado y proyectar nuevas oportunidades de mejora para el siguiente ciclo."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-02T21:26:46.071Z"
+}
