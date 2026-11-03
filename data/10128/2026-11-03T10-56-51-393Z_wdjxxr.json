@@ -1,0 +1,127 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo pedagógico utiliza las horas no lectivas con limitada intencionalidad pedagógica y escasa articulación colaborativa, predominando acciones administrativas y prácticas poco sistemáticas, lo que restringe la apropiación curricular y la implementación de metodologías activas orientadas al aprendizaje profundo y al desarrollo progresivo de habilidades en los estudiantes de EPJA.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Consolidar las oportunidades de aprendizaje significativo y profundo a través del trabajo interdisciplinarios y colaborativo entre los distintos departamentos para asegurar las trayectorias educativas",
+    "estrategiaAnualPME": "Instancias de trabajo docente interdisciplinario mediante comunidades de aprendizaje que fortalezcan las prácticas pedagógicas centradas en resguardar las trayectorias educativas.",
+    "estandarIndicativo": "5.1 Los docentes centran sus clases en los Objetivos de Aprendizaje estipulados en las Bases Curriculares, con un manejo riguroso de las habilidades, contenidos y actitudes a desarrollar.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo pedagógico utiliza las horas no lectivas de manera articulada y con intencionalidad pedagógica, promoviendo espacios sistemáticos de reflexión profesional, apropiación de las Bases Curriculares de EPJA e implementación de metodologías activas orientadas al aprendizaje profundo y al desarrollo progresivo de habilidades en los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1782336056871",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar talleres de trabajo pedagógico dirigidos al equipo docente de EPJA, orientados a fortalecer la apropiación curricular, el análisis de los Objetivos de Aprendizaje y el diseño de experiencias educativas contextualizadas. Estas instancias promoverán el uso intencionado de las horas no lectivas para la planificación colaborativa y la incorporación de metodologías activas.",
+        "responsables": "Directora - jefa técnica",
+        "fechas": "Primer  y segundo semestre",
+        "instrumentos": "Cronograma- informe de avance- Informe de Impacto"
+      },
+      {
+        "id": "action-1782336297018",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Proceso de acompañamiento y seguimiento al equipo pedagógico para fortalecer el uso intencionado de las horas no lectivas, promoviendo la planificación colaborativa, el análisis curricular y la evaluación de las estrategias implementadas. A través de reuniones de seguimiento y retroalimentación, se favorecerá la instalación de prácticas sistemáticas orientadas a la mejora de la enseñanza y al desarrollo progresivo de habilidades en los estudiantes de EPJA.",
+        "responsables": "Directora- Jefa técnica- Asesora.",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma- informe de avance- Informe de Impacto"
+      },
+      {
+        "id": "action-1782336479973",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Espacios sistemáticos de trabajo colaborativo durante las horas no lectivas, destinados al análisis de prácticas pedagógicas, intercambio de experiencias, revisión de evidencias de aprendizaje y construcción de acuerdos metodológicos. Esta acción busca fortalecer la reflexión profesional, la articulación entre docentes y la implementación de estrategias de enseñanza coherentes con las necesidades y características de los estudiantes de EPJA.",
+        "responsables": "Jefa Técnica - Directora",
+        "fechas": "Segundo semestre",
+        "instrumentos": "Cronograma- Informe de avance- Informe de Impacto"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1782336056871": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "La implementación de los talleres de trabajo pedagógico ha favorecido el fortalecimiento de la reflexión docente respecto de la importancia de diversificar y enriquecer las prácticas de enseñanza, considerando las características, necesidades y trayectorias educativas de los y las estudiantes de EPJA. Estas instancias han promovido una mayor toma de conciencia sobre la relevancia de desarrollar estrategias pedagógicas inclusivas, contextualizadas y pertinentes, orientadas a favorecer aprendizajes significativos. Asimismo, se ha generado una disposición inicial hacia la revisión de las prácticas educativas y la incorporación de metodologías que contribuyan a mejorar los procesos de enseñanza-aprendizaje.",
+        "acuerdos": "Se acuerda dar continuidad a la programación e implementación de los talleres de trabajo pedagógico durante el segundo semestre, resguardando su desarrollo sistemático y la pertinencia de los contenidos abordados. Asimismo, se promoverá la participación activa de los docentes en instancias de reflexión y análisis curricular, orientadas a fortalecer la diversificación de las prácticas pedagógicas y el diseño de experiencias de aprendizaje contextualizadas, en coherencia con las necesidades de los y las estudiantes de EPJA."
+      },
+      "action-1782336297018": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Durante la jornada de trabajo, se desarrolló un análisis colaborativo junto a los equipos docentes respecto de los procesos de acompañamiento y seguimiento pedagógico, identificando como focos prioritarios el uso efectivo del tiempo destinado al aprendizaje, la diversificación de las estrategias de enseñanza y la apropiación del Enfoque Docente. Esta instancia favoreció la reflexión profesional sobre las prácticas pedagógicas y la identificación de oportunidades de mejora, relevando la importancia de utilizar intencionadamente las horas no lectivas para fortalecer la planificación colaborativa, el análisis curricular y la evaluación de las estrategias implementadas. Lo anterior, con el propósito de avanzar hacia prácticas de enseñanza más pertinentes y promover el desarrollo de aprendizajes profundos en los y las estudiantes",
+        "acuerdos": "Se continuará con los procesos de acompañamiento y seguimiento pedagógico según lo programado con la plataforma enfoque docente, utilizándola como herramienta para orientar la observación de aula, promover la reflexión sobre las prácticas de enseñanza y favorecer la retroalimentación formativa. Asimismo, se fortalecerá el uso de evidencias para identificar oportunidades de mejora y establecer compromisos pedagógicos, resguardando la utilización intencionada de las horas no lectivas para la planificación colaborativa y el seguimiento de las estrategias implementadas."
+      },
+      "action-1782336479973": {
+        "fecha": "2026-07-27",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Los/as  docentes utilizan de forma sistemática las horas no lectivas para el trabajo colaborativo por departamentos, fortaleciendo la coordinación pedagógica y la mejora continua de las prácticas de enseñanza.",
+        "acuerdos": "Se acuerda dar continuidad al trabajo colaborativo por departamentos durante las horas no lectivas, fortaleciendo la planificación conjunta, el análisis de evidencias de aprendizaje y el seguimiento de los acuerdos pedagógicos definidos."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1782336056871": {
+        "fecha": "2026-09-24",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en el desarrollo de los talleres de trabajo pedagógico, los cuales han permitido profundizar en la reflexión sobre la apropiación curricular y la importancia de contextualizar los Objetivos de Aprendizaje a las características y necesidades de los y las estudiantes de EPJA. Asimismo, se han fortalecido las instancias de intercambio y colaboración entre docentes, promoviendo el análisis de estrategias de enseñanza y la identificación de metodologías activas que contribuyan a enriquecer las experiencias educativas. Estos espacios han favorecido una mayor intencionalidad en la planificación pedagógica, reconociendo el uso de las horas no lectivas como una oportunidad para articular el trabajo docente y avanzar hacia prácticas de enseñanza más pertinentes e inclusivas.",
+        "acuerdos": "Se continuará reforzando el trabajo colaborativo, el desarrollo de los talleres pedagógicos según lo programado, fortaleciendo el análisis curricular y la revisión de los Objetivos de Aprendizaje, con foco en el diseño colaborativo de experiencias educativas contextualizadas para EPJA. Asimismo, se promoverá el uso sistemático de las horas no lectivas para la planificación conjunta y la incorporación de metodologías activas, favoreciendo la articulación entre docentes y la diversificación de las estrategias de enseñanza, en función de las características y trayectorias educativas de los y las estudiantes."
+      },
+      "action-1782336297018": {
+        "fecha": "2026-09-24",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en el proceso de acompañamiento y seguimiento al equipo pedagógico, fortaleciendo las instancias de reflexión docente en torno al uso intencionado de las horas no lectivas y su contribución a la mejora de las prácticas de enseñanza. Asimismo, se ha avanzado en la incorporación de la plataforma Enfoque Docente como referente para orientar los procesos de observación, retroalimentación y análisis de las prácticas pedagógicas, favoreciendo la identificación de fortalezas y oportunidades de mejora. Estas instancias han promovido una mayor reflexión sobre la planificación colaborativa, la diversificación de estrategias metodológicas y el uso efectivo del tiempo de aprendizaje, contribuyendo a una mayor intencionalidad pedagógica en el desarrollo de habilidades de los y las estudiantes",
+        "acuerdos": "El equipo continuará los procesos de acompañamiento pedagógico, fortaleciendo los procesos de retroalimentación formativa y la definición de compromisos de mejora. Asimismo, se resguardarán espacios de trabajo colaborativo durante las horas no lectivas, destinados al análisis curricular, la planificación conjunta y la revisión de evidencias de aprendizaje, con el propósito de ajustar las estrategias de enseñanza y favorecer el desarrollo progresivo de habilidades en los y las estudiantes de"
+      },
+      "action-1782336479973": {
+        "fecha": "2026-09-24",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1782336056871": {
+        "fecha": "2026-10-29",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en la sistematización de los talleres de trabajo pedagógico como espacios de reflexión, colaboración y fortalecimiento de las capacidades docentes y profesionales con toda la comunidad. A partir de estas instancias, se ha favorecido una mayor articulación entre la apropiación curricular, el análisis de los Objetivos de Aprendizaje y el diseño de experiencias educativas contextualizadas, promoviendo la incorporación progresiva de metodologías activas y estrategias diversificadas en las prácticas de enseñanza. Asimismo, se ha relevado la importancia del trabajo colaborativo durante las horas no lectivas, contribuyendo a una mayor coherencia en la planificación pedagógica y a la generación de oportunidades de aprendizaje pertinentes, inclusivas y significativas para los y las estudiantes.",
+        "acuerdos": "El equipo continuará realizando los talleres de trabajo pedagógico como instancias sistemáticas de desarrollo profesional docente, fortaleciendo la planificación colaborativa, la contextualización curricular y la incorporación de metodologías activas en las prácticas de enseñanza Asimismo, se promoverá el seguimiento y la reflexión sobre las estrategias implementadas, mediante el análisis de evidencias de aprendizaje y el intercambio de experiencias pedagógicas, con el propósito de evaluar su pertinencia, realizar los ajustes necesarios y favorecer la progresión de los aprendizajes, considerando las características y trayectorias educativas de los y las estudiantes."
+      },
+      "action-1782336297018": {
+        "fecha": "2026-10-29",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en la sistematización de los procesos de acompañamiento y seguimiento pedagógico como instancias de fortalecimiento de las capacidades profesionales del equipo docente de EPJA. Se ha favorecido una mayor articulación entre la planificación colaborativa, el análisis curricular y la reflexión sobre las estrategias de enseñanza implementadas, relevando el uso intencionado de las horas no lectivas como una oportunidad para la mejora continua. Asimismo, los procesos de observación y retroalimentación pedagógica han contribuido a promover una mirada más sistemática sobre las prácticas de aula, considerando el uso efectivo del tiempo de aprendizaje, la diversificación metodológica y el desarrollo de habilidades. Estos avances permiten fortalecer la toma de decisiones pedagógicas fundamentadas y orientar las prácticas hacia la promoción de aprendizajes profundos y significativos.",
+        "acuerdos": "Se continuará el análisis sistemático de evidencias de aprendizaje y la evaluación de las estrategias implementadas, resguardando el uso efectivo de las horas no lectivas para establecer ajustes y compromisos pedagógicos. Lo anterior, con el propósito de fortalecer la autonomía y las capacidades profesionales del equipo docente, el trabajo colaborativo  favoreciendo el desarrollo progresivo de habilidades y aprendizajes profundos en los y las estudiantes."
+      },
+      "action-1782336479973": {
+        "fecha": "2026-10-29",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-03T10:56:51.394Z"
+}
