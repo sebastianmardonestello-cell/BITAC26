@@ -1,0 +1,127 @@
+{
+  "asesor": "Johana González",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo implementa acciones de apoyo de manera poco sistemática y con limitada articulación para abordar barreras idiomáticas y procesos de revinculación educativa en estudiantes con trayectorias formativas discontinuas, lo que restringe la generación de condiciones inclusivas para la permanencia y el aprendizaje de los estudiantes.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Apoyo al desarrollo de los estudiantes",
+    "objetivoEstrategicoPME": "Incorporar prácticas pedagógicas en los docentes , que los hagan facilitadores del proceso de enseñanza aprendizaje, desarrollando habilidades y competencias en nuestros estudiantes a través de estrategias innovadoras en distintas asignaturas.",
+    "estrategiaAnualPME": "Implementar jornadas de trabajo colaborativo y planificación de estrategias innovadoras de enseñanza aprendizaje que desarrollen habilidades y competencias en nuestros estudiantes.",
+    "estandarIndicativo": "6.1 El equipo técnico-pedagógico y los docentes identifican tempranamente a los estudiantes que presentan vacíos de aprendizaje o necesidades educativas especiales, y articulan los apoyos necesarios.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "5. Enriquecimiento de las propuestas educativas resguardando las trayectorias, con el fin de entregar apoyos pertinentes que faciliten las trayectorias formativas flexibles alineadas a los proyectos de vida de los y las estudiantes.",
+    "practicaDeseada": "El equipo directivo implementa acciones de apoyo articuladas y sistemáticas para abordar barreras idiomáticas y fortalecer los procesos de revinculación educativa de estudiantes con trayectorias formativas discontinuas, promoviendo condiciones inclusivas para la permanencia y el aprendizaje de los estudiantes.",
+    "actions": [
+      {
+        "id": "action-1782334306730",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Desarrollar reuniones periódicas de coordinación entre equipo directivo, docentes, convivencia escolar y profesionales de apoyo, destinadas al análisis de de resultados,  casos, seguimiento de estudiantes con necesidades de revinculación y monitoreo de las acciones implementadas. Estas instancias favorecerán la articulación institucional, la toma de decisiones basada en evidencias y la generación de respuestas oportunas para promover condiciones inclusivas que fortalezcan la permanencia y el aprendizaje de los estudiantes.",
+        "responsables": "Directora- Jefa Técnica- Coordinadora PIE",
+        "fechas": "primer y segundo semestre",
+        "instrumentos": "Cronograma - Informe final"
+      },
+      {
+        "id": "action-1782335158579",
+        "tipoAccion": "Taller",
+        "descripcion": "Desarrollar talleres de formación y trabajo colaborativo con el equipo directivo, docentes y profesionales de apoyo, orientadas a fortalecer estrategias de inclusión y acompañamiento para estudiantes que presentan barreras idiomáticas y acceso. Estas instancias promoverán la implementación de prácticas pedagógicas y de gestión que faciliten la comunicación, participación y acceso al aprendizaje en igualdad de oportunidades.",
+        "responsables": "Directora - jefe técnico",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma -  Informe final"
+      },
+      {
+        "id": "action-1782335310626",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Se desarrolla un proceso sistemático de acompañamiento pedagógico dirigido a los docentes, orientado al fortalecimiento de estrategias de enseñanza inclusivas que consideren las barreras idiomáticas y de acceso  presentes en el aula y favorezcan la participación activa de todos los estudiantes. Asimismo, esta acción busca fortalecer las estrategias de apoyo y revinculación educativa para estudiantes con trayectorias formativas discontinuas, promoviendo condiciones que favorezcan su permanencia, aprendizaje y progresión educativa.",
+        "responsables": "Director- jefe técnico-coordinadora PIE",
+        "fechas": "Segundo Semestre",
+        "instrumentos": "Cronograma - Informe final"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1782334306730": {
+        "fecha": "2026-07-15",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado reuniones de coordinación entre los distintos equipos, permitiendo analizar resultados, revisar casos y realizar seguimiento a estudiantes que requieren acciones de revinculación, fortaleciendo la articulación institucional y la toma de decisiones basada en evidencias.",
+        "acuerdos": "Dar continuidad a las reuniones durante el segundo semestre, calendarizando las instancias de seguimiento y revisión de casos, con foco en evaluar las acciones implementadas y realizar los ajustes necesarios para favorecer la permanencia y el aprendizaje de los estudiantes."
+      },
+      "action-1782335158579": {
+        "fecha": "2026-07-15",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado talleres de formación y trabajo colaborativo, reflexionar sobre las prácticas implementadas y promover estrategias que favorezcan la comunicación, participación y acceso al aprendizaje de los estudiantes.",
+        "acuerdos": "Dar continuidad a estas instancias durante el segundo semestre, fortaleciendo el seguimiento de las estrategias implementadas y promoviendo su incorporación en las prácticas pedagógicas y de gestión para avanzar hacia una respuesta educativa más inclusiva."
+      },
+      "action-1782335310626": {
+        "fecha": "2026-07-15",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ha avanzado en el acompañamiento pedagógico a docentes, fortaleciendo estrategias inclusivas que favorecen la participación y el acceso al aprendizaje, considerando barreras idiomáticas y de acceso. Asimismo, se han abordado estrategias de apoyo y revinculación para estudiantes con trayectorias formativas discontinuas.",
+        "acuerdos": "Dar continuidad al acompañamiento durante el semestre, realizando seguimiento y ajustes a las estrategias implementadas, con foco en favorecer la participación, permanencia y aprendizaje de los estudiantes."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1782334306730": {
+        "fecha": "2026-10-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se están  desarrollado las reuniones  de trabajo según lo planificado y las tres jornadas de análisis de resultados, incorporando estadísticas de asistencia y antecedentes de convivencia escolar. Estas instancias han permitido promover la reflexión y el análisis de información, con foco en fortalecer las estrategias de permanencia y revinculación de los y las estudiantes, relevando el rol del profesor jefe articulado con el equipo de Convivencia Escolar desde el acompañamiento y seguimiento de las trayectorias educativas.",
+        "acuerdos": "Se acuerda continuar con la revisión y el análisis individualizado de cada caso, mediante acompañamientos a los y las estudiantes y la implementación de planes de apoyo pertinentes a sus necesidades, tanto psicosociales como académicas. Asimismo, se realizará un seguimiento sistemático de las acciones implementadas, con el propósito de evaluar sus avances y brindar respuestas oportunas que favorezcan su permanencia y trayectoria educativa."
+      },
+      "action-1782335158579": {
+        "fecha": "2026-10-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han implementado diversos talleres orientados al desarrollo integral de los y las estudiantes, abordando temáticas como autocuidado, vinculación e interacción, participación, habilidades sociales básicas, resolución de problemas y manejo de conflictos. Estas acciones buscan fortalecer sus habilidades socioemocionales y promover una convivencia escolar positiva.",
+        "acuerdos": "Se acuerda dar continuidad a la implementación de talleres con énfasis en el fortalecimiento de las habilidades socioemocionales. Asimismo, se promoverá la coordinación entre los equipos de Convivencia Escolar, docentes y profesionales de apoyo, realizando un seguimiento sistemático de la participación y los avances de los estudiantes, con el propósito de evaluar la efectividad de las acciones, realizar los ajustes pertinentes y favorecer su bienestar integral y permanencia educativa."
+      },
+      "action-1782335310626": {
+        "fecha": "2026-10-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han desarrollado satisfactoriamente los consejos de aula y se han fortalecido las instancias de acompañamiento pedagógico, favoreciendo el trabajo colaborativo entre los docentes y los educadores diferenciales. Asimismo, a partir de los acompañamientos realizados, se ha evidenciado la incorporación de instrumentos de evaluación diversificados, orientados a responder a las distintas necesidades y características de aprendizaje de los y las estudiantes",
+        "acuerdos": "Se acuerda dar continuidad a los consejos de aula y fortalecer las instancias de acompañamiento y trabajo colaborativo entre docentes y educadores diferenciales, promoviendo la planificación conjunta, la diversificación de estrategias e instrumentos de evaluación y el seguimiento de su implementación, con el propósito de favorecer la inclusión y responder de manera pertinente a la diversidad de necesidades de aprendizaje de los y las estudiantes."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1782334306730": {
+        "fecha": "2026-10-29",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": "Se ha logrado  que los equipos entiendan que cada estudiante necesita apoyos específicos y la toma de decisiones según el contexto y los ajustes pertinentes que requiera el estudiante. "
+      },
+      "action-1782335158579": {
+        "fecha": "2026-10-29",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realizaron los talleres programados en DUA, Barreras de Aprendizajes, Neurociencias, Manejo de habilidades socioemocionales, resolución pacífica de conflicto, ",
+        "acuerdos": "Continuarán realizando los talleres según calendario establecido"
+      },
+      "action-1782335310626": {
+        "fecha": "2026-10-29",
+        "avance": 74,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se han realizado los acompañamientos de manera exitosa y la periodicidad se ha realizado según las oportunidades de mejora de cada docente, en los distintos niveles, con foco en la mejora de las interacciones pedagógicas y la retroalimentación de las practicas pedagógicas y el cumplimiento de los acuerdos y la sistematización de mejora.",
+        "acuerdos": "se deben terminar los acompañamiento  según los calendarios."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-03T12:15:01.359Z"
+}
