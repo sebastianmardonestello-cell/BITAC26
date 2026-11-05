@@ -1,0 +1,156 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "El Equipo pedagógico del primer ciclo básico implementa actividades de enseñanza que priorizan la repetición mecánica y la memorización, lo que no asegura la comprensión de los procedimientos y el pensamiento lógico  matemático",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Profundizar competencias didácticas de los docentes para lograr efectivamente el desarrollo de habilidades intelectuales superiores en los estudiantes, en el marco del modelo pedagógico institucional indagativo-constructivo, a través de la generación de actividades que favorezcan a autonomía y el protaganismo de los y las estudiantes en a construcción de sus aprendizajes.",
+    "estrategiaAnualPME": "Consolidar el uso de estrategias pedagógicas orientadas al desarrollo de habilidades superiores, de análisis y reflexión, ajustadas a las necesidades educativas de la diversidad de estudiantes.",
+    "estandarIndicativo": "5.2 Los docentes usan estrategias efectivas de enseñanza-aprendizaje para el logro de los Objetivos de Aprendizaje.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo pedagógico del primer ciclo asegura la comprensión y el aprendizaje profundo de los procedimientos y el razonamiento matemático en sus estudiantes. Para ello, prioriza la construcción de sentido y la lógica de los procedimientos, garantizando que el pensamiento matemático se sustente en procesos reflexivos.",
+    "actions": [
+      {
+        "id": "action-1781110981635",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "DIAGNOSTICO:\nAnalizar los resultados DIA y SIMCE 2025, junto con los reportes de evaluaciones internas, para identificar brechas en el desarrollo del pensamiento matemático. (El cruce de estos datos permitió correlacionar el bajo desempeño en resolución de problemas con la prevalencia de una enseñanza mecánica. Esta evidencia estadística estableció la línea base para priorizar el enfoque COPISI como estrategia de mejora).\nAnálisis de objetivos de aprendizaje por curso. \n",
+        "responsables": "Equipo directivo",
+        "fechas": "Marzo-Abril",
+        "instrumentos": "PPT Y MATERIAL USADO EN JORNADA DE ANALISIS"
+      },
+      {
+        "id": "action-1782159198885",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Diseñar una ruta pedagógica basada en el método COPISI, integrando el uso de material concreto y pictórico en las planificaciones de aula. Esta articulación se realizará mediante talleres de co-construcción docente para asegurar que cada procedimiento tenga un sustento lógico, con el fin de garantizar que la enseñanza evolucione desde la base manipulativa hacia el razonamiento profundo",
+        "responsables": "EQUIPO DIRECTIVO",
+        "fechas": "JUNIO",
+        "instrumentos": "DOCUMENTO ORIENTADOR"
+      },
+      {
+        "id": "action-1782159208541",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "IMPLEMENTACIÓN:\nEjecutar experiencias de aprendizaje que aseguren el tránsito desde la manipulación de objetos tangibles hacia la resolución simbólica, realizando acompañamientos en aula para monitorear la mediación docente. \n",
+        "responsables": "EQUIPO DIRECTIVO",
+        "fechas": "JUNIO NOVIEMBRE",
+        "instrumentos": "PAUTA DE ACOMPAÑAMIENTO "
+      },
+      {
+        "id": "action-1782159250284",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "EVALUACION: \nEvaluar el impacto de la estrategia mediante el análisis de evidencias que demuestren la comprensión de los procedimientos y el razonamiento matemático. Esta etapa busca verificar, a través de evaluaciones formativas y de desempeño, que los estudiantes logren explicar la lógica de sus soluciones, reduciendo la ejecución mecánica y constatando que la base cognitiva construida permite abordar desafíos de mayor complejidad técnica.",
+        "responsables": "EQUIPO DIRECTIVO",
+        "fechas": "BIMENSUAL- EV FINALNOVIEMBRE",
+        "instrumentos": "Acta de análisis de procesos y de resultados. FODA"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1782159250284": {
+        "fecha": "2026-07-21",
+        "avance": 24,
+        "justificacion": "El establecimiento consideró que la acción no estaba contribuyendo al objetivo e interrumpió su implementación.",
+        "logros": "Se registra un 24% de avance en esta acción, encontrándose el establecimiento en un proceso de cierre de semestre que ha limitado el desarrollo de las actividades evaluativas previstas. Se reconoce como avance la identificación de la necesidad de establecer mecanismos que permitan evaluar la comprensión de los procedimientos matemáticos y no únicamente la obtención de resultados correctos. Sin embargo, todavía no se dispone de evidencias suficientes para determinar avances en el razonamiento matemático ni en la comprensión profunda de los aprendizajes, dado que la estrategia se encuentra en una fase inicial de implementación.",
+        "acuerdos": "Considerando las licencias médicas de una de las docentes, se acuerda reorganizar las responsabilidades y dar continuidad al proceso mediante el trabajo conjunto con la coordinadora de asignatura y el profesor de Matemática de segundo ciclo. Se establece retomar progresivamente las acciones evaluativas una vez que existan experiencias de aula suficientes, utilizando evaluaciones formativas y evidencias de desempeño para identificar avances en la comprensión y explicación de los procedimientos matemáticos."
+      },
+      "action-1782159198885": {
+        "fecha": "2026-07-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se registra un 49% de avance en el diseño de la ruta pedagógica basada en el método COPISI. Se destaca el intercambio didáctico entre docentes de Matemática, con énfasis en el uso pedagógico del material concreto y en la necesidad de garantizar oportunidades equitativas para acceder a estos recursos. Asimismo, se reconoce como avance la organización de una línea de trabajo coordinada por la responsable de la asignatura, favoreciendo la construcción de criterios compartidos para orientar la enseñanza. Las instancias de reflexión han permitido instalar la necesidad de transitar progresivamente desde experiencias de manipulación concreta hacia representaciones pictóricas y simbólicas, otorgando mayor sentido a los procedimientos matemáticos.\n",
+        "acuerdos": "Realizar una jornada de presentación de la propuesta pedagógica y una instancia de modelamiento del método COPISI, con el propósito de revisar ejemplos y establecer orientaciones para su incorporación en las planificaciones."
+      },
+      "action-1781110981635": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se revisaron los objetivos de aprendizaje con los docentes de Matemática y se generaron espacios de intercambio sobre estrategias de enseñanza, metodologías y prácticas habituales. El análisis permitió reconocer la necesidad de avanzar desde una enseñanza centrada en la repetición hacia el desarrollo del razonamiento lógico-matemático.",
+        "acuerdos": "Complementar el análisis de resultados cuantitativos con información cualitativa, incorporando observaciones de aula, experiencias pedagógicas y evidencias de aprendizaje. Se acuerda triangular estos antecedentes para orientar decisiones pedagógicas pertinentes."
+      },
+      "action-1782159208541": {
+        "fecha": "2026-07-21",
+        "avance": 24,
+        "justificacion": "Ciertas condiciones relacionadas con el tiempo, los recursos humanos y/o materiales o la infraestructura no permitieron la adecuada implementación de la acción.",
+        "logros": "Durante este primer periodo no se evidencian logros concretos en la aplicación sistemática del método COPISI en el aula. El proceso se concentró principalmente en generar condiciones organizativas y pedagógicas para iniciar su implementación, identificándose dificultades de tiempo y disponibilidad de recursos.",
+        "acuerdos": "Ajustar los tiempos de implementación a la realidad del establecimiento y organizar acompañamientos al aula, considerando visitas por docente, una pauta de observación e indicadores vinculados con la práctica pedagógica priorizada."
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1781110981635": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se revisaron los objetivos de aprendizaje con los docentes de Matemática y se generaron espacios de intercambio sobre estrategias de enseñanza, metodologías y prácticas habituales. El análisis permitió reconocer la necesidad de avanzar desde una enseñanza centrada en la repetición hacia el desarrollo del razonamiento lógico-matemático.",
+        "acuerdos": "Complementar el análisis de resultados cuantitativos con información cualitativa, incorporando observaciones de aula, experiencias pedagógicas y evidencias de aprendizaje. Se acuerda triangular estos antecedentes para orientar decisiones pedagógicas pertinentes."
+      },
+      "action-1782159198885": {
+        "fecha": "2026-09-04",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance en la construcción de la ruta pedagógica basada en el método COPISI, a partir de las instancias de socialización y modelamiento desarrolladas con los docentes. Se reconoce una mayor comprensión de la importancia de articular el uso de material concreto, las representaciones pictóricas y la formalización simbólica, evitando que estos recursos se utilicen de manera aislada o como actividades sin una intencionalidad pedagógica definida. Asimismo, se fortalece la reflexión respecto de la necesidad de diseñar experiencias de aprendizaje que permitan a los estudiantes comprender el sentido de los procedimientos matemáticos, explicar sus estrategias y desarrollar progresivamente mayores niveles de autonomía.",
+        "acuerdos": "Se acuerda completar la ruta pedagógica y avanzar en la incorporación del método COPISI en las planificaciones de aula, definiendo actividades concretas para cada etapa del proceso de aprendizaje. Asimismo, se establece mantener el trabajo coordinado por la responsable de Matemática y generar espacios de revisión colaborativa para verificar la pertinencia de los recursos y las estrategias seleccionadas."
+      },
+      "action-1782159208541": {
+        "fecha": "2026-09-04",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se observa un avance en la preparación y desarrollo de las experiencias de aprendizaje basadas en el método COPISI, transitando desde una etapa inicial de organización hacia la incorporación progresiva de recursos concretos y pictóricos en las actividades matemáticas. Se reconoce como avance la disposición del equipo docente para explorar nuevas estrategias y modificar gradualmente las prácticas centradas en la repetición mecánica. Asimismo, las instancias de acompañamiento permiten comenzar a focalizar la observación en la mediación docente, particularmente en la forma en que se orienta a los estudiantes para comprender, representar y explicar los procedimientos utilizados.",
+        "acuerdos": "Se establece dar continuidad a las visitas de acompañamiento al aula, utilizando la pauta diseñada y priorizando la observación de la aplicación del método COPISI. Se acuerda entregar retroalimentación a los docentes, identificando fortalezas y aspectos que requieren ajuste, especialmente en la articulación entre las representaciones concretas, pictóricas y simbólicas. Asimismo, se compromete mantener la coordinación con la responsable de Matemática para resguardar la continuidad de las experiencias y resolver oportunamente las dificultades organizativas."
+      },
+      "action-1782159250284": {
+        "fecha": "2026-09-04",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se inicia la recopilación de evidencias asociadas al desarrollo de las experiencias de aprendizaje, identificándose la necesidad de incorporar evaluaciones formativas que permitan observar la comprensión de los procedimientos y el razonamiento matemático. Se reconoce como avance la instalación de una mirada evaluativa que busca trascender la revisión de respuestas correctas, incorporando la explicación de estrategias, la representación de procedimientos y la capacidad de los estudiantes para fundamentar sus soluciones. No obstante, las evidencias disponibles todavía corresponden a un proceso intermedio y no permiten establecer conclusiones definitivas sobre el impacto de la metodología.",
+        "acuerdos": "Se acuerda incorporar instrumentos de evaluación formativa y actividades de desempeño que permitan recoger información sobre la comprensión de los procedimientos matemáticos. Asimismo, se establece analizar las producciones de los estudiantes y utilizar estos antecedentes para retroalimentar las decisiones de enseñanza, realizando ajustes a las experiencias de aprendizaje antes de desarrollar la evaluación final."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1781110981635": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se revisaron los objetivos de aprendizaje con los docentes de Matemática y se generaron espacios de intercambio sobre estrategias de enseñanza, metodologías y prácticas habituales. El análisis permitió reconocer la necesidad de avanzar desde una enseñanza centrada en la repetición hacia el desarrollo del razonamiento lógico-matemático.",
+        "acuerdos": "Complementar el análisis de resultados cuantitativos con información cualitativa, incorporando observaciones de aula, experiencias pedagógicas y evidencias de aprendizaje. Se acuerda triangular estos antecedentes para orientar decisiones pedagógicas pertinentes."
+      },
+      "action-1782159198885": {
+        "fecha": "2026-10-23",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se reconoce un avance en la apropiación de los fundamentos del método COPISI por parte del equipo docente, especialmente en la comprensión de la importancia de articular la manipulación de material concreto con representaciones pictóricas y simbólicas. Las instancias de modelamiento y reflexión han permitido fortalecer el repertorio metodológico de los profesores y reconocer que la planificación debe considerar una progresión intencionada de las experiencias de aprendizaje, evitando reducir el uso de material concreto a una actividad complementaria. Se identifica, además, una mayor claridad respecto de la necesidad de diseñar tareas que permitan a los estudiantes explicar sus procedimientos, establecer relaciones y construir argumentos matemáticos.",
+        "acuerdos": "Se acuerda mantener y actualizar la ruta pedagógica COPISI, incorporando los ajustes derivados de las experiencias desarrolladas en aula y de la retroalimentación docente. Asimismo, se establece proyectar la continuidad del trabajo colaborativo para el siguiente año, asegurando la disponibilidad de recursos didácticos y la articulación de las estrategias con los Objetivos de Aprendizaje priorizados."
+      },
+      "action-1782159208541": {
+        "fecha": "2026-10-23",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia una mayor consolidación de la implementación de experiencias de aprendizaje basadas en el método COPISI, reconociéndose avances en la incorporación de recursos concretos y pictóricos como medios para favorecer la comprensión de los procedimientos matemáticos. Se destaca la importancia del acompañamiento y modelamiento pedagógico para orientar la mediación docente y fortalecer la intencionalidad de las actividades desarrolladas. Asimismo, se reconoce una progresiva apertura del equipo hacia estrategias que promueven la participación activa de los estudiantes, la exploración de distintas formas de resolución y la explicación de los procedimientos utilizados, avanzando hacia una enseñanza menos centrada en la repetición y más orientada a la construcción de aprendizajes con sentido.",
+        "acuerdos": "Se establece dar continuidad a las experiencias de aprendizaje basadas en COPISI, fortaleciendo el acompañamiento y la retroalimentación docente. Se acuerda mantener la observación de aula mediante indicadores vinculados con la comprensión de los procedimientos, el uso pertinente de representaciones y la participación de los estudiantes. Asimismo, se propone proyectar nuevas instancias de modelamiento y colaboración entre docentes para consolidar la metodología como una práctica habitual de enseñanza."
+      },
+      "action-1782159250284": {
+        "fecha": "2026-10-23",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se avanza en la evaluación del proceso de implementación mediante la recopilación y revisión de evidencias de aprendizaje, junto con espacios de reflexión pedagógica docente. Estas instancias permiten reconocer avances preliminares en la comprensión de los procedimientos matemáticos, el uso de distintas representaciones y la explicación de estrategias de resolución. Se identifica como aspecto relevante la necesidad de observar no solo la capacidad de los estudiantes para obtener resultados, sino también su comprensión de la lógica que sustenta dichos procedimientos. Si bien se dispone de antecedentes para orientar la toma de decisiones, aún se requiere completar el análisis de las evidencias y contrastar los resultados con la línea base diagnóstica para determinar el impacto de la estrategia.",
+        "acuerdos": "Se acuerda continuar recopilando y analizando evidencias de aprendizaje mediante evaluaciones formativas, actividades de desempeño y registros de observación de aula. Asimismo, se establece desarrollar una instancia de reflexión pedagógica con los docentes para identificar avances, dificultades y ajustes necesarios. La evaluación final deberá considerar el contraste entre los resultados diagnósticos y los aprendizajes alcanzados al término de la implementación, permitiendo determinar en qué medida el método COPISI ha contribuido a fortalecer la comprensión de los procedimientos y el razonamiento lógico-matemático."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-05T00:23:13.006Z"
+}
