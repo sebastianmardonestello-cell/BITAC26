@@ -1,0 +1,156 @@
+{
+  "asesor": "Gabriela Hernández",
+  "diagnostico": {
+    "practicaProblematica": "Las estrategias pedagógicas implementadas en el primer nivel de enseñanza básica, en las asignaturas de Lenguaje y Matemática, se centran predominantemente en el desarrollo de habilidades procedimentales y mecánicas. Esta orientación didáctica posterga la enseñanza de estrategias de comprensión profunda y razonamiento lógico, generando una base de aprendizaje debilitada que no logra articularse con la demanda cognitiva requerida en los niveles superiores (5° y 6° básico), lo que se refleja en la inestabilidad de los resultados institucionales.\n",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Enseñanza y aprendizaje en el aula",
+    "objetivoEstrategicoPME": "Perfeccionar políticas, procedimientos y prácticas de organización, preparación, implementación y evaluación del proceso educativo para la mejora en el logro de los aprendizajes de los/as estudiantes, considerando las necesidades y potencialidades de cada uno de ellos/as.",
+    "estrategiaAnualPME": "Consolidar las prácticas pedagógicas mediante acompañamiento docente, planificación colaborativa y evaluación formativa sistemática.",
+    "estandarIndicativo": "5.4 Los docentes monitorean el aprendizaje de sus estudiantes y les entregan retroalimentación constante durante las clases.",
+    "capacidadBasal": "Colaboración",
+    "estadoCapacidad": "Implementación emergente"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "Los docentes de 1° a 4° básico en Lenguaje y Matemática implementan estrategias pedagógicas articuladas que integran la alfabetización inicial con actividades de comprensión, interpretación y resolución de problemas, promoviendo la participación activa y el uso del conocimiento en contextos diversos, asegurando la progresión de habilidades y una trayectoria de aprendizaje coherente hacia los niveles superiores.\n\n",
+    "actions": [
+      {
+        "id": "action-1779716187229",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Analizar las prácticas pedagógicas en Lenguaje y Matemática de 1° a 4° básico mediante observación de clases, revisión de planificaciones y análisis de evaluaciones internas y resultados SIMCE de 4° y 6° básico, para identificar la predominancia de actividades centradas en la ejercitación mecánica y su impacto en el desarrollo de habilidades de comprensión, interpretación y resolución de problemas.",
+        "responsables": "JEFA DE UTP",
+        "fechas": "ABRIL",
+        "instrumentos": "Presentación con resultados"
+      },
+      {
+        "id": "action-1779716407585",
+        "tipoAccion": "Consejo de Profesores/Jornada de Reflexión",
+        "descripcion": "Diseñar colaborativamente secuencias de enseñanza en Lenguaje y Matemática para 1° - 4° básico  (plan) que integren la alfabetización inicial con actividades de comprensión, interpretación y resolución de problemas, alineando objetivos de aprendizaje, estrategias didácticas y evaluación, y articulándolas con las habilidades requeridas en 5° y 6° básico.",
+        "responsables": "Coordinación pedagógica ",
+        "fechas": "Mayo",
+        "instrumentos": "PLAN ESTRATEGIAS PEDAGOGICAS FORTALECIMIENTO DE HABILIDADES "
+      },
+      {
+        "id": "action-1779717184710",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Implementar en aula las secuencias de enseñanza diseñadas de 1° y 4° básico, promoviendo la participación activa de los estudiantes a través de actividades de comprensión lectora, interpretación de información y resolución de problemas en contextos significativos, incorporando acompañamiento docente y retroalimentación pedagógica.",
+        "responsables": "Coordinación pedagógica ",
+        "fechas": "ABRIL-OCTUBRE",
+        "instrumentos": "Actas de acompañamiento y retroalimentación"
+      },
+      {
+        "id": "action-1779717419356",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Evaluar el impacto de las estrategias implementadas mediante el análisis de resultados de evaluaciones internas, ensayos SIMCE, avances en velocidad y dominio lector, y reflexión pedagógica docente, para determinar el desarrollo de habilidades de comprensión, interpretación y resolución de problemas y su proyección hacia 5° y 6° básico.",
+        "responsables": "Coordinación pedagógica ",
+        "fechas": "Noviembre",
+        "instrumentos": "Actas y material usado"
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779716187229": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se completa el análisis de las prácticas pedagógicas de Lenguaje y Matemática de 1° a 4° básico, identificando necesidades de fortalecimiento en comprensión, interpretación y resolución de problemas, y promoviendo la reflexión y colaboración docente.",
+        "acuerdos": "Compartir los resultados de cobertura curricular de la plataforma Mi Aula para complementar el diagnóstico y orientar las decisiones pedagógicas."
+      },
+      "action-1779716407585": {
+        "fecha": "2026-07-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 49% de avance en el diseño colaborativo de secuencias de enseñanza, iniciando la sistematización de estrategias y la diversificación de las experiencias de aprendizaje.",
+        "acuerdos": "Rediseñar la pauta de acompañamiento al aula e iniciar las visitas de observación para monitorear las estrategias pedagógicas."
+      },
+      "action-1779717184710": {
+        "fecha": "2026-07-21",
+        "avance": 24,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se registra un 24% de avance en la implementación de las experiencias de aprendizaje. Durante este periodo se establecen lineamientos iniciales para el desarrollo de las habilidades focalizadas en el problema de práctica, orientando el trabajo docente hacia el fortalecimiento de la comprensión lectora y la resolución de problemas. Se reconoce como avance la definición de criterios para organizar las experiencias pedagógicas y la necesidad de fortalecer el acompañamiento al aula como mecanismo de seguimiento y retroalimentación de las prácticas docentes.",
+        "acuerdos": "Se establece elaborar y compartir la calendarización oficial de los acompañamientos al aula, definiendo fechas y responsables para realizar las visitas y recoger evidencias de la implementación de las estrategias pedagógicas."
+      },
+      "action-1779717419356": {
+        "fecha": "2026-07-21",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se esta trabajando en la elaboración y sistematización de los insumos verificadores que permita dar cuenta del avance de ciclo.",
+        "acuerdos": "Tomar evaluacion DIA INTERMEDIA y realizar analisis comparativo con el INICIAL"
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1779716187229": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se completa el análisis de las prácticas pedagógicas de Lenguaje y Matemática de 1° a 4° básico, identificando necesidades de fortalecimiento en comprensión, interpretación y resolución de problemas, y promoviendo la reflexión y colaboración docente.",
+        "acuerdos": "Compartir los resultados de cobertura curricular de la plataforma Mi Aula para complementar el diagnóstico y orientar las decisiones pedagógicas."
+      },
+      "action-1779716407585": {
+        "fecha": "2026-09-08",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 100% de avance en el proceso de diseño colaborativo de secuencias de enseñanza para las asignaturas de Lenguaje y Matemática, orientadas a fortalecer la comprensión, la interpretación y la resolución de problemas desde los primeros niveles de enseñanza básica. Este proceso representa un avance relevante en la transición desde prácticas pedagógicas centradas predominantemente en la ejercitación y reproducción de procedimientos hacia propuestas didácticas que promuevan una participación cognitiva más activa de los estudiantes y una mayor comprensión de los aprendizajes.\n\nLa relevancia de este avance radica en la posibilidad de organizar la enseñanza desde una perspectiva de progresión de habilidades, superando la fragmentación de los objetivos y actividades por nivel. En este sentido, el diseño de secuencias busca establecer una mayor coherencia entre los Objetivos de Aprendizaje, las estrategias metodológicas y los procedimientos de evaluación, procurando que las experiencias desarrolladas entre 1° y 4° básico constituyan una base articulada para enfrentar las demandas cognitivas de 5° y 6° básico.\n\nEn Lenguaje, esta orientación implica fortalecer experiencias que trasciendan la decodificación y la identificación explícita de información, incorporando progresivamente procesos de comprensión, interpretación, establecimiento de relaciones e inferencias. En Matemática, supone avanzar desde la aplicación mecánica de algoritmos hacia situaciones que exijan comprender información, seleccionar procedimientos, establecer relaciones, argumentar y resolver problemas en contextos significativos.\n\nAsimismo, el proceso permite relevar la importancia de la colaboración docente como una condición para el mejoramiento de las prácticas pedagógicas, dado que la planificación compartida favorece la construcción de criterios comunes respecto de qué habilidades enseñar, cómo desarrollarlas y qué evidencias permitirán reconocer su adquisición. De esta manera, el diseño colaborativo no se limita a la elaboración de actividades, sino que constituye una oportunidad para fortalecer la coherencia curricular, la intencionalidad didáctica y la continuidad de los aprendizajes a lo largo del primer ciclo básico.",
+        "acuerdos": "Se acuerda rediseñar la pauta de acompañamiento al aula, incorporando criterios e indicadores específicos que permitan observar la implementación efectiva de las secuencias didácticas diseñadas y el desarrollo progresivo de las habilidades priorizadas en Lenguaje y Matemática. El instrumento deberá superar una observación centrada exclusivamente en aspectos generales de la clase y avanzar hacia el análisis de las oportunidades de aprendizaje que el docente genera para que los estudiantes comprendan, interpreten, establezcan relaciones, argumenten y resuelvan problemas.\n\nSe establece que la pauta considere, entre otros aspectos, la coherencia entre el objetivo de aprendizaje y las actividades propuestas; la presencia de preguntas y tareas que movilicen habilidades de orden superior; la utilización de estrategias de mediación y modelamiento docente; la participación activa de los estudiantes; la contextualización de los aprendizajes; y la incorporación de instancias de evaluación formativa que permitan recoger evidencias durante el proceso de enseñanza. Asimismo, se deberá observar si las actividades propuestas presentan distintos niveles de complejidad y ofrecen oportunidades diferenciadas para responder a las necesidades y ritmos de aprendizaje de los estudiantes.\n\nSe propone avanzar en la utilización de herramientas digitales que faciliten el registro, la organización y la sistematización de las observaciones de aula, permitiendo identificar regularidades, fortalezas y aspectos que requieren fortalecimiento en las prácticas docentes. Esta información deberá constituirse en un insumo para desarrollar procesos de retroalimentación pedagógica basados en evidencias, orientados a la reflexión profesional y a la toma de decisiones sobre los ajustes necesarios en las secuencias de enseñanza.\n\nFinalmente, se acuerda utilizar los resultados del acompañamiento para verificar la correspondencia entre lo planificado y lo efectivamente implementado, identificando si las experiencias de aprendizaje están favoreciendo el desarrollo de las habilidades priorizadas y su progresión entre niveles. Se espera que este proceso contribuya a consolidar una cultura de planificación, observación y reflexión colaborativa, en la que el acompañamiento al aula se transforme en una estrategia sistemática para fortalecer la enseñanza y asegurar una trayectoria de aprendizaje más coherente hacia 5° y 6° básico."
+      },
+      "action-1779717184710": {
+        "fecha": "2026-09-08",
+        "avance": 0,
+        "justificacion": "",
+        "logros": "Se consolida el proceso de análisis de las prácticas pedagógicas y se alcanza el 100% de ejecución en el diseño colaborativo de las secuencias de enseñanza para Lenguaje y Matemática de 1° a 4° básico. Este avance representa un paso importante en la organización de una propuesta pedagógica articulada, que busca integrar la alfabetización inicial con actividades de comprensión, interpretación y resolución de problemas, estableciendo una mayor coherencia entre los objetivos de aprendizaje, las estrategias didácticas y la evaluación. Asimismo, se evidencia la necesidad de fortalecer los instrumentos utilizados para el acompañamiento docente, de manera que permitan observar con mayor precisión la progresión de las habilidades priorizadas.",
+        "acuerdos": "Se establece rediseñar la pauta de acompañamiento al aula, incorporando criterios que permitan observar la implementación de las secuencias didácticas y el desarrollo de las habilidades focalizadas. Se propone avanzar en la utilización de herramientas digitales y plataformas de apoyo para facilitar el registro, seguimiento y sistematización de las observaciones pedagógicas, favoreciendo la retroalimentación y la toma de decisiones del equipo técnico y docente."
+      },
+      "action-1779717419356": {
+        "fecha": "2026-09-08",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance inicial en la organización del proceso de evaluación de las estrategias pedagógicas implementadas, mediante la preparación y sistematización de insumos que permitan analizar la progresión de los aprendizajes en Lenguaje y Matemática. Este trabajo busca transitar desde una revisión centrada en los resultados generales hacia un análisis más profundo de las habilidades que los estudiantes están desarrollando, particularmente en comprensión lectora, interpretación de información y resolución de problemas. Se releva la importancia de considerar distintas fuentes de evidencia —evaluaciones internas, resultados de aprendizaje, avances en velocidad y dominio lector, y registros del proceso pedagógico— para identificar progresos, dificultades y brechas persistentes. Asimismo, se reconoce que la evaluación debe constituirse en una instancia de reflexión profesional que permita a los docentes analizar la efectividad de las estrategias utilizadas, identificar qué aprendizajes requieren mayor apoyo y ajustar oportunamente las experiencias de enseñanza. De esta manera, se comienza a instalar una mirada evaluativa orientada no solo a verificar resultados, sino también a comprender los procesos de aprendizaje y proyectar la continuidad de las habilidades hacia 5° y 6° básico.",
+        "acuerdos": "Se acuerda aplicar la evaluación intermedia del Diagnóstico Integral de Aprendizajes (DIA) y desarrollar un análisis comparativo con los resultados del diagnóstico inicial, identificando avances y brechas en las habilidades priorizadas de Lenguaje y Matemática. Este análisis deberá complementarse con la revisión de evaluaciones internas, ensayos SIMCE, registros de velocidad y dominio lector, producciones de los estudiantes y evidencias recogidas durante el acompañamiento al aula. Asimismo, se establece sistematizar los resultados en un instrumento compartido que permita a los docentes reconocer los aprendizajes efectivamente alcanzados, identificar a los estudiantes que requieren mayores apoyos y determinar los ajustes necesarios en las secuencias didácticas. Se acuerda que los resultados de este proceso sean analizados colaborativamente por los equipos docentes y técnico-pedagógicos, de modo que la información evaluativa se traduzca en decisiones concretas de planificación, diversificación de estrategias y retroalimentación formativa. Finalmente, se proyecta utilizar estos antecedentes para valorar la efectividad de las acciones implementadas y establecer orientaciones de continuidad que favorezcan la progresión de los aprendizajes y la articulación pedagógica con 5° y 6° básico."
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1779716187229": {
+        "fecha": "2026-07-21",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se completa el análisis de las prácticas pedagógicas de Lenguaje y Matemática de 1° a 4° básico, identificando necesidades de fortalecimiento en comprensión, interpretación y resolución de problemas, y promoviendo la reflexión y colaboración docente.",
+        "acuerdos": "Compartir los resultados de cobertura curricular de la plataforma Mi Aula para complementar el diagnóstico y orientar las decisiones pedagógicas."
+      },
+      "action-1779716407585": {
+        "fecha": "2026-09-08",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se alcanza un 100% de avance en el proceso de diseño colaborativo de secuencias de enseñanza para las asignaturas de Lenguaje y Matemática, orientadas a fortalecer la comprensión, la interpretación y la resolución de problemas desde los primeros niveles de enseñanza básica. Este proceso representa un avance relevante en la transición desde prácticas pedagógicas centradas predominantemente en la ejercitación y reproducción de procedimientos hacia propuestas didácticas que promuevan una participación cognitiva más activa de los estudiantes y una mayor comprensión de los aprendizajes.\n\nLa relevancia de este avance radica en la posibilidad de organizar la enseñanza desde una perspectiva de progresión de habilidades, superando la fragmentación de los objetivos y actividades por nivel. En este sentido, el diseño de secuencias busca establecer una mayor coherencia entre los Objetivos de Aprendizaje, las estrategias metodológicas y los procedimientos de evaluación, procurando que las experiencias desarrolladas entre 1° y 4° básico constituyan una base articulada para enfrentar las demandas cognitivas de 5° y 6° básico.\n\nEn Lenguaje, esta orientación implica fortalecer experiencias que trasciendan la decodificación y la identificación explícita de información, incorporando progresivamente procesos de comprensión, interpretación, establecimiento de relaciones e inferencias. En Matemática, supone avanzar desde la aplicación mecánica de algoritmos hacia situaciones que exijan comprender información, seleccionar procedimientos, establecer relaciones, argumentar y resolver problemas en contextos significativos.\n\nAsimismo, el proceso permite relevar la importancia de la colaboración docente como una condición para el mejoramiento de las prácticas pedagógicas, dado que la planificación compartida favorece la construcción de criterios comunes respecto de qué habilidades enseñar, cómo desarrollarlas y qué evidencias permitirán reconocer su adquisición. De esta manera, el diseño colaborativo no se limita a la elaboración de actividades, sino que constituye una oportunidad para fortalecer la coherencia curricular, la intencionalidad didáctica y la continuidad de los aprendizajes a lo largo del primer ciclo básico.",
+        "acuerdos": "Se acuerda rediseñar la pauta de acompañamiento al aula, incorporando criterios e indicadores específicos que permitan observar la implementación efectiva de las secuencias didácticas diseñadas y el desarrollo progresivo de las habilidades priorizadas en Lenguaje y Matemática. El instrumento deberá superar una observación centrada exclusivamente en aspectos generales de la clase y avanzar hacia el análisis de las oportunidades de aprendizaje que el docente genera para que los estudiantes comprendan, interpreten, establezcan relaciones, argumenten y resuelvan problemas.\n\nSe establece que la pauta considere, entre otros aspectos, la coherencia entre el objetivo de aprendizaje y las actividades propuestas; la presencia de preguntas y tareas que movilicen habilidades de orden superior; la utilización de estrategias de mediación y modelamiento docente; la participación activa de los estudiantes; la contextualización de los aprendizajes; y la incorporación de instancias de evaluación formativa que permitan recoger evidencias durante el proceso de enseñanza. Asimismo, se deberá observar si las actividades propuestas presentan distintos niveles de complejidad y ofrecen oportunidades diferenciadas para responder a las necesidades y ritmos de aprendizaje de los estudiantes.\n\nSe propone avanzar en la utilización de herramientas digitales que faciliten el registro, la organización y la sistematización de las observaciones de aula, permitiendo identificar regularidades, fortalezas y aspectos que requieren fortalecimiento en las prácticas docentes. Esta información deberá constituirse en un insumo para desarrollar procesos de retroalimentación pedagógica basados en evidencias, orientados a la reflexión profesional y a la toma de decisiones sobre los ajustes necesarios en las secuencias de enseñanza.\n\nFinalmente, se acuerda utilizar los resultados del acompañamiento para verificar la correspondencia entre lo planificado y lo efectivamente implementado, identificando si las experiencias de aprendizaje están favoreciendo el desarrollo de las habilidades priorizadas y su progresión entre niveles. Se espera que este proceso contribuya a consolidar una cultura de planificación, observación y reflexión colaborativa, en la que el acompañamiento al aula se transforme en una estrategia sistemática para fortalecer la enseñanza y asegurar una trayectoria de aprendizaje más coherente hacia 5° y 6° básico."
+      },
+      "action-1779717184710": {
+        "fecha": "2026-10-27",
+        "avance": 99,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se evidencia un avance significativo en la etapa de implementación, con un 100% de ejecución en las acciones de análisis de prácticas pedagógicas y diseño colaborativo de secuencias de enseñanza, mientras que la implementación en aula alcanza un 99% de avance. Se reconoce la continuidad del trabajo pedagógico orientado al fortalecimiento de las habilidades de comprensión lectora, interpretación de información y resolución de problemas en los niveles priorizados. Asimismo, se observa un avance en la organización del acompañamiento docente y en la preparación de insumos para evaluar la progresión de los aprendizajes del ciclo. En relación con la etapa evaluativa, se encuentra pendiente la aplicación y sistematización de instrumentos que permitan determinar el impacto de las estrategias implementadas.",
+        "acuerdos": "Se establece completar el acompañamiento pendiente en Matemática, correspondiente al nivel de 4° básico, y avanzar en la aplicación de la evaluación PUC como insumo para analizar los aprendizajes alcanzados. Asimismo, se acuerda aplicar la evaluación DIA intermedia y desarrollar un análisis comparativo con los resultados del diagnóstico inicial, complementando esta información con los registros de cobertura curricular y los medios de verificación del proceso. Esto permitirá identificar avances en las habilidades priorizadas y orientar las decisiones pedagógicas para la continuidad del ciclo de mejora. Falta 1 acompañamiento"
+      },
+      "action-1779717419356": {
+        "fecha": "2026-10-27",
+        "avance": 49,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se avanza en la preparación del proceso evaluativo, identificándose la aplicación de la evaluación PUC como un insumo complementario para analizar los aprendizajes alcanzados. Aún no se cuenta con resultados finales que permitan determinar el impacto de las estrategias implementadas.",
+        "acuerdos": "Aplicar la evaluación PUC y sistematizar sus resultados, contrastándolos con los antecedentes diagnósticos y las evidencias de aprendizaje recopiladas durante la implementación, para determinar los avances en comprensión lectora y resolución de problemas."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "",
+    "estadoFinalCapacidadBasal": "",
+    "fortalezas": "",
+    "oportunidades": "",
+    "debilidades": "",
+    "amenazas": ""
+  },
+  "lastModified": "2026-11-05T01:03:04.695Z"
+}
