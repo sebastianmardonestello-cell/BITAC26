@@ -1,0 +1,156 @@
+{
+  "asesor": "Sylvia Farias",
+  "diagnostico": {
+    "practicaProblematica": "El equipo directivo y de gestión implementan lineamientos incipientes y poco efectivos para el desarrollo de las habilidades de comprensión lectora  en 3, 4 y 6 básico, debilitando el desarrollo de habilidades de lectura y comprensión en los estudiantes  y afectando la articulación pedagógica con los demás niveles educativos.",
+    "dimensionPME": "Gestión Pedagógica",
+    "subdimensionPME": "Gestión Curricular",
+    "objetivoEstrategicoPME": "Fortalecer el acompañamiento docente para mejorar las interacciones pedagógicas y el desarrollo de capacidades y competencias mediante la generación de espacios de análisis y discusión para la mejora de los resultados académicos.\n",
+    "estrategiaAnualPME": "Plan de acompañamiento docente orientado a favorecer el análisis y la discusión de las interacciones pedagógicas que promuevan la mejora de los resultados de aprendizaje. \n",
+    "estandarIndicativo": "4.2 El director y el equipo técnico-pedagógico acuerdan con los docentes lineamientos pedagógicos comunes para la implementación efectiva del currículum.",
+    "capacidadBasal": "Distribución de liderazgo",
+    "estadoCapacidad": "Exploración"
+  },
+  "planificacion": {
+    "accionPMEVinculada": "4. Fortalecimiento de la comprensión lectora y el pensamiento lógico-matemático, e instalar el principio del juego para gestionar pedagógicamente con calidad desde un enfoque de aprendizaje profundo.",
+    "practicaDeseada": "El equipo directivo y de gestión implementan lineamientos sistemáticamente para el desarrollo de habilidades de comprensión lectora en 3,4 y 6 básico, promoviendo el desarrollo de habilidades en la asignatura. ",
+    "actions": [
+      {
+        "id": "action-1779977326382",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "La jornada permitirá mostrar los datos (dominio lector, evaluación DIA diagnostica, primer ensayo SIMCE, entre otras  para generar espacios de discusión para la mejora de resultados. Se planteará que las estrategias utilizadas son poco diversificadas y efectivas en el desarrollo de las clases,  evaluar las interacciones pedagógicas en la sala que promueven la lectura comprensiva. ",
+        "responsables": "Director-UTP",
+        "fechas": "Julio",
+        "instrumentos": "Presentación-acta con acuerdos"
+      },
+      {
+        "id": "action-1780059607928",
+        "tipoAccion": "Taller",
+        "descripcion": "Se realiza un taller teórico práctico sobre estrategias didácticas para la comprensión lectora en el aula. ",
+        "responsables": "UTP-Coordinadora PIE",
+        "fechas": "Agosto",
+        "instrumentos": "Material para el taller "
+      },
+      {
+        "id": "action-1780059903474",
+        "tipoAccion": "Retroalimentación a la labor docente (Acompañamiento)",
+        "descripcion": "Se acompaña a los docentes en la planificación, implementación en el aula y evaluación para observar si las estrategias modeladas en el taller, están siendo implementadas en el aula. ",
+        "responsables": "Equipo directivo- asesora pedagógica ",
+        "fechas": "Agosto a Octubre ",
+        "instrumentos": "Plataforma enfoque docente"
+      },
+      {
+        "id": "action-1780060188504",
+        "tipoAccion": "Jornada (Análisis y/o Evaluación de proceso)",
+        "descripcion": "Se realiza esta jornada junto a los docentes para evaluar fortalezas y oportunidades de mejora y proyectar el trabajo para el próximo año. Se evalúa de manera cuantitativa y cualitativa para  ver la efectividad de la estrategia en el contexto del curso. ",
+        "responsables": "Equipo directivo",
+        "fechas": "Noviembre ",
+        "instrumentos": "Evaluaciones finales- evidencias del trabajo. "
+      }
+    ]
+  },
+  "implementacion1": {
+    "actions": {
+      "action-1779977326382": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se socializa con los docentes resultados DIA, velocidad lectora y el primer  ensayo SIMCE,   se identifica que la transicion de 4 a 5 básico, los estudiantes no identifican el tipo de texto que utilizan, fatiga lectora en 6 básico por no tener el hàbito, no comprenden enunciados escritos. Hay una comprensión lectora pero literal, es parte del diagnóstico realizado junto a los docentes, estos realizaron uso de dato. Los docentes lograron identificar este diagnóstico y las oportunidades de mejora en lectura y habilidades a trabajar. ",
+        "acuerdos": "Los docentes acuerdan técnicas de trabajo para las lecturas como: subrayar, destacar verbos de acción, datos claves y evidencia, trabajar vocabulario a partir de las lecturas propuestas, escalera de metacognición: Localizar, Interpretar y Reflexionar, lo deben desarrollar todos los docentes de lenguaje. Los docentes deben modelar el pensamiento para resolver la pregunta: leer la pregunta, imaginar como responder, dar posibles respuestas y evidenciar un error para su corrección. Enseñar  a leer comprensivamente. "
+      },
+      "action-1780059607928": {
+        "fecha": "2026-09-08",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Este taller se desarrollo el 1 de Octubre , los docentes de lenguaje y PIE del establecimiento realizan taller sobre predicción de la codificación y decodificación para la comprensión lectora, en articulación con PIE cuyo objetivo es modelar estrategias para el trabajo con los estudiantes. ",
+        "acuerdos": "Se realizarà un segunda taller  pendiente el 22 de Octubre, donde se abordarà herramientas concretas para fomentar la comprensiòn lectora. En el primer taller quedo como acuerdo realizar actividades que promuevan vocabulaio y uso de predictores de la lectura. Como acuerdo del primer taller se estableciò que se transversaliza las estrategias para todas las asignaturas. "
+      },
+      "action-1780059903474": {
+        "fecha": "2026-10-07",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se acompañan a los docentes en el aula utilizando la dimensión de enfoque docente: pensamiento de orden superior, se observan profesores de 3º y  5 bàsico, la profesora de 5 bàsico modela el tipo de pregunta, intenciona  vocabulario y modela el pensamiento como ejemplo para los estudiantes, la profesora de 6 bàsico se enfoca a que los mismos estudiantes logren definir una palabra nueva e integrarla a un contexto, la profesora emplea juegos en el aula promoviendo la motivaciòn y participaciòn, la profesora de 3 bàsico despeja el espacio de aprendizaje y redefine su rutina de trabajo en el aula. en 5 y 6 se observa en la planificacion, cambios en la seleccion y uso de recursos utilizados en el aula para promover las estrategias de comprensiòn. ",
+        "acuerdos": "La enseñanza debe ser centrada en los estudiantes y no en el docente, promover el trabajo colaborativo entre estudiantes para fortalecer las estrategias de lectura y comprensiòn lectora. En el aula regular no se observa una codocencia, sino que la educadora diferencial tiene un rol menos protagònico en el apoyo del trabajo de estas estrategias. "
+      },
+      "action-1780060188504": {
+        "fecha": "2026-10-20",
+        "avance": 0,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion2": {
+    "actions": {
+      "action-1779977326382": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se socializa con los docentes resultados DIA, velocidad lectora y el primer  ensayo SIMCE,   se identifica que la transicion de 4 a 5 básico, los estudiantes no identifican el tipo de texto que utilizan, fatiga lectora en 6 básico por no tener el hàbito, no comprenden enunciados escritos. Hay una comprensión lectora pero literal, es parte del diagnóstico realizado junto a los docentes, estos realizaron uso de dato. Los docentes lograron identificar este diagnóstico y las oportunidades de mejora en lectura y habilidades a trabajar. ",
+        "acuerdos": "Los docentes acuerdan técnicas de trabajo para las lecturas como: subrayar, destacar verbos de acción, datos claves y evidencia, trabajar vocabulario a partir de las lecturas propuestas, escalera de metacognición: Localizar, Interpretar y Reflexionar, lo deben desarrollar todos los docentes de lenguaje. Los docentes deben modelar el pensamiento para resolver la pregunta: leer la pregunta, imaginar como responder, dar posibles respuestas y evidenciar un error para su corrección. Enseñar  a leer comprensivamente. "
+      },
+      "action-1780059607928": {
+        "fecha": "2026-09-08",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Este taller se desarrollo el 1 de Octubre , los docentes de lenguaje y PIE del establecimiento realizan taller sobre predicción de la codificación y decodificación para la comprensión lectora, en articulación con PIE cuyo objetivo es modelar estrategias para el trabajo con los estudiantes. ",
+        "acuerdos": "Se realizarà un segunda taller  pendiente el 22 de Octubre, donde se abordarà herramientas concretas para fomentar la comprensiòn lectora. En el primer taller quedo como acuerdo realizar actividades que promuevan vocabulaio y uso de predictores de la lectura. Como acuerdo del primer taller se estableciò que se transversaliza las estrategias para todas las asignaturas. "
+      },
+      "action-1780059903474": {
+        "fecha": "2026-10-07",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se acompañan a los docentes en el aula utilizando la dimensión de enfoque docente: pensamiento de orden superior, se observan profesores de 3º y  5 bàsico, la profesora de 5 bàsico modela el tipo de pregunta, intenciona  vocabulario y modela el pensamiento como ejemplo para los estudiantes, la profesora de 6 bàsico se enfoca a que los mismos estudiantes logren definir una palabra nueva e integrarla a un contexto, la profesora emplea juegos en el aula promoviendo la motivaciòn y participaciòn, la profesora de 3 bàsico despeja el espacio de aprendizaje y redefine su rutina de trabajo en el aula. en 5 y 6 se observa en la planificacion, cambios en la seleccion y uso de recursos utilizados en el aula para promover las estrategias de comprensiòn. ",
+        "acuerdos": "La enseñanza debe ser centrada en los estudiantes y no en el docente, promover el trabajo colaborativo entre estudiantes para fortalecer las estrategias de lectura y comprensiòn lectora. En el aula regular no se observa una codocencia, sino que la educadora diferencial tiene un rol menos protagònico en el apoyo del trabajo de estas estrategias. "
+      },
+      "action-1780060188504": {
+        "fecha": "2026-10-20",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Esta jornada esta calendarizada para realizarse el 4 de noviembre, donde jornada junto a los docentes para evaluar fortalezas y oportunidades de mejora y proyectar el trabajo para el próximo año. Se evalúa de manera cuantitativa y cualitativa para ver la efectividad de la estrategia en el contexto del curso. ",
+        "acuerdos": ""
+      }
+    }
+  },
+  "implementacion3": {
+    "actions": {
+      "action-1779977326382": {
+        "fecha": "2026-06-10",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se socializan e interpretan colaborativamente los datos de evaluación DIA, velocidad lectora y ensayo SIMCE junto al cuerpo docente. A través del análisis de datos, se identifican las principales brechas de aprendizaje: dificultades en la identificación de tipologías textuales en la transición de 4.° a 5.° básico, fatiga lectora por falta de hábito en 6° básico, y un predominio de la comprensión a nivel literal con dificultades en la interpretación de consignas escritas. La jornada permite que los docentes apropien el diagnóstico e identifiquen oportunidades concretas de mejora en el desarrollo de habilidades lectoras.",
+        "acuerdos": "Estrategias comunes de lectura: Explicitar y universalizar en la asignatura de Lenguaje el uso de técnicas como el subrayado, el destacado de verbos de acción, la identificación de datos clave/evidencia y la enseñanza explícita de vocabulario.\nEscalera metacognitiva: Estructurar el proceso formativo en las tres dimensiones: Localizar, Interpretar y Reflexionar.\nModelamiento del pensamiento: Demostrar en aula el procedimiento explícito para abordar y resolver preguntas (lectura articulada, formulación de hipótesis de respuesta, análisis de opciones y corrección guiada de errores)."
+      },
+      "action-1780059607928": {
+        "fecha": "2026-09-08",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se ejecutan dos talleres formativos teórico-prácticos. En el primer taller, dictado por docentes de la escuela en articulación con el equipo PIE, se abordan predictores de la lectura, conciencia fonológica, rutinas de vocabulario, consignas y automaticidad lectora. En el segundo taller, dictado por la Universidad Central en el marco del convenio SLEP, se capacita al equipo docente en estrategias de anticipación y focalización lectora. Se constata (a través del acompañamiento al aula) la transferencia pedagógica al aula, evidenciando que los docentes incorporan progresivamente al menos una de las estrategias modeladas en sus prácticas didácticas.",
+        "acuerdos": "Aplicar y diversificar las estrategias de comprensión lectora e incremento de vocabulario en todas las asignaturas del currículum. \nImplementar aula a aula al menos una estrategia formativa (anticipación o focalización) en el periodo comprendido entre octubre y noviembre.\nEl Equipo Directivo resguardará las condiciones institucionales para la participación docente en las instancias formativas del SLEP , exigiendo y acompañando la transferencia efectiva al aula regular.\nProyectar la continuidad y el seguimiento de estos acuerdos pedagógicos en el plan de acompañamiento para el año escolar 2027.\n"
+      },
+      "action-1780059903474": {
+        "fecha": "2026-10-07",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realizan visitas de acompañamiento en aula a docentes de 3°, 5° y 6° básico centradas en el desarrollo del pensamiento de orden superior (Enfoque docente). Se observan avances significativos: modelamiento de preguntas y pensamiento explícito en 5° básico; promoción del vocabulario contextualizado, autonomía de los estudiantes y uso de estrategias lúdicas en 6° básico; y reorganización del ambiente de aprendizaje en 3° básico. Asimismo, se evidencia una selección intencionada de recursos didácticos y apoyos visuales/multimedia adaptados para potenciar la comprensión lectora.",
+        "acuerdos": "Migrar desde un enfoque de enseñanza centrado en el docente hacia metodologías activas y trabajo colaborativo entre pares para potenciar la comprensión lectora. Reorientar el rol del profesional PIE dentro del aula regular hacia una co-docencia efectiva y protagónica en el modelamiento de estrategias de lectura. Instaurar observaciones de aula colaborativas y retroalimentaciones constructivas entre docentes para consolidar las buenas prácticas e intercambiar experiencias pedagógicas."
+      },
+      "action-1780060188504": {
+        "fecha": "2026-10-20",
+        "avance": 100,
+        "justificacion": "El nivel de ejecución está dentro del curso adecuado en relación con las fechas programadas.",
+        "logros": "Se realiza la jornada de evaluación final con la participación activa del equipo docente, valorando el proceso pedagógico desarrollado durante el año. El cuerpo docente reconoce la efectividad de los espacios técnicos resguardados para el análisis de datos de Lenguaje, la reflexión metodológica y el abordaje de las necesidades del nivel. Asimismo, se realiza un balance crítico respecto a las limitaciones de tiempo y a los desfases en los tiempos de implementación de los alineamientos, como los talleres. ",
+        "acuerdos": "Calendarizar e iniciar los talleres formativos y acompañamientos en comprensión lectora tempranamente entre marzo y abril de 2027 para garantizar su sostenibilidad durante todo el año escolar.Fortalecer las jornadas de reflexión entre docentes de Lenguaje como un espacio permanente para la toma de decisiones basada en datos y el intercambio de prácticas exitosas."
+      }
+    }
+  },
+  "evaluacion": {
+    "estadoFinalPracticaDeseada": "Parcialmente",
+    "estadoFinalCapacidadBasal": "Exploración",
+    "fortalezas": "Acompañamiento al aula que puede generar nuevos aprendizajes. Trabajo con la asignatura para facilitar capacitaciones con nivel central o local. El Equipo Directivo comparte visión y cultura escolar para liderar en todas las áreas de la escuela independiente del rol, El acompañamiento al aula, interacciones, apoderados (integral) ha permitido visualizar las necesidades del EE y tomar decisiones informadas, El equipo directivo realiza uso de dato para toma de decisiones, apoyado de plataformas. Socializa con docentes la información recabada. \t\t\n\t\t\t\t\n",
+    "oportunidades": "Continuar y ampliar las estrategias en todas las clases. Los mismos docentes solicitan Intercambio de experiencias entre docentes. Continúan sistematizando los lineamientos mediante acompañamiento para mejorar los resultados de aprendizaje, potenciando la autonomía profesional del docente. Generar espacios de capacitación desde las instancias del SLEP y Colaboradores Externos.  ",
+    "debilidades": "Implementación no sistemática en todas las clases. Las capacitaciones fueron tardías, lo que generó un retraso en el desarrollo de estrategias, incluyendo el desgaste del capital humano al finalizar el año. Se requiere que implementen estrategias que promuevan comprensión lectora, participación y argumentación de los estudiantes para el logro de los aprendizaje y movilidad de los niveles de logro.",
+    "amenazas": "Ausencias y licencias de docentes que interrumpen el trabajo. Alta carga de reemplazos. Resultados de comprensión lectora bajos en el diagnóstico, que exigen sostener el trabajo en el tiempo."
+  },
+  "lastModified": "2026-11-11T01:43:16.179Z"
+}
